@@ -1,0 +1,622 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kalshi · Temperature Markets</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg:#ffffff; --bg2:#fafafa; --border:#e0e0e0;
+  --border-dark:#1a1a1a; --text:#1a1a1a; --muted:#888;
+  --muted2:#bbb; --accent:#e8341c; --green:#16a34a;
+  --red:#dc2626; --amber:#d97706; --tag-bg:#f2f2f2;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{font-size:14px}
+body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-height:100vh}
+
+/* ── nav ── */
+.topbar{
+  border-bottom:1px solid var(--border-dark);
+  padding:0 40px; height:52px;
+  display:flex; align-items:center; justify-content:space-between;
+  position:sticky; top:0; z-index:100; background:var(--bg);
+}
+.brand{font-family:'Bebas Neue',sans-serif;font-size:22px;letter-spacing:1px}
+.brand em{color:var(--accent);font-style:normal}
+.topbar-right{display:flex;align-items:center;gap:14px}
+.status-pill{
+  display:flex;align-items:center;gap:6px;
+  border:1px solid var(--border);padding:4px 12px;
+  font-family:'IBM Plex Mono',monospace;font-size:10px;
+  color:var(--muted);letter-spacing:.3px;
+}
+.status-dot{width:5px;height:5px;border-radius:50%;background:var(--muted2)}
+.status-dot.live{background:var(--green);animation:blink 2s infinite}
+.status-dot.loading{background:var(--amber);animation:blink .8s infinite}
+.status-dot.error{background:var(--red)}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+.refresh-btn{
+  border:1px solid var(--border-dark);background:var(--border-dark);color:#fff;
+  padding:6px 16px;font-family:'Inter',sans-serif;font-size:11px;
+  font-weight:500;letter-spacing:.8px;text-transform:uppercase;
+  cursor:pointer;display:flex;align-items:center;gap:6px;
+  transition:background .15s,border-color .15s;
+}
+.refresh-btn:hover{background:var(--accent);border-color:var(--accent)}
+.refresh-btn.spinning svg{animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── progress bar ── */
+.progress-bar{height:2px;background:var(--tag-bg)}
+.progress-fill{height:100%;background:var(--accent);transition:width 1s linear}
+
+/* ── hero ── */
+.hero{
+  border-bottom:1px solid var(--border);
+  padding:32px 40px 28px;
+  display:flex;align-items:flex-end;justify-content:space-between;gap:20px;
+}
+.hero-title{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:clamp(42px,5vw,72px);line-height:.95;letter-spacing:1px;
+}
+.hero-title em{color:var(--accent);font-style:normal}
+.hero-meta{
+  text-align:right;font-family:'IBM Plex Mono',monospace;
+  font-size:10px;color:var(--muted);line-height:2;letter-spacing:.3px;
+}
+.hero-meta .val{color:var(--text);font-weight:500}
+.countdown-val{font-size:14px;color:var(--accent);font-weight:600}
+
+/* ── date section header ── */
+.date-section{margin:0 40px}
+.date-heading{
+  display:flex;align-items:baseline;justify-content:space-between;
+  padding:28px 0 16px;
+  border-bottom:2px solid var(--border-dark);
+  margin-bottom:0;
+}
+.date-heading-title{
+  font-family:'Bebas Neue',sans-serif;
+  font-size:clamp(28px,3vw,42px);letter-spacing:.5px;
+}
+.date-heading-title em{color:var(--accent);font-style:normal}
+.date-meta{
+  font-family:'IBM Plex Mono',monospace;font-size:10px;
+  color:var(--muted);display:flex;gap:14px;
+}
+.date-chip{
+  border:1px solid var(--border);padding:3px 10px;
+  font-size:10px;letter-spacing:.3px;
+}
+
+/* ── city grid ── */
+.city-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(340px,1fr));
+  border-left:1px solid var(--border);
+  margin-top:0;
+  margin-bottom:0;
+}
+.city-card{
+  border-right:1px solid var(--border);
+  border-bottom:1px solid var(--border);
+  animation:fadeUp .3s ease both;
+}
+@keyframes fadeUp{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+
+.card-head{
+  padding:12px 16px 10px;border-bottom:1px solid var(--border);
+  display:flex;align-items:baseline;justify-content:space-between;
+}
+.city-name{font-family:'Bebas Neue',sans-serif;font-size:19px;letter-spacing:.5px}
+.card-head-right{display:flex;align-items:center;gap:8px}
+.city-ticker{font-family:'IBM Plex Mono',monospace;font-size:9px;color:var(--muted2);letter-spacing:.5px}
+.card-count{
+  font-family:'IBM Plex Mono',monospace;font-size:9px;
+  color:var(--muted);background:var(--tag-bg);padding:2px 7px;
+}
+
+.col-header{
+  display:grid;grid-template-columns:1fr 56px 56px;
+  padding:5px 16px;border-bottom:1px solid var(--border);background:var(--bg2);
+}
+.col-label{
+  font-size:9px;font-weight:600;text-transform:uppercase;
+  letter-spacing:1px;color:var(--muted2);text-align:right;
+}
+.col-label:first-child{text-align:left}
+
+.mkt-row{
+  display:grid;grid-template-columns:1fr 56px 56px;
+  align-items:center;padding:6px 16px;
+  border-bottom:1px solid var(--border);transition:background .1s;
+}
+.mkt-row:last-child{border-bottom:none}
+.mkt-row:hover{background:var(--bg2)}
+.mkt-row.top-pick{background:#fff8f7}
+.mkt-row.top-pick:hover{background:#fff1ee}
+
+.bracket{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text)}
+.bracket.dim{color:var(--muted2)}
+.pval{font-family:'IBM Plex Mono',monospace;font-size:12px;font-weight:500;text-align:right}
+.pval.yes-dim{color:var(--muted2)}
+.pval.no-orange{color:var(--amber)}
+.pval.no-red{color:var(--red)}
+.pval.no-normal{color:var(--text)}
+.pval.no-lowest::after{content:' ▴';font-size:8px}
+
+/* ── legend bar ── */
+.legend-bar{
+  padding:10px 40px;border-bottom:1px solid var(--border);
+  display:flex;align-items:center;gap:20px;
+  font-family:'IBM Plex Mono',monospace;font-size:10px;
+  color:var(--muted);letter-spacing:.3px;
+}
+.leg{display:flex;align-items:center;gap:5px}
+.leg-dot{width:8px;height:8px;border-radius:1px;flex-shrink:0}
+
+/* ── spacer between sections ── */
+.section-gap{height:0;border-bottom:1px solid var(--border);margin:0 40px}
+.page-bottom{height:60px}
+
+/* ── loading / error ── */
+/* ── alert modal ── */
+.modal-overlay{
+  position:fixed;inset:0;background:rgba(0,0,0,.45);
+  z-index:1000;display:flex;align-items:center;justify-content:center;
+  animation:fadeIn .2s ease;
+}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+.modal{
+  background:var(--bg);border:2px solid var(--border-dark);
+  width:min(680px,92vw);max-height:80vh;display:flex;flex-direction:column;
+  animation:slideUp .22s ease;
+}
+@keyframes slideUp{from{transform:translateY(12px);opacity:0}to{transform:translateY(0);opacity:1}}
+.modal-header{
+  padding:18px 24px 14px;border-bottom:1px solid var(--border-dark);
+  display:flex;align-items:baseline;justify-content:space-between;
+  flex-shrink:0;
+}
+.modal-title{
+  font-family:'Bebas Neue',sans-serif;font-size:26px;letter-spacing:.5px;
+}
+.modal-title em{color:var(--accent);font-style:normal}
+.modal-subtitle{
+  font-family:'IBM Plex Mono',monospace;font-size:10px;
+  color:var(--muted);margin-top:2px;letter-spacing:.3px;
+}
+.modal-close{
+  background:none;border:1px solid var(--border);
+  padding:4px 12px;cursor:pointer;font-family:'IBM Plex Mono',monospace;
+  font-size:10px;color:var(--muted);letter-spacing:.5px;text-transform:uppercase;
+  transition:border-color .15s,color .15s;flex-shrink:0;
+}
+.modal-close:hover{border-color:var(--border-dark);color:var(--text)}
+.modal-body{overflow-y:auto;padding:0 24px 24px;flex:1}
+.alert-date-heading{
+  font-family:'Bebas Neue',sans-serif;font-size:16px;letter-spacing:.3px;
+  padding:18px 0 8px;border-bottom:1px solid var(--border);color:var(--muted);
+}
+.alert-city-block{padding:14px 0 6px}
+.alert-city-name{
+  font-family:'Bebas Neue',sans-serif;font-size:17px;
+  letter-spacing:.3px;margin-bottom:8px;
+}
+.alert-row{
+  display:grid;grid-template-columns:1fr 80px 80px 90px;
+  align-items:center;padding:6px 0;
+  border-bottom:1px solid var(--border);
+  font-family:'IBM Plex Mono',monospace;font-size:11px;
+}
+.alert-row:last-child{border-bottom:none}
+.alert-col-head{
+  font-size:9px;font-weight:600;text-transform:uppercase;
+  letter-spacing:1px;color:var(--muted2);text-align:right;
+}
+.alert-col-head:first-child{text-align:left}
+.alert-val{text-align:right}
+.alert-drop{text-align:right;color:var(--red);font-weight:600}
+.alert-drop::before{content:'▼ '}
+
+.loading-state{
+  display:flex;flex-direction:column;align-items:center;
+  justify-content:center;min-height:40vh;gap:16px;color:var(--muted);
+}
+.spinner{
+  width:26px;height:26px;border:1.5px solid var(--border);
+  border-top-color:var(--text);border-radius:50%;
+  animation:spin .8s linear infinite;
+}
+.load-txt{font-family:'IBM Plex Mono',monospace;font-size:11px;text-transform:uppercase;letter-spacing:.5px}
+.error-state{padding:40px;text-align:center;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--red)}
+</style>
+</head>
+<body>
+
+<!-- nav -->
+<nav class="topbar">
+  <div class="brand">KALS<em>H</em>I&nbsp;TEMP</div>
+  <div class="topbar-right">
+    <div class="status-pill">
+      <div class="status-dot" id="statusDot"></div>
+      <span id="statusText">—</span>
+    </div>
+    <button class="refresh-btn" id="refreshBtn">
+      <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M23 4v6h-6M1 20v-6h6"/>
+        <path d="M3.51 9a9 9 0 0114.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0020.49 15"/>
+      </svg>
+      Refresh
+    </button>
+  </div>
+</nav>
+<div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:100%"></div></div>
+
+<!-- hero -->
+<div class="hero">
+  <div class="hero-title">TEMPERATURE<br>MARKET<br><em>SCANNER</em></div>
+  <div class="hero-meta">
+    <div>CITIES &nbsp;<span class="val" id="cityCount">—</span></div>
+    <div>CONTRACTS &nbsp;<span class="val" id="mktCount">—</span></div>
+    <div style="margin-top:8px">NEXT REFRESH</div>
+    <div class="countdown-val" id="countdown">—</div>
+    <div style="margin-top:4px">UPDATED &nbsp;<span class="val" id="lastUpdated">—</span></div>
+  </div>
+</div>
+
+<!-- legend -->
+<div class="legend-bar">
+  <div class="leg"><div class="leg-dot" style="background:var(--amber)"></div>NO 0.30–0.50</div>
+  <div class="leg"><div class="leg-dot" style="background:var(--red)"></div>NO ≤ 0.30</div>
+  <div class="leg" style="margin-left:8px">▴ LOWEST NO IN CITY</div>
+</div>
+
+<!-- main content: two date sections -->
+<div id="main"></div>
+<footer style="border-top:1px solid var(--border);padding:20px 40px;display:flex;align-items:center;justify-content:space-between;font-family:'IBM Plex Mono',monospace;font-size:10px;color:var(--muted);letter-spacing:.3px;margin-top:40px">
+  <div>KALSHI TEMPERATURE MARKET SCANNER</div>
+  <div style="display:flex;align-items:center;gap:20px">
+    <span>BUILT BY <span style="color:var(--text);font-weight:500">TONY WANG</span></span>
+    <a href="mailto:yw1@mit.edu" style="color:var(--muted);text-decoration:none;border-bottom:1px solid var(--border);padding-bottom:1px;transition:color .15s,border-color .15s"
+       onmouseover="this.style.color='var(--text)';this.style.borderColor='var(--text)'"
+       onmouseout="this.style.color='var(--muted)';this.style.borderColor='var(--border)'">yw1@mit.edu</a>
+  </div>
+</footer>
+
+<!-- alert modal (hidden by default) -->
+<div id="alertOverlay" class="modal-overlay" style="display:none" onclick="closeAlert(event)">
+  <div class="modal">
+    <div class="modal-header">
+      <div>
+        <div class="modal-title">NO ASK <em>DROPPED</em></div>
+        <div class="modal-subtitle" id="alertSubtitle">—</div>
+      </div>
+      <button class="modal-close" onclick="closeAlertBtn()">CLOSE ✕</button>
+    </div>
+    <div class="modal-body" id="alertBody"></div>
+  </div>
+</div>
+
+<script>
+const REFRESH_MS = 15 * 60 * 1000;
+let appData  = null;
+let prevData = null;   // snapshot of previous fetch for comparison
+let nextRefreshAt = Date.now() + REFRESH_MS;
+const DROP_THRESHOLD = 0.10;  // alert if NO drops by this much or more
+
+document.getElementById('refreshBtn').addEventListener('click', manualRefresh);
+
+// ── fetch ───────────────────────────────────────────────────────
+async function loadData() {
+  const r = await fetch('data.json?t=' + Date.now());
+  return r.json();
+}
+
+async function manualRefresh() {
+  const btn = document.getElementById('refreshBtn');
+  btn.classList.add('spinning');
+  setStatus('loading', 'REFRESHING');
+  // In static mode: just reload data.json (updated by GitHub Actions)
+  const r = await loadData();
+  if (r && r.fetched_at) {
+    applyData({ status: 'ok', last_updated: r.fetched_at, data: r });
+  }
+  btn.classList.remove('spinning');
+  nextRefreshAt = Date.now() + REFRESH_MS;
+}
+
+async function pollUntilReady() {
+  // Static mode: data.json is the source of truth
+  try {
+    const r = await loadData();
+    if (r && r.fetched_at) {
+      applyData({ status: 'ok', last_updated: r.fetched_at, data: r });
+    } else {
+      setStatus('error', 'NO DATA');
+    }
+  } catch(e) {
+    setStatus('error', 'LOAD ERROR');
+  }
+}
+
+// ── render ──────────────────────────────────────────────────────
+function applyData(r) {
+  if (!r.data) { renderLoading(); return; }
+
+  // snapshot old data before overwriting
+  const oldData = appData ? JSON.parse(JSON.stringify(appData)) : null;
+
+  appData = r;
+  setStatus('ok', fmtTime(r.last_updated));
+
+  const dates = Object.keys(r.data.dates);
+
+  // total counts across all dates
+  let totalCities = new Set(), totalMkts = 0;
+  dates.forEach(d => {
+    const cities = r.data.dates[d];
+    Object.keys(cities).forEach(c => totalCities.add(c));
+    Object.values(cities).forEach(info => totalMkts += info.markets.length);
+  });
+  document.getElementById('cityCount').textContent = totalCities.size;
+  document.getElementById('mktCount').textContent  = totalMkts;
+
+  // render both date sections
+  const html = dates.map((d, i) => {
+    const cities = r.data.dates[d];
+    const hasCities = cities && Object.keys(cities).length > 0;
+    const label = d.replace('on ', '');
+    const isToday = i === 0;
+
+    const citiesHtml = hasCities
+      ? gridHtml(cities, i * 100)
+      : `<div class="error-state">No open markets found.</div>`;
+
+    const cityCount = hasCities ? Object.keys(cities).length : 0;
+    const mktCount  = hasCities
+      ? Object.values(cities).reduce((a, c) => a + c.markets.length, 0)
+      : 0;
+
+    return `
+      <div class="date-section">
+        <div class="date-heading">
+          <div class="date-heading-title">
+            ${isToday ? '<em>TODAY</em> — ' : 'TOMORROW — '}${label}
+          </div>
+          <div class="date-meta">
+            <div class="date-chip">${cityCount} CITIES</div>
+            <div class="date-chip">${mktCount} CONTRACTS</div>
+          </div>
+        </div>
+        ${citiesHtml}
+      </div>
+      ${i < dates.length - 1 ? '<div style="height:40px"></div>' : ''}`;
+  }).join('');
+
+  document.getElementById('main').innerHTML = html;
+
+  // compare against previous snapshot
+  if (oldData) checkDrops(oldData.data.dates, r.data.dates);
+}
+
+function gridHtml(cities, baseDelay) {
+  const sorted = Object.entries(cities).sort(([a],[b]) => a.localeCompare(b));
+  return `<div class="city-grid">${
+    sorted.map(([city, info], i) => cityCard(city, info, baseDelay + i * 18)).join('')
+  }</div>`;
+}
+
+function cityCard(city, info, delay) {
+  const rows = info.markets.map(m => mktRow(m)).join('');
+  return `
+    <div class="city-card" style="animation-delay:${delay}ms">
+      <div class="card-head">
+        <div class="city-name">${esc(city)}</div>
+        <div class="card-head-right">
+          <div class="city-ticker">${esc(info.series_ticker)}</div>
+          <div class="card-count">${info.markets.length}</div>
+        </div>
+      </div>
+      <div class="col-header">
+        <div class="col-label">BRACKET</div>
+        <div class="col-label">YES</div>
+        <div class="col-label">NO</div>
+      </div>
+      <div>${rows}</div>
+    </div>`;
+}
+
+function mktRow(m) {
+  const y = m.yes_ask, n = m.no_ask;
+
+  // YES: always normal text, no special coloring
+  const yC = 'no-normal';
+
+  // NO coloring rules:
+  //   n < 0.30 (≤0.30)  → red
+  //   n < 0.50 (>0.30)  → orange
+  //   otherwise         → normal text
+  // In all cases, if it's also the lowest no_ask → append ▴ marker
+  let nC = 'no-normal';
+  if (n !== null) {
+    if      (n <= 0.30) nC = 'no-red';
+    else if (n <  0.50) nC = 'no-orange';
+  }
+  // append lowest marker class on top of color class
+  const lowestMark = m.lowest_no_ask ? ' no-lowest' : '';
+
+  return `
+    <div class="mkt-row ${m.lowest_no_ask ? 'top-pick' : ''}">
+      <div class="bracket">${esc(m.bracket)}</div>
+      <div class="pval ${yC}">${y !== null ? y.toFixed(2) : '—'}</div>
+      <div class="pval ${nC}${lowestMark}">${n !== null ? n.toFixed(2) : '—'}</div>
+    </div>`;
+}
+
+function renderLoading() {
+  document.getElementById('main').innerHTML =
+    '<div class="loading-state"><div class="spinner"></div><div class="load-txt">Fetching market data</div></div>';
+}
+
+// ── Drop comparison ────────────────────────────────────────────
+// Build a lookup: { "date|city|ticker" -> no_ask }
+function buildLookup(datesObj) {
+  const map = {};
+  for (const [date, cities] of Object.entries(datesObj)) {
+    for (const [city, info] of Object.entries(cities)) {
+      for (const m of info.markets) {
+        const key = `${date}|||${city}|||${m.ticker}`;
+        map[key] = { no_ask: m.no_ask, bracket: m.bracket };
+      }
+    }
+  }
+  return map;
+}
+
+function checkDrops(oldDates, newDates) {
+  const oldMap = buildLookup(oldDates);
+  const newMap = buildLookup(newDates);
+
+  // Structure: { date -> { city -> [ {bracket, oldNo, newNo, drop} ] } }
+  const alerts = {};
+
+  for (const [key, newVal] of Object.entries(newMap)) {
+    const oldVal = oldMap[key];
+    if (!oldVal) continue;
+    if (newVal.no_ask === null || oldVal.no_ask === null) continue;
+
+    const drop = oldVal.no_ask - newVal.no_ask;
+    if (drop < DROP_THRESHOLD) continue;
+
+    const [date, city] = key.split('|||');
+    if (!alerts[date]) alerts[date] = {};
+    if (!alerts[date][city]) alerts[date][city] = [];
+    alerts[date][city].push({
+      bracket: newVal.bracket,
+      oldNo:   oldVal.no_ask,
+      newNo:   newVal.no_ask,
+      drop:    drop,
+    });
+  }
+
+  if (Object.keys(alerts).length === 0) return;
+
+  // Count total changes
+  let total = 0;
+  for (const cities of Object.values(alerts))
+    for (const rows of Object.values(cities)) total += rows.length;
+
+  showAlert(alerts, total);
+}
+
+// ── Alert modal ────────────────────────────────────────────────
+function showAlert(alerts, total) {
+  const now = new Date().toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+  document.getElementById('alertSubtitle').textContent =
+    `${total} CONTRACT${total > 1 ? 'S' : ''} DROPPED ≥ ${(DROP_THRESHOLD).toFixed(2)} · DETECTED AT ${now}`;
+
+  let html = '';
+  for (const [date, cities] of Object.entries(alerts)) {
+    const label = date.replace('on ', '').toUpperCase();
+    html += `<div class="alert-date-heading">${label}</div>`;
+
+    for (const [city, rows] of Object.entries(cities)) {
+      // sort by biggest drop first
+      rows.sort((a, b) => b.drop - a.drop);
+      html += `<div class="alert-city-block">
+        <div class="alert-city-name">${esc(city)}</div>
+        <div class="alert-row">
+          <div class="alert-col-head">BRACKET</div>
+          <div class="alert-col-head">PREV NO</div>
+          <div class="alert-col-head">NEW NO</div>
+          <div class="alert-col-head">CHANGE</div>
+        </div>`;
+      for (const r of rows) {
+        html += `<div class="alert-row">
+          <div>${esc(r.bracket)}</div>
+          <div class="alert-val">${r.oldNo.toFixed(2)}</div>
+          <div class="alert-val">${r.newNo.toFixed(2)}</div>
+          <div class="alert-drop">${r.drop.toFixed(2)}</div>
+        </div>`;
+      }
+      html += `</div>`;
+    }
+  }
+
+  document.getElementById('alertBody').innerHTML = html;
+  document.getElementById('alertOverlay').style.display = 'flex';
+}
+
+function closeAlert(e) {
+  // close only when clicking the dark overlay itself, not the modal
+  if (e.target === document.getElementById('alertOverlay')) {
+    document.getElementById('alertOverlay').style.display = 'none';
+  }
+}
+function closeAlertBtn() {
+  document.getElementById('alertOverlay').style.display = 'none';
+}
+
+// ── helpers ──────────────────────────────────────────────────────
+function setStatus(type, text) {
+  document.getElementById('statusDot').className = `status-dot ${type === 'ok' ? 'live' : type}`;
+  document.getElementById('statusText').textContent = text;
+}
+
+function fmtTime(iso) {
+  if (!iso) return '—';
+  try { return new Date(iso).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'}); }
+  catch { return iso; }
+}
+
+function esc(s) {
+  return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+function tickCountdown() {
+  const rem = Math.max(0, nextRefreshAt - Date.now());
+  const m   = Math.floor(rem / 60000);
+  const s   = Math.floor((rem % 60000) / 1000);
+  document.getElementById('countdown').textContent = `${m}:${s.toString().padStart(2,'0')}`;
+  document.getElementById('progressFill').style.width = (rem / REFRESH_MS * 100) + '%';
+  if (appData?.last_updated)
+    document.getElementById('lastUpdated').textContent = fmtTime(appData.last_updated);
+}
+
+async function autoRefreshLoop() {
+  while (true) {
+    await sleep(REFRESH_MS);
+    nextRefreshAt = Date.now() + REFRESH_MS;
+    await pollUntilReady();
+  }
+}
+
+// ── init ──────────────────────────────────────────────────────────
+(async () => {
+  renderLoading();
+  setStatus('loading', 'LOADING');
+  try {
+    const r = await loadData();
+    if (r && r.fetched_at) {
+      applyData({ status: 'ok', last_updated: r.fetched_at, data: r });
+    } else {
+      setStatus('error', 'NO DATA');
+    }
+  } catch(e) {
+    setStatus('error', 'LOAD ERROR');
+    document.getElementById('main').innerHTML =
+      '<div class="error-state">Could not load data.json — make sure GitHub Actions has run at least once.</div>';
+  }
+  setInterval(tickCountdown, 1000);
+  autoRefreshLoop();
+})();
+</script>
+</body>
+</html>
