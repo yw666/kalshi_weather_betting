@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-08T11:34:24Z",
+  "fetched_at": "2026-04-08T12:39:34Z",
   "dates": {
     "on Apr 8, 2026": {
       "Atlanta": {
@@ -9,8 +9,8 @@
             "ticker": "KXHIGHTATL-26APR08-T72",
             "title": "Will the maximum temperature be  >72° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >72° on Apr 8, 2026?",
-            "yes_ask": 0.22,
-            "no_ask": 0.83,
+            "yes_ask": 0.15,
+            "no_ask": 0.87,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -18,8 +18,8 @@
             "ticker": "KXHIGHTATL-26APR08-T65",
             "title": "Will the maximum temperature be  <65° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <65° on Apr 8, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 1.0,
+            "yes_ask": 0.03,
+            "no_ask": 0.99,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -27,26 +27,26 @@
             "ticker": "KXHIGHTATL-26APR08-B71.5",
             "title": "Will the maximum temperature be  71-72° on Apr 8, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.4,
-            "no_ask": 0.66,
+            "yes_ask": 0.39,
+            "no_ask": 0.68,
             "close_time": "2026-04-09T05:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTATL-26APR08-B69.5",
             "title": "Will the maximum temperature be  69-70° on Apr 8, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.44,
+            "yes_ask": 0.41,
             "no_ask": 0.67,
             "close_time": "2026-04-09T05:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTATL-26APR08-B67.5",
             "title": "Will the maximum temperature be  67-68° on Apr 8, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -54,8 +54,8 @@
             "ticker": "KXHIGHTATL-26APR08-B65.5",
             "title": "Will the maximum temperature be  65-66° on Apr 8, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -68,8 +68,8 @@
             "ticker": "KXHIGHAUS-26APR08-T83",
             "title": "Will the high temp in Austin be >83° on Apr 8, 2026?",
             "bracket": "Will the high temp in Austin be >83° on Apr 8, 2026?",
-            "yes_ask": 0.13,
-            "no_ask": 0.91,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -86,8 +86,8 @@
             "ticker": "KXHIGHAUS-26APR08-B82.5",
             "title": "Will the high temp in Austin be 82-83° on Apr 8, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.43,
-            "no_ask": 0.58,
+            "yes_ask": 0.46,
+            "no_ask": 0.56,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -95,8 +95,8 @@
             "ticker": "KXHIGHAUS-26APR08-B80.5",
             "title": "Will the high temp in Austin be 80-81° on Apr 8, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.38,
-            "no_ask": 0.64,
+            "yes_ask": 0.34,
+            "no_ask": 0.67,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -104,8 +104,8 @@
             "ticker": "KXHIGHAUS-26APR08-B78.5",
             "title": "Will the high temp in Austin be 78-79° on Apr 8, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -113,7 +113,7 @@
             "ticker": "KXHIGHAUS-26APR08-B76.5",
             "title": "Will the high temp in Austin be 76-77° on Apr 8, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
@@ -128,7 +128,7 @@
             "title": "Will the maximum temperature be  >45° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >45° on Apr 8, 2026?",
             "yes_ask": 0.08,
-            "no_ask": 0.95,
+            "no_ask": 0.97,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -136,7 +136,7 @@
             "ticker": "KXHIGHTBOS-26APR08-T38",
             "title": "Will the maximum temperature be  <38° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <38° on Apr 8, 2026?",
-            "yes_ask": 0.05,
+            "yes_ask": 0.04,
             "no_ask": 0.97,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
@@ -145,8 +145,8 @@
             "ticker": "KXHIGHTBOS-26APR08-B44.5",
             "title": "Will the maximum temperature be  44-45° on Apr 8, 2026?",
             "bracket": "44-45°",
-            "yes_ask": 0.14,
-            "no_ask": 0.88,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -154,26 +154,26 @@
             "ticker": "KXHIGHTBOS-26APR08-B42.5",
             "title": "Will the maximum temperature be  42-43° on Apr 8, 2026?",
             "bracket": "42-43°",
+            "yes_ask": 0.34,
+            "no_ask": 0.67,
+            "close_time": "2026-04-09T05:00:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHTBOS-26APR08-B40.5",
+            "title": "Will the maximum temperature be  40-41° on Apr 8, 2026?",
+            "bracket": "40-41°",
             "yes_ask": 0.39,
             "no_ask": 0.65,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": true
           },
           {
-            "ticker": "KXHIGHTBOS-26APR08-B40.5",
-            "title": "Will the maximum temperature be  40-41° on Apr 8, 2026?",
-            "bracket": "40-41°",
-            "yes_ask": 0.33,
-            "no_ask": 0.74,
-            "close_time": "2026-04-09T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
             "ticker": "KXHIGHTBOS-26APR08-B38.5",
             "title": "Will the maximum temperature be  38-39° on Apr 8, 2026?",
             "bracket": "38-39°",
-            "yes_ask": 0.15,
-            "no_ask": 0.86,
+            "yes_ask": 0.19,
+            "no_ask": 0.83,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -186,8 +186,8 @@
             "ticker": "KXHIGHCHI-26APR08-T70",
             "title": "Will the high temp in Chicago be >70° on Apr 8, 2026?",
             "bracket": "Will the high temp in Chicago be >70° on Apr 8, 2026?",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -195,8 +195,8 @@
             "ticker": "KXHIGHCHI-26APR08-T63",
             "title": "Will the high temp in Chicago be <63° on Apr 8, 2026?",
             "bracket": "Will the high temp in Chicago be <63° on Apr 8, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -204,8 +204,8 @@
             "ticker": "KXHIGHCHI-26APR08-B69.5",
             "title": "Will the high temp in Chicago be 69-70° on Apr 8, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -213,8 +213,8 @@
             "ticker": "KXHIGHCHI-26APR08-B67.5",
             "title": "Will the high temp in Chicago be 67-68° on Apr 8, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.35,
-            "no_ask": 0.68,
+            "yes_ask": 0.31,
+            "no_ask": 0.7,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -222,8 +222,8 @@
             "ticker": "KXHIGHCHI-26APR08-B65.5",
             "title": "Will the high temp in Chicago be 65-66° on Apr 8, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.22,
-            "no_ask": 0.8,
+            "yes_ask": 0.2,
+            "no_ask": 0.82,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -232,7 +232,7 @@
             "title": "Will the high temp in Chicago be 63-64° on Apr 8, 2026?",
             "bracket": "63-64°",
             "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "no_ask": 0.93,
             "close_time": "2026-04-09T05:59:00Z",
             "lowest_no_ask": false
           }
@@ -246,7 +246,7 @@
             "title": "Will the maximum temperature be  >81° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >81° on Apr 8, 2026?",
             "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "no_ask": 0.98,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -263,8 +263,8 @@
             "ticker": "KXHIGHTDAL-26APR08-B80.5",
             "title": "Will the maximum temperature be  80-81° on Apr 8, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.35,
-            "no_ask": 0.7,
+            "yes_ask": 0.31,
+            "no_ask": 0.71,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -272,8 +272,8 @@
             "ticker": "KXHIGHTDAL-26APR08-B78.5",
             "title": "Will the maximum temperature be  78-79° on Apr 8, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.46,
-            "no_ask": 0.6,
+            "yes_ask": 0.48,
+            "no_ask": 0.57,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -313,8 +313,8 @@
             "ticker": "KXHIGHTHOU-26APR08-T77",
             "title": "Will the maximum temperature be  <77° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <77° on Apr 8, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -332,7 +332,7 @@
             "title": "Will the maximum temperature be  81-82° on Apr 8, 2026?",
             "bracket": "81-82°",
             "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "no_ask": 0.74,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -340,8 +340,8 @@
             "ticker": "KXHIGHTHOU-26APR08-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 8, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.54,
-            "no_ask": 0.48,
+            "yes_ask": 0.51,
+            "no_ask": 0.5,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -349,8 +349,8 @@
             "ticker": "KXHIGHTHOU-26APR08-B77.5",
             "title": "Will the maximum temperature be  77-78° on Apr 8, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.18,
+            "no_ask": 0.85,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -372,8 +372,8 @@
             "ticker": "KXHIGHTLV-26APR08-T88",
             "title": "Will the maximum temperature be  <88° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <88° on Apr 8, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -390,26 +390,26 @@
             "ticker": "KXHIGHTLV-26APR08-B92.5",
             "title": "Will the maximum temperature be  92-93° on Apr 8, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.44,
-            "no_ask": 0.59,
+            "yes_ask": 0.46,
+            "no_ask": 0.57,
             "close_time": "2026-04-09T08:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTLV-26APR08-B90.5",
             "title": "Will the maximum temperature be  90-91° on Apr 8, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.43,
+            "yes_ask": 0.44,
             "no_ask": 0.58,
             "close_time": "2026-04-09T08:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTLV-26APR08-B88.5",
             "title": "Will the maximum temperature be  88-89° on Apr 8, 2026?",
             "bracket": "88-89°",
             "yes_ask": 0.08,
-            "no_ask": 0.96,
+            "no_ask": 0.94,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -422,7 +422,7 @@
             "ticker": "KXHIGHLAX-26APR08-T76",
             "title": "Will the high temp in LA be >76° on Apr 8, 2026?",
             "bracket": "Will the high temp in LA be >76° on Apr 8, 2026?",
-            "yes_ask": 0.07,
+            "yes_ask": 0.06,
             "no_ask": 0.95,
             "close_time": "2026-04-09T07:59:00Z",
             "lowest_no_ask": false
@@ -431,8 +431,8 @@
             "ticker": "KXHIGHLAX-26APR08-T69",
             "title": "Will the high temp in LA be <69° on Apr 8, 2026?",
             "bracket": "Will the high temp in LA be <69° on Apr 8, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-04-09T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -440,8 +440,8 @@
             "ticker": "KXHIGHLAX-26APR08-B75.5",
             "title": "Will the high temp in LA be 75-76° on Apr 8, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.07,
-            "no_ask": 0.95,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-04-09T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -449,8 +449,8 @@
             "ticker": "KXHIGHLAX-26APR08-B73.5",
             "title": "Will the high temp in LA be 73-74° on Apr 8, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.25,
-            "no_ask": 0.77,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-04-09T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -458,7 +458,7 @@
             "ticker": "KXHIGHLAX-26APR08-B71.5",
             "title": "Will the high temp in LA be 71-72° on Apr 8, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.44,
+            "yes_ask": 0.43,
             "no_ask": 0.58,
             "close_time": "2026-04-09T07:59:00Z",
             "lowest_no_ask": true
@@ -467,8 +467,8 @@
             "ticker": "KXHIGHLAX-26APR08-B69.5",
             "title": "Will the high temp in LA be 69-70° on Apr 8, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.22,
-            "no_ask": 0.82,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-04-09T07:59:00Z",
             "lowest_no_ask": false
           }
@@ -481,8 +481,8 @@
             "ticker": "KXHIGHMIA-26APR08-T83",
             "title": "Will the high temp in Miami be >83° on Apr 8, 2026?",
             "bracket": "Will the high temp in Miami be >83° on Apr 8, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -490,7 +490,7 @@
             "ticker": "KXHIGHMIA-26APR08-T76",
             "title": "Will the high temp in Miami be <76° on Apr 8, 2026?",
             "bracket": "Will the high temp in Miami be <76° on Apr 8, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
@@ -499,8 +499,8 @@
             "ticker": "KXHIGHMIA-26APR08-B82.5",
             "title": "Will the high temp in Miami be 82-83° on Apr 8, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.15,
-            "no_ask": 0.86,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -508,26 +508,26 @@
             "ticker": "KXHIGHMIA-26APR08-B80.5",
             "title": "Will the high temp in Miami be 80-81° on Apr 8, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.4,
-            "no_ask": 0.62,
+            "yes_ask": 0.35,
+            "no_ask": 0.66,
             "close_time": "2026-04-09T04:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHMIA-26APR08-B78.5",
             "title": "Will the high temp in Miami be 78-79° on Apr 8, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.37,
+            "yes_ask": 0.39,
             "no_ask": 0.65,
             "close_time": "2026-04-09T04:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHMIA-26APR08-B76.5",
             "title": "Will the high temp in Miami be 76-77° on Apr 8, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -549,8 +549,8 @@
             "ticker": "KXHIGHTMIN-26APR08-T59",
             "title": "Will the maximum temperature be  <59° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <59° on Apr 8, 2026?",
-            "yes_ask": 0.26,
-            "no_ask": 0.77,
+            "yes_ask": 0.21,
+            "no_ask": 0.85,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -567,8 +567,8 @@
             "ticker": "KXHIGHTMIN-26APR08-B63.5",
             "title": "Will the maximum temperature be  63-64° on Apr 8, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.22,
-            "no_ask": 0.8,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -576,19 +576,19 @@
             "ticker": "KXHIGHTMIN-26APR08-B61.5",
             "title": "Will the maximum temperature be  61-62° on Apr 8, 2026?",
             "bracket": "61-62°",
-            "yes_ask": 0.27,
-            "no_ask": 0.77,
+            "yes_ask": 0.35,
+            "no_ask": 0.68,
             "close_time": "2026-04-09T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTMIN-26APR08-B59.5",
             "title": "Will the maximum temperature be  59-60° on Apr 8, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-04-09T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -600,7 +600,7 @@
             "title": "Will the high temp in NYC be >53° on Apr 8, 2026?",
             "bracket": "Will the high temp in NYC be >53° on Apr 8, 2026?",
             "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "no_ask": 0.9,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -608,8 +608,8 @@
             "ticker": "KXHIGHNY-26APR08-T46",
             "title": "Will the high temp in NYC be <46° on Apr 8, 2026?",
             "bracket": "Will the high temp in NYC be <46° on Apr 8, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -617,8 +617,8 @@
             "ticker": "KXHIGHNY-26APR08-B52.5",
             "title": "Will the high temp in NYC be 52-53° on Apr 8, 2026?",
             "bracket": "52-53°",
-            "yes_ask": 0.2,
-            "no_ask": 0.82,
+            "yes_ask": 0.24,
+            "no_ask": 0.78,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -626,8 +626,8 @@
             "ticker": "KXHIGHNY-26APR08-B50.5",
             "title": "Will the high temp in NYC be 50-51° on Apr 8, 2026?",
             "bracket": "50-51°",
-            "yes_ask": 0.44,
-            "no_ask": 0.62,
+            "yes_ask": 0.42,
+            "no_ask": 0.59,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -635,7 +635,7 @@
             "ticker": "KXHIGHNY-26APR08-B48.5",
             "title": "Will the high temp in NYC be 48-49° on Apr 8, 2026?",
             "bracket": "48-49°",
-            "yes_ask": 0.27,
+            "yes_ask": 0.29,
             "no_ask": 0.75,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
@@ -644,8 +644,8 @@
             "ticker": "KXHIGHNY-26APR08-B46.5",
             "title": "Will the high temp in NYC be 46-47° on Apr 8, 2026?",
             "bracket": "46-47°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -658,7 +658,7 @@
             "ticker": "KXHIGHTNOLA-26APR08-T80",
             "title": "Will the maximum temperature be  >80° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >80° on Apr 8, 2026?",
-            "yes_ask": 0.03,
+            "yes_ask": 0.02,
             "no_ask": 0.99,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
@@ -667,7 +667,7 @@
             "ticker": "KXHIGHTNOLA-26APR08-T73",
             "title": "Will the maximum temperature be  <73° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <73° on Apr 8, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
@@ -676,8 +676,8 @@
             "ticker": "KXHIGHTNOLA-26APR08-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 8, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.18,
-            "no_ask": 0.91,
+            "yes_ask": 0.16,
+            "no_ask": 0.9,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -685,8 +685,8 @@
             "ticker": "KXHIGHTNOLA-26APR08-B77.5",
             "title": "Will the maximum temperature be  77-78° on Apr 8, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.46,
-            "no_ask": 0.57,
+            "yes_ask": 0.45,
+            "no_ask": 0.56,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -703,8 +703,8 @@
             "ticker": "KXHIGHTNOLA-26APR08-B73.5",
             "title": "Will the maximum temperature be  73-74° on Apr 8, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.1,
-            "no_ask": 0.95,
+            "yes_ask": 0.11,
+            "no_ask": 0.91,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -727,7 +727,7 @@
             "title": "Will the maximum temperature be  <73° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <73° on Apr 8, 2026?",
             "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "no_ask": 1.0,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -735,8 +735,8 @@
             "ticker": "KXHIGHTOKC-26APR08-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 8, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -744,8 +744,8 @@
             "ticker": "KXHIGHTOKC-26APR08-B77.5",
             "title": "Will the maximum temperature be  77-78° on Apr 8, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.4,
-            "no_ask": 0.61,
+            "yes_ask": 0.41,
+            "no_ask": 0.6,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -762,8 +762,8 @@
             "ticker": "KXHIGHTOKC-26APR08-B73.5",
             "title": "Will the maximum temperature be  73-74° on Apr 8, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.07,
+            "no_ask": 0.97,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -785,8 +785,8 @@
             "ticker": "KXHIGHPHIL-26APR08-T51",
             "title": "Will the high temp in Philadelphia be <51° on Apr 8, 2026?",
             "bracket": "Will the high temp in Philadelphia be <51° on Apr 8, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.07,
+            "no_ask": 1.0,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -803,8 +803,8 @@
             "ticker": "KXHIGHPHIL-26APR08-B55.5",
             "title": "Will the high temp in Philadelphia be 55-56° on Apr 8, 2026?",
             "bracket": "55-56°",
-            "yes_ask": 0.51,
-            "no_ask": 0.53,
+            "yes_ask": 0.47,
+            "no_ask": 0.55,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -812,8 +812,8 @@
             "ticker": "KXHIGHPHIL-26APR08-B53.5",
             "title": "Will the high temp in Philadelphia be 53-54° on Apr 8, 2026?",
             "bracket": "53-54°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -821,8 +821,8 @@
             "ticker": "KXHIGHPHIL-26APR08-B51.5",
             "title": "Will the high temp in Philadelphia be 51-52° on Apr 8, 2026?",
             "bracket": "51-52°",
-            "yes_ask": 0.1,
-            "no_ask": 0.97,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-04-09T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -844,7 +844,7 @@
             "ticker": "KXHIGHTPHX-26APR08-T92",
             "title": "Will the maximum temperature be  <92° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <92° on Apr 8, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-04-09T07:00:00Z",
             "lowest_no_ask": false
@@ -862,8 +862,8 @@
             "ticker": "KXHIGHTPHX-26APR08-B96.5",
             "title": "Will the maximum temperature be  96-97° on Apr 8, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.58,
+            "no_ask": 0.43,
             "close_time": "2026-04-09T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -871,8 +871,8 @@
             "ticker": "KXHIGHTPHX-26APR08-B94.5",
             "title": "Will the maximum temperature be  94-95° on Apr 8, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.19,
-            "no_ask": 0.87,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-04-09T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -880,8 +880,8 @@
             "ticker": "KXHIGHTPHX-26APR08-B92.5",
             "title": "Will the maximum temperature be  92-93° on Apr 8, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-04-09T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -894,7 +894,7 @@
             "ticker": "KXHIGHTSATX-26APR08-T81",
             "title": "Will the maximum temperature be  >81° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >81° on Apr 8, 2026?",
-            "yes_ask": 0.52,
+            "yes_ask": 0.51,
             "no_ask": 0.53,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": true
@@ -912,8 +912,8 @@
             "ticker": "KXHIGHTSATX-26APR08-B80.5",
             "title": "Will the maximum temperature be  80-81° on Apr 8, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.35,
-            "no_ask": 0.69,
+            "yes_ask": 0.36,
+            "no_ask": 0.67,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -921,7 +921,7 @@
             "ticker": "KXHIGHTSATX-26APR08-B78.5",
             "title": "Will the maximum temperature be  78-79° on Apr 8, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.18,
+            "yes_ask": 0.19,
             "no_ask": 0.83,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
@@ -930,8 +930,8 @@
             "ticker": "KXHIGHTSATX-26APR08-B76.5",
             "title": "Will the maximum temperature be  76-77° on Apr 8, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -939,8 +939,8 @@
             "ticker": "KXHIGHTSATX-26APR08-B74.5",
             "title": "Will the maximum temperature be  74-75° on Apr 8, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-09T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -953,8 +953,8 @@
             "ticker": "KXHIGHTSFO-26APR08-T73",
             "title": "Will the maximum temperature be  >73° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >73° on Apr 8, 2026?",
-            "yes_ask": 0.22,
-            "no_ask": 0.81,
+            "yes_ask": 0.12,
+            "no_ask": 0.89,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -971,8 +971,8 @@
             "ticker": "KXHIGHTSFO-26APR08-B72.5",
             "title": "Will the maximum temperature be  72-73° on Apr 8, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.2,
-            "no_ask": 0.85,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -980,8 +980,8 @@
             "ticker": "KXHIGHTSFO-26APR08-B70.5",
             "title": "Will the maximum temperature be  70-71° on Apr 8, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.28,
-            "no_ask": 0.77,
+            "yes_ask": 0.29,
+            "no_ask": 0.72,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -989,17 +989,17 @@
             "ticker": "KXHIGHTSFO-26APR08-B68.5",
             "title": "Will the maximum temperature be  68-69° on Apr 8, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.25,
-            "no_ask": 0.8,
+            "yes_ask": 0.33,
+            "no_ask": 0.72,
             "close_time": "2026-04-09T08:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTSFO-26APR08-B66.5",
             "title": "Will the maximum temperature be  66-67° on Apr 8, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1012,8 +1012,8 @@
             "ticker": "KXHIGHTSEA-26APR08-T65",
             "title": "Will the maximum temperature be  >65° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >65° on Apr 8, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1021,8 +1021,8 @@
             "ticker": "KXHIGHTSEA-26APR08-T58",
             "title": "Will the maximum temperature be  <58° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <58° on Apr 8, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1039,8 +1039,8 @@
             "ticker": "KXHIGHTSEA-26APR08-B62.5",
             "title": "Will the maximum temperature be  62-63° on Apr 8, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.32,
-            "no_ask": 0.69,
+            "yes_ask": 0.36,
+            "no_ask": 0.65,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1057,8 +1057,8 @@
             "ticker": "KXHIGHTSEA-26APR08-B58.5",
             "title": "Will the maximum temperature be  58-59° on Apr 8, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.16,
-            "no_ask": 0.86,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-04-09T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1071,8 +1071,8 @@
             "ticker": "KXHIGHTDC-26APR08-T58",
             "title": "Will the maximum temperature be  >58° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  >58° on Apr 8, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1080,8 +1080,8 @@
             "ticker": "KXHIGHTDC-26APR08-T51",
             "title": "Will the maximum temperature be  <51° on Apr 8, 2026?",
             "bracket": "Will the maximum temperature be  <51° on Apr 8, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 1.0,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1089,8 +1089,8 @@
             "ticker": "KXHIGHTDC-26APR08-B57.5",
             "title": "Will the maximum temperature be  57-58° on Apr 8, 2026?",
             "bracket": "57-58°",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1098,8 +1098,8 @@
             "ticker": "KXHIGHTDC-26APR08-B55.5",
             "title": "Will the maximum temperature be  55-56° on Apr 8, 2026?",
             "bracket": "55-56°",
-            "yes_ask": 0.48,
-            "no_ask": 0.56,
+            "yes_ask": 0.47,
+            "no_ask": 0.54,
             "close_time": "2026-04-09T05:00:00Z",
             "lowest_no_ask": true
           },
