@@ -234,6 +234,17 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-h
 }
 .load-txt{font-family:'IBM Plex Mono',monospace;font-size:11px;text-transform:uppercase;letter-spacing:.5px}
 .error-state{padding:40px;text-align:center;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--red)}
+
+/* ── distribution chart ── */
+.dist-chart{padding:10px 16px 12px;border-top:1px solid var(--border)}
+.dist-title{font-family:'IBM Plex Mono',monospace;font-size:8px;color:var(--muted2);letter-spacing:.5px;text-transform:uppercase;margin-bottom:6px}
+.dist-bars{display:flex;align-items:flex-end;gap:2px}
+.dist-bar-wrap{flex:1;display:flex;flex-direction:column;align-items:center;cursor:default}
+.dist-bar-area{width:100%;display:flex;flex-direction:column;justify-content:flex-end;height:64px}
+.dist-prob{font-family:'IBM Plex Mono',monospace;font-size:7px;color:var(--muted);min-height:9px;text-align:center;line-height:1}
+.dist-bar-inner{width:100%;min-height:1px;transition:opacity .15s}
+.dist-bar-wrap:hover .dist-bar-inner{opacity:1!important}
+.dist-bar-label{font-family:'IBM Plex Mono',monospace;font-size:7px;color:var(--muted);margin-top:3px;white-space:nowrap;text-align:center;writing-mode:vertical-rl;transform:rotate(180deg);height:20px;overflow:hidden}
 </style>
 </head>
 <body>
@@ -428,6 +439,7 @@ function cityCard(city, info, delay) {
         <div class="col-label">NO</div>
       </div>
       <div>${rows}</div>
+      ${distChart(info.markets)}
     </div>`;
 }
 
@@ -576,6 +588,52 @@ function fmtTime(iso) {
 
 function esc(s) {
   return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+
+function parseBracketVal(bracket) {
+  const range = bracket.match(/(\d+)[-–](\d+)/);
+  if (range) return (parseInt(range[1]) + parseInt(range[2])) / 2;
+  const gt = bracket.match(/>(\d+)/);
+  if (gt) return parseInt(gt[1]) + 1.5;
+  const lt = bracket.match(/<(\d+)/);
+  if (lt) return parseInt(lt[1]) - 1.5;
+  return 0;
+}
+
+function bracketShort(bracket) {
+  const range = bracket.match(/\d+[-–]\d+°/);
+  if (range) return range[0];
+  const gt = bracket.match(/>[\s]*\d+°/);
+  if (gt) return gt[0].replace(/\s/,'');
+  const lt = bracket.match(/<[\s]*\d+°/);
+  if (lt) return lt[0].replace(/\s/,'');
+  return bracket.slice(0,8);
+}
+
+function distChart(markets) {
+  const valid = markets.filter(m => m.yes_ask !== null);
+  if (valid.length < 2) return '';
+  const sorted = [...valid].sort((a,b) => parseBracketVal(a.bracket) - parseBracketVal(b.bracket));
+  const maxVal = Math.max(...sorted.map(m => m.yes_ask));
+
+  const bars = sorted.map(m => {
+    const heightPct = Math.round((m.yes_ask / maxVal) * 100);
+    // color: interpolate from muted blue at low prob → accent red at high prob
+    const opacity = 0.4 + m.yes_ask * 0.6;
+    const label = bracketShort(m.bracket);
+    return `<div class="dist-bar-wrap" title="${esc(label)}: ${m.yes_ask.toFixed(2)}">
+        <div class="dist-bar-area">
+          <div class="dist-prob">${m.yes_ask.toFixed(2)}</div>
+          <div class="dist-bar-inner" style="height:${heightPct}%;background:#5b8af5;opacity:${opacity.toFixed(2)}"></div>
+        </div>
+        <div class="dist-bar-label">${esc(label)}</div>
+      </div>`;
+  }).join('');
+
+  return `<div class="dist-chart">
+    <div class="dist-title">YES · PROBABILITY DISTRIBUTION</div>
+    <div class="dist-bars">${bars}</div>
+  </div>`;
 }
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
