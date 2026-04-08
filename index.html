@@ -303,7 +303,7 @@ body{background:var(--bg);color:var(--text);font-family:'Inter',sans-serif;min-h
 </div>
 
 <script>
-const REFRESH_MS = 15 * 60 * 1000;
+const REFRESH_MS = 5 * 60 * 1000;
 let appData  = null;
 let prevData = null;   // snapshot of previous fetch for comparison
 let nextRefreshAt = Date.now() + REFRESH_MS;
@@ -594,7 +594,11 @@ async function autoRefreshLoop() {
   while (true) {
     await sleep(REFRESH_MS);
     nextRefreshAt = Date.now() + REFRESH_MS;
-    await pollUntilReady();
+    try {
+      await pollUntilReady();
+    } catch(e) {
+      setStatus('error', 'REFRESH FAILED');
+    }
   }
 }
 
