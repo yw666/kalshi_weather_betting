@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-22T16:36:21Z",
+  "fetched_at": "2026-04-22T17:38:35Z",
   "dates": {
     "on Apr 22, 2026": {
       "Atlanta": {
@@ -28,7 +28,7 @@
             "title": "Will the maximum temperature be  86-87° on Apr 22, 2026?",
             "bracket": "86-87°",
             "yes_ask": 0.05,
-            "no_ask": 0.98,
+            "no_ask": 0.99,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -36,8 +36,8 @@
             "ticker": "KXHIGHTATL-26APR22-B84.5",
             "title": "Will the maximum temperature be  84-85° on Apr 22, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.37,
-            "no_ask": 0.66,
+            "yes_ask": 0.43,
+            "no_ask": 0.59,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -45,8 +45,8 @@
             "ticker": "KXHIGHTATL-26APR22-B82.5",
             "title": "Will the maximum temperature be  82-83° on Apr 22, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.57,
-            "no_ask": 0.46,
+            "yes_ask": 0.6,
+            "no_ask": 0.43,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -54,8 +54,8 @@
             "ticker": "KXHIGHTATL-26APR22-B80.5",
             "title": "Will the maximum temperature be  80-81° on Apr 22, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "yes_ask": 0.07,
+            "no_ask": 0.98,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -77,8 +77,8 @@
             "ticker": "KXHIGHAUS-26APR22-T79",
             "title": "Will the high temp in Austin be <79° on Apr 22, 2026?",
             "bracket": "Will the high temp in Austin be <79° on Apr 22, 2026?",
-            "yes_ask": 0.35,
-            "no_ask": 0.66,
+            "yes_ask": 0.04,
+            "no_ask": 0.98,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -86,7 +86,7 @@
             "ticker": "KXHIGHAUS-26APR22-B85.5",
             "title": "Will the high temp in Austin be 85-86° on Apr 22, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.01,
+            "yes_ask": 0.03,
             "no_ask": 1.0,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
@@ -95,8 +95,8 @@
             "ticker": "KXHIGHAUS-26APR22-B83.5",
             "title": "Will the high temp in Austin be 83-84° on Apr 22, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.02,
-            "no_ask": 1.0,
+            "yes_ask": 0.26,
+            "no_ask": 0.83,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -104,19 +104,19 @@
             "ticker": "KXHIGHAUS-26APR22-B81.5",
             "title": "Will the high temp in Austin be 81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.2,
-            "no_ask": 0.81,
+            "yes_ask": 0.53,
+            "no_ask": 0.5,
             "close_time": "2026-04-23T05:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHAUS-26APR22-B79.5",
             "title": "Will the high temp in Austin be 79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.45,
-            "no_ask": 0.56,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-04-23T05:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -127,8 +127,8 @@
             "ticker": "KXHIGHTBOS-26APR22-T49",
             "title": "Will the maximum temperature be  >49° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  >49° on Apr 22, 2026?",
-            "yes_ask": 0.22,
-            "no_ask": 0.86,
+            "yes_ask": 0.13,
+            "no_ask": 0.92,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -145,8 +145,8 @@
             "ticker": "KXHIGHTBOS-26APR22-B48.5",
             "title": "Will the maximum temperature be  48-49° on Apr 22, 2026?",
             "bracket": "48-49°",
-            "yes_ask": 0.43,
-            "no_ask": 0.6,
+            "yes_ask": 0.49,
+            "no_ask": 0.53,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -154,8 +154,8 @@
             "ticker": "KXHIGHTBOS-26APR22-B46.5",
             "title": "Will the maximum temperature be  46-47° on Apr 22, 2026?",
             "bracket": "46-47°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.52,
+            "no_ask": 0.55,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -186,8 +186,8 @@
             "ticker": "KXHIGHCHI-26APR22-T76",
             "title": "Will the high temp in Chicago be >76° on Apr 22, 2026?",
             "bracket": "Will the high temp in Chicago be >76° on Apr 22, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -195,17 +195,17 @@
             "ticker": "KXHIGHCHI-26APR22-T69",
             "title": "Will the high temp in Chicago be <69° on Apr 22, 2026?",
             "bracket": "Will the high temp in Chicago be <69° on Apr 22, 2026?",
-            "yes_ask": 0.66,
-            "no_ask": 0.38,
+            "yes_ask": 0.3,
+            "no_ask": 0.72,
             "close_time": "2026-04-23T05:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHCHI-26APR22-B75.5",
             "title": "Will the high temp in Chicago be 75-76° on Apr 22, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -213,8 +213,8 @@
             "ticker": "KXHIGHCHI-26APR22-B73.5",
             "title": "Will the high temp in Chicago be 73-74° on Apr 22, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -222,8 +222,8 @@
             "ticker": "KXHIGHCHI-26APR22-B71.5",
             "title": "Will the high temp in Chicago be 71-72° on Apr 22, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.17,
+            "no_ask": 0.85,
             "close_time": "2026-04-23T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -231,10 +231,10 @@
             "ticker": "KXHIGHCHI-26APR22-B69.5",
             "title": "Will the high temp in Chicago be 69-70° on Apr 22, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.27,
-            "no_ask": 0.77,
+            "yes_ask": 0.44,
+            "no_ask": 0.6,
             "close_time": "2026-04-23T05:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           }
         ]
       },
@@ -254,8 +254,8 @@
             "ticker": "KXHIGHTDAL-26APR22-T75",
             "title": "Will the maximum temperature be  <75° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <75° on Apr 22, 2026?",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.37,
+            "no_ask": 0.65,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -272,8 +272,8 @@
             "ticker": "KXHIGHTDAL-26APR22-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -281,8 +281,8 @@
             "ticker": "KXHIGHTDAL-26APR22-B77.5",
             "title": "Will the maximum temperature be  77-78° on Apr 22, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.2,
-            "no_ask": 0.85,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -290,8 +290,8 @@
             "ticker": "KXHIGHTDAL-26APR22-B75.5",
             "title": "Will the maximum temperature be  75-76° on Apr 22, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.53,
-            "no_ask": 0.48,
+            "yes_ask": 0.64,
+            "no_ask": 0.37,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -314,7 +314,7 @@
             "title": "Will the high temp in Denver be <79° on Apr 22, 2026?",
             "bracket": "Will the high temp in Denver be <79° on Apr 22, 2026?",
             "yes_ask": 0.04,
-            "no_ask": 1.0,
+            "no_ask": 0.97,
             "close_time": "2026-04-23T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -322,8 +322,8 @@
             "ticker": "KXHIGHDEN-26APR22-B85.5",
             "title": "Will the high temp in Denver be 85-86° on Apr 22, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.14,
-            "no_ask": 0.87,
+            "yes_ask": 0.15,
+            "no_ask": 0.86,
             "close_time": "2026-04-23T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -331,8 +331,8 @@
             "ticker": "KXHIGHDEN-26APR22-B83.5",
             "title": "Will the high temp in Denver be 83-84° on Apr 22, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.48,
+            "no_ask": 0.53,
             "close_time": "2026-04-23T06:59:00Z",
             "lowest_no_ask": true
           },
@@ -340,8 +340,8 @@
             "ticker": "KXHIGHDEN-26APR22-B81.5",
             "title": "Will the high temp in Denver be 81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.33,
-            "no_ask": 0.7,
+            "yes_ask": 0.35,
+            "no_ask": 0.68,
             "close_time": "2026-04-23T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -349,8 +349,8 @@
             "ticker": "KXHIGHDEN-26APR22-B79.5",
             "title": "Will the high temp in Denver be 79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-04-23T06:59:00Z",
             "lowest_no_ask": false
           }
@@ -372,8 +372,8 @@
             "ticker": "KXHIGHTHOU-26APR22-T79",
             "title": "Will the maximum temperature be  <79° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <79° on Apr 22, 2026?",
-            "yes_ask": 0.17,
-            "no_ask": 0.85,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -381,8 +381,8 @@
             "ticker": "KXHIGHTHOU-26APR22-B85.5",
             "title": "Will the maximum temperature be  85-86° on Apr 22, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -390,8 +390,8 @@
             "ticker": "KXHIGHTHOU-26APR22-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 22, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.32,
+            "no_ask": 0.72,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -399,19 +399,19 @@
             "ticker": "KXHIGHTHOU-26APR22-B81.5",
             "title": "Will the maximum temperature be  81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.38,
-            "no_ask": 0.65,
+            "yes_ask": 0.62,
+            "no_ask": 0.4,
             "close_time": "2026-04-23T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTHOU-26APR22-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -449,8 +449,8 @@
             "ticker": "KXHIGHTLV-26APR22-B77.5",
             "title": "Will the maximum temperature be  77-78° on Apr 22, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.65,
-            "no_ask": 0.38,
+            "yes_ask": 0.66,
+            "no_ask": 0.36,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -467,8 +467,8 @@
             "ticker": "KXHIGHTLV-26APR22-B73.5",
             "title": "Will the maximum temperature be  73-74° on Apr 22, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -481,8 +481,8 @@
             "ticker": "KXHIGHLAX-26APR22-T71",
             "title": "Will the high temp in LA be >71° on Apr 22, 2026?",
             "bracket": "Will the high temp in LA be >71° on Apr 22, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-23T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -499,8 +499,8 @@
             "ticker": "KXHIGHLAX-26APR22-B70.5",
             "title": "Will the high temp in LA be 70-71° on Apr 22, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.17,
-            "no_ask": 0.84,
+            "yes_ask": 0.14,
+            "no_ask": 0.87,
             "close_time": "2026-04-23T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -508,8 +508,8 @@
             "ticker": "KXHIGHLAX-26APR22-B68.5",
             "title": "Will the high temp in LA be 68-69° on Apr 22, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.45,
-            "no_ask": 0.56,
+            "yes_ask": 0.53,
+            "no_ask": 0.5,
             "close_time": "2026-04-23T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -517,7 +517,7 @@
             "ticker": "KXHIGHLAX-26APR22-B66.5",
             "title": "Will the high temp in LA be 66-67° on Apr 22, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.31,
+            "yes_ask": 0.33,
             "no_ask": 0.7,
             "close_time": "2026-04-23T07:59:00Z",
             "lowest_no_ask": false
@@ -526,8 +526,8 @@
             "ticker": "KXHIGHLAX-26APR22-B64.5",
             "title": "Will the high temp in LA be 64-65° on Apr 22, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-04-23T07:59:00Z",
             "lowest_no_ask": false
           }
@@ -540,8 +540,8 @@
             "ticker": "KXHIGHMIA-26APR22-T82",
             "title": "Will the high temp in Miami be >82° on Apr 22, 2026?",
             "bracket": "Will the high temp in Miami be >82° on Apr 22, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -558,8 +558,8 @@
             "ticker": "KXHIGHMIA-26APR22-B81.5",
             "title": "Will the high temp in Miami be 81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.31,
-            "no_ask": 0.73,
+            "yes_ask": 0.43,
+            "no_ask": 0.6,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -567,8 +567,8 @@
             "ticker": "KXHIGHMIA-26APR22-B79.5",
             "title": "Will the high temp in Miami be 79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.75,
-            "no_ask": 0.31,
+            "yes_ask": 0.61,
+            "no_ask": 0.44,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -599,7 +599,7 @@
             "ticker": "KXHIGHTMIN-26APR22-T88",
             "title": "Will the maximum temperature be  >88° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  >88° on Apr 22, 2026?",
-            "yes_ask": 0.06,
+            "yes_ask": 0.02,
             "no_ask": 1.0,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
@@ -608,8 +608,8 @@
             "ticker": "KXHIGHTMIN-26APR22-T81",
             "title": "Will the maximum temperature be  <81° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <81° on Apr 22, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -617,7 +617,7 @@
             "ticker": "KXHIGHTMIN-26APR22-B87.5",
             "title": "Will the maximum temperature be  87-88° on Apr 22, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.06,
+            "yes_ask": 0.07,
             "no_ask": 0.97,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
@@ -635,8 +635,8 @@
             "ticker": "KXHIGHTMIN-26APR22-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 22, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.45,
-            "no_ask": 0.56,
+            "yes_ask": 0.52,
+            "no_ask": 0.54,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -644,8 +644,8 @@
             "ticker": "KXHIGHTMIN-26APR22-B81.5",
             "title": "Will the maximum temperature be  81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.18,
-            "no_ask": 0.84,
+            "yes_ask": 0.15,
+            "no_ask": 0.86,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -667,10 +667,10 @@
             "ticker": "KXHIGHNY-26APR22-T57",
             "title": "Will the high temp in NYC be <57° on Apr 22, 2026?",
             "bracket": "Will the high temp in NYC be <57° on Apr 22, 2026?",
-            "yes_ask": 0.59,
-            "no_ask": 0.45,
+            "yes_ask": 0.45,
+            "no_ask": 0.6,
             "close_time": "2026-04-23T04:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHNY-26APR22-B63.5",
@@ -694,8 +694,8 @@
             "ticker": "KXHIGHNY-26APR22-B59.5",
             "title": "Will the high temp in NYC be 59-60° on Apr 22, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -703,10 +703,10 @@
             "ticker": "KXHIGHNY-26APR22-B57.5",
             "title": "Will the high temp in NYC be 57-58° on Apr 22, 2026?",
             "bracket": "57-58°",
-            "yes_ask": 0.39,
-            "no_ask": 0.65,
+            "yes_ask": 0.57,
+            "no_ask": 0.46,
             "close_time": "2026-04-23T04:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           }
         ]
       },
@@ -744,8 +744,8 @@
             "ticker": "KXHIGHTNOLA-26APR22-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 22, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.14,
-            "no_ask": 0.87,
+            "yes_ask": 0.21,
+            "no_ask": 0.81,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -753,8 +753,8 @@
             "ticker": "KXHIGHTNOLA-26APR22-B81.5",
             "title": "Will the maximum temperature be  81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.51,
-            "no_ask": 0.5,
+            "yes_ask": 0.65,
+            "no_ask": 0.36,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -762,8 +762,8 @@
             "ticker": "KXHIGHTNOLA-26APR22-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.24,
+            "no_ask": 0.78,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -785,8 +785,8 @@
             "ticker": "KXHIGHTOKC-26APR22-T71",
             "title": "Will the maximum temperature be  <71° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <71° on Apr 22, 2026?",
-            "yes_ask": 0.69,
-            "no_ask": 0.36,
+            "yes_ask": 0.8,
+            "no_ask": 0.25,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -803,7 +803,7 @@
             "ticker": "KXHIGHTOKC-26APR22-B75.5",
             "title": "Will the maximum temperature be  75-76° on Apr 22, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
@@ -812,8 +812,8 @@
             "ticker": "KXHIGHTOKC-26APR22-B73.5",
             "title": "Will the maximum temperature be  73-74° on Apr 22, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.08,
-            "no_ask": 0.97,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -821,8 +821,8 @@
             "ticker": "KXHIGHTOKC-26APR22-B71.5",
             "title": "Will the maximum temperature be  71-72° on Apr 22, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.34,
-            "no_ask": 0.74,
+            "yes_ask": 0.22,
+            "no_ask": 0.82,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -835,8 +835,8 @@
             "ticker": "KXHIGHPHIL-26APR22-T69",
             "title": "Will the high temp in Philadelphia be >69° on Apr 22, 2026?",
             "bracket": "Will the high temp in Philadelphia be >69° on Apr 22, 2026?",
-            "yes_ask": 0.14,
-            "no_ask": 0.9,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -844,8 +844,8 @@
             "ticker": "KXHIGHPHIL-26APR22-T62",
             "title": "Will the high temp in Philadelphia be <62° on Apr 22, 2026?",
             "bracket": "Will the high temp in Philadelphia be <62° on Apr 22, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.03,
+            "no_ask": 1.0,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -853,7 +853,7 @@
             "ticker": "KXHIGHPHIL-26APR22-B68.5",
             "title": "Will the high temp in Philadelphia be 68-69° on Apr 22, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.35,
+            "yes_ask": 0.34,
             "no_ask": 0.67,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": true
@@ -862,7 +862,7 @@
             "ticker": "KXHIGHPHIL-26APR22-B66.5",
             "title": "Will the high temp in Philadelphia be 66-67° on Apr 22, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.38,
+            "yes_ask": 0.36,
             "no_ask": 0.72,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
@@ -871,8 +871,8 @@
             "ticker": "KXHIGHPHIL-26APR22-B64.5",
             "title": "Will the high temp in Philadelphia be 64-65° on Apr 22, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.14,
+            "no_ask": 0.89,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -880,8 +880,8 @@
             "ticker": "KXHIGHPHIL-26APR22-B62.5",
             "title": "Will the high temp in Philadelphia be 62-63° on Apr 22, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.03,
-            "no_ask": 1.0,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-23T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -894,7 +894,7 @@
             "ticker": "KXHIGHTPHX-26APR22-T92",
             "title": "Will the maximum temperature be  >92° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  >92° on Apr 22, 2026?",
-            "yes_ask": 0.03,
+            "yes_ask": 0.02,
             "no_ask": 1.0,
             "close_time": "2026-04-23T07:00:00Z",
             "lowest_no_ask": false
@@ -903,7 +903,7 @@
             "ticker": "KXHIGHTPHX-26APR22-T85",
             "title": "Will the maximum temperature be  <85° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <85° on Apr 22, 2026?",
-            "yes_ask": 0.08,
+            "yes_ask": 0.02,
             "no_ask": 1.0,
             "close_time": "2026-04-23T07:00:00Z",
             "lowest_no_ask": false
@@ -913,7 +913,7 @@
             "title": "Will the maximum temperature be  91-92° on Apr 22, 2026?",
             "bracket": "91-92°",
             "yes_ask": 0.07,
-            "no_ask": 0.95,
+            "no_ask": 0.96,
             "close_time": "2026-04-23T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -921,7 +921,7 @@
             "ticker": "KXHIGHTPHX-26APR22-B89.5",
             "title": "Will the maximum temperature be  89-90° on Apr 22, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.52,
+            "yes_ask": 0.5,
             "no_ask": 0.51,
             "close_time": "2026-04-23T07:00:00Z",
             "lowest_no_ask": true
@@ -930,8 +930,8 @@
             "ticker": "KXHIGHTPHX-26APR22-B87.5",
             "title": "Will the maximum temperature be  87-88° on Apr 22, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.35,
+            "no_ask": 0.66,
             "close_time": "2026-04-23T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -962,8 +962,8 @@
             "ticker": "KXHIGHTSATX-26APR22-T79",
             "title": "Will the maximum temperature be  <79° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <79° on Apr 22, 2026?",
-            "yes_ask": 0.18,
-            "no_ask": 0.85,
+            "yes_ask": 0.09,
+            "no_ask": 0.95,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -971,8 +971,8 @@
             "ticker": "KXHIGHTSATX-26APR22-B85.5",
             "title": "Will the maximum temperature be  85-86° on Apr 22, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.02,
-            "no_ask": 1.0,
+            "yes_ask": 0.04,
+            "no_ask": 0.98,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -980,7 +980,7 @@
             "ticker": "KXHIGHTSATX-26APR22-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 22, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.14,
+            "yes_ask": 0.12,
             "no_ask": 0.91,
             "close_time": "2026-04-23T06:00:00Z",
             "lowest_no_ask": false
@@ -989,19 +989,19 @@
             "ticker": "KXHIGHTSATX-26APR22-B81.5",
             "title": "Will the maximum temperature be  81-82° on Apr 22, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.37,
-            "no_ask": 0.65,
+            "yes_ask": 0.5,
+            "no_ask": 0.59,
             "close_time": "2026-04-23T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTSATX-26APR22-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 22, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.41,
-            "no_ask": 0.61,
+            "yes_ask": 0.4,
+            "no_ask": 0.67,
             "close_time": "2026-04-23T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -1039,8 +1039,8 @@
             "ticker": "KXHIGHTSFO-26APR22-B64.5",
             "title": "Will the maximum temperature be  64-65° on Apr 22, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.51,
-            "no_ask": 0.53,
+            "yes_ask": 0.52,
+            "no_ask": 0.49,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1048,8 +1048,8 @@
             "ticker": "KXHIGHTSFO-26APR22-B62.5",
             "title": "Will the maximum temperature be  62-63° on Apr 22, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.29,
-            "no_ask": 0.72,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1057,8 +1057,8 @@
             "ticker": "KXHIGHTSFO-26APR22-B60.5",
             "title": "Will the maximum temperature be  60-61° on Apr 22, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1080,8 +1080,8 @@
             "ticker": "KXHIGHTSEA-26APR22-T54",
             "title": "Will the maximum temperature be  <54° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <54° on Apr 22, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1089,8 +1089,8 @@
             "ticker": "KXHIGHTSEA-26APR22-B60.5",
             "title": "Will the maximum temperature be  60-61° on Apr 22, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.05,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.99,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1098,8 +1098,8 @@
             "ticker": "KXHIGHTSEA-26APR22-B58.5",
             "title": "Will the maximum temperature be  58-59° on Apr 22, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.31,
-            "no_ask": 0.71,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1107,8 +1107,8 @@
             "ticker": "KXHIGHTSEA-26APR22-B56.5",
             "title": "Will the maximum temperature be  56-57° on Apr 22, 2026?",
             "bracket": "56-57°",
-            "yes_ask": 0.48,
-            "no_ask": 0.53,
+            "yes_ask": 0.5,
+            "no_ask": 0.51,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1116,8 +1116,8 @@
             "ticker": "KXHIGHTSEA-26APR22-B54.5",
             "title": "Will the maximum temperature be  54-55° on Apr 22, 2026?",
             "bracket": "54-55°",
-            "yes_ask": 0.2,
-            "no_ask": 0.81,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-04-23T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1130,8 +1130,8 @@
             "ticker": "KXHIGHTDC-26APR22-T75",
             "title": "Will the maximum temperature be  >75° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  >75° on Apr 22, 2026?",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1139,8 +1139,8 @@
             "ticker": "KXHIGHTDC-26APR22-T68",
             "title": "Will the maximum temperature be  <68° on Apr 22, 2026?",
             "bracket": "Will the maximum temperature be  <68° on Apr 22, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1148,8 +1148,8 @@
             "ticker": "KXHIGHTDC-26APR22-B74.5",
             "title": "Will the maximum temperature be  74-75° on Apr 22, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.4,
-            "no_ask": 0.63,
+            "yes_ask": 0.39,
+            "no_ask": 0.67,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1157,8 +1157,8 @@
             "ticker": "KXHIGHTDC-26APR22-B72.5",
             "title": "Will the maximum temperature be  72-73° on Apr 22, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.18,
-            "no_ask": 0.84,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1166,8 +1166,8 @@
             "ticker": "KXHIGHTDC-26APR22-B70.5",
             "title": "Will the maximum temperature be  70-71° on Apr 22, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-04-23T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1191,7 +1191,7 @@
             "ticker": "KXHIGHTATL-26APR23-T88",
             "title": "Will the maximum temperature be  >88° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >88° on Apr 23, 2026?",
-            "yes_ask": 0.07,
+            "yes_ask": 0.04,
             "no_ask": 0.97,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
@@ -1200,7 +1200,7 @@
             "ticker": "KXHIGHTATL-26APR23-T81",
             "title": "Will the maximum temperature be  <81° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <81° on Apr 23, 2026?",
-            "yes_ask": 0.04,
+            "yes_ask": 0.06,
             "no_ask": 0.97,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
@@ -1209,8 +1209,8 @@
             "ticker": "KXHIGHTATL-26APR23-B87.5",
             "title": "Will the maximum temperature be  87-88° on Apr 23, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.13,
+            "no_ask": 0.91,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1218,8 +1218,8 @@
             "ticker": "KXHIGHTATL-26APR23-B85.5",
             "title": "Will the maximum temperature be  85-86° on Apr 23, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1227,7 +1227,7 @@
             "ticker": "KXHIGHTATL-26APR23-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 23, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.48,
+            "yes_ask": 0.47,
             "no_ask": 0.58,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": true
@@ -1237,7 +1237,7 @@
             "title": "Will the maximum temperature be  81-82° on Apr 23, 2026?",
             "bracket": "81-82°",
             "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "no_ask": 0.84,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -1250,7 +1250,7 @@
             "ticker": "KXHIGHAUS-26APR23-T88",
             "title": "Will the high temp in Austin be >88° on Apr 23, 2026?",
             "bracket": "Will the high temp in Austin be >88° on Apr 23, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.04,
             "no_ask": 0.99,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
@@ -1259,8 +1259,8 @@
             "ticker": "KXHIGHAUS-26APR23-T81",
             "title": "Will the high temp in Austin be <81° on Apr 23, 2026?",
             "bracket": "Will the high temp in Austin be <81° on Apr 23, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1268,8 +1268,8 @@
             "ticker": "KXHIGHAUS-26APR23-B87.5",
             "title": "Will the high temp in Austin be 87-88° on Apr 23, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.13,
-            "no_ask": 0.92,
+            "yes_ask": 0.12,
+            "no_ask": 0.96,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1277,8 +1277,8 @@
             "ticker": "KXHIGHAUS-26APR23-B85.5",
             "title": "Will the high temp in Austin be 85-86° on Apr 23, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.24,
-            "no_ask": 0.8,
+            "yes_ask": 0.32,
+            "no_ask": 0.75,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1286,8 +1286,8 @@
             "ticker": "KXHIGHAUS-26APR23-B83.5",
             "title": "Will the high temp in Austin be 83-84° on Apr 23, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.38,
-            "no_ask": 0.68,
+            "yes_ask": 0.37,
+            "no_ask": 0.69,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -1296,7 +1296,7 @@
             "title": "Will the high temp in Austin be 81-82° on Apr 23, 2026?",
             "bracket": "81-82°",
             "yes_ask": 0.25,
-            "no_ask": 0.82,
+            "no_ask": 0.81,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           }
@@ -1310,7 +1310,7 @@
             "title": "Will the maximum temperature be  >65° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >65° on Apr 23, 2026?",
             "yes_ask": 0.15,
-            "no_ask": 0.87,
+            "no_ask": 0.86,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1318,8 +1318,8 @@
             "ticker": "KXHIGHTBOS-26APR23-T58",
             "title": "Will the maximum temperature be  <58° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <58° on Apr 23, 2026?",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.08,
+            "no_ask": 0.94,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1327,8 +1327,8 @@
             "ticker": "KXHIGHTBOS-26APR23-B64.5",
             "title": "Will the maximum temperature be  64-65° on Apr 23, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.22,
+            "no_ask": 0.79,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1336,8 +1336,8 @@
             "ticker": "KXHIGHTBOS-26APR23-B62.5",
             "title": "Will the maximum temperature be  62-63° on Apr 23, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.3,
-            "no_ask": 0.76,
+            "yes_ask": 0.31,
+            "no_ask": 0.7,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1345,7 +1345,7 @@
             "ticker": "KXHIGHTBOS-26APR23-B60.5",
             "title": "Will the maximum temperature be  60-61° on Apr 23, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.22,
+            "yes_ask": 0.18,
             "no_ask": 0.83,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
@@ -1355,7 +1355,7 @@
             "title": "Will the maximum temperature be  58-59° on Apr 23, 2026?",
             "bracket": "58-59°",
             "yes_ask": 0.14,
-            "no_ask": 0.89,
+            "no_ask": 0.88,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -1377,8 +1377,8 @@
             "ticker": "KXHIGHCHI-26APR23-T78",
             "title": "Will the high temp in Chicago be <78° on Apr 23, 2026?",
             "bracket": "Will the high temp in Chicago be <78° on Apr 23, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.09,
+            "no_ask": 0.93,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1386,8 +1386,8 @@
             "ticker": "KXHIGHCHI-26APR23-B84.5",
             "title": "Will the high temp in Chicago be 84-85° on Apr 23, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1395,26 +1395,26 @@
             "ticker": "KXHIGHCHI-26APR23-B82.5",
             "title": "Will the high temp in Chicago be 82-83° on Apr 23, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-04-24T05:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHCHI-26APR23-B80.5",
             "title": "Will the high temp in Chicago be 80-81° on Apr 23, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.24,
-            "no_ask": 0.77,
+            "yes_ask": 0.3,
+            "no_ask": 0.73,
             "close_time": "2026-04-24T05:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHCHI-26APR23-B78.5",
             "title": "Will the high temp in Chicago be 78-79° on Apr 23, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.14,
+            "no_ask": 0.88,
             "close_time": "2026-04-24T05:59:00Z",
             "lowest_no_ask": false
           }
@@ -1427,8 +1427,8 @@
             "ticker": "KXHIGHTDAL-26APR23-T85",
             "title": "Will the maximum temperature be  >85° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >85° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.07,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1436,8 +1436,8 @@
             "ticker": "KXHIGHTDAL-26APR23-T78",
             "title": "Will the maximum temperature be  <78° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <78° on Apr 23, 2026?",
-            "yes_ask": 0.11,
-            "no_ask": 0.93,
+            "yes_ask": 0.13,
+            "no_ask": 0.9,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1445,8 +1445,8 @@
             "ticker": "KXHIGHTDAL-26APR23-B84.5",
             "title": "Will the maximum temperature be  84-85° on Apr 23, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.08,
-            "no_ask": 0.96,
+            "yes_ask": 0.09,
+            "no_ask": 0.94,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1454,8 +1454,8 @@
             "ticker": "KXHIGHTDAL-26APR23-B82.5",
             "title": "Will the maximum temperature be  82-83° on Apr 23, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.19,
+            "no_ask": 0.83,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1472,8 +1472,8 @@
             "ticker": "KXHIGHTDAL-26APR23-B78.5",
             "title": "Will the maximum temperature be  78-79° on Apr 23, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.24,
-            "no_ask": 0.79,
+            "yes_ask": 0.27,
+            "no_ask": 0.76,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -1487,7 +1487,7 @@
             "title": "Will the high temp in Denver be >67° on Apr 23, 2026?",
             "bracket": "Will the high temp in Denver be >67° on Apr 23, 2026?",
             "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "no_ask": 0.99,
             "close_time": "2026-04-24T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -1513,8 +1513,8 @@
             "ticker": "KXHIGHDEN-26APR23-B64.5",
             "title": "Will the high temp in Denver be 64-65° on Apr 23, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.32,
-            "no_ask": 0.69,
+            "yes_ask": 0.38,
+            "no_ask": 0.65,
             "close_time": "2026-04-24T06:59:00Z",
             "lowest_no_ask": true
           },
@@ -1522,8 +1522,8 @@
             "ticker": "KXHIGHDEN-26APR23-B62.5",
             "title": "Will the high temp in Denver be 62-63° on Apr 23, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.29,
-            "no_ask": 0.75,
+            "yes_ask": 0.3,
+            "no_ask": 0.72,
             "close_time": "2026-04-24T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -1531,8 +1531,8 @@
             "ticker": "KXHIGHDEN-26APR23-B60.5",
             "title": "Will the high temp in Denver be 60-61° on Apr 23, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.15,
-            "no_ask": 0.88,
+            "yes_ask": 0.16,
+            "no_ask": 0.89,
             "close_time": "2026-04-24T06:59:00Z",
             "lowest_no_ask": false
           }
@@ -1545,8 +1545,8 @@
             "ticker": "KXHIGHTHOU-26APR23-T88",
             "title": "Will the maximum temperature be  >88° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >88° on Apr 23, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1554,8 +1554,8 @@
             "ticker": "KXHIGHTHOU-26APR23-T81",
             "title": "Will the maximum temperature be  <81° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <81° on Apr 23, 2026?",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.15,
+            "no_ask": 0.88,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1563,8 +1563,8 @@
             "ticker": "KXHIGHTHOU-26APR23-B87.5",
             "title": "Will the maximum temperature be  87-88° on Apr 23, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
+            "yes_ask": 0.06,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1572,8 +1572,8 @@
             "ticker": "KXHIGHTHOU-26APR23-B85.5",
             "title": "Will the maximum temperature be  85-86° on Apr 23, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.14,
+            "no_ask": 0.87,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1581,8 +1581,8 @@
             "ticker": "KXHIGHTHOU-26APR23-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 23, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.4,
-            "no_ask": 0.61,
+            "yes_ask": 0.42,
+            "no_ask": 0.6,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1604,8 +1604,8 @@
             "ticker": "KXHIGHTLV-26APR23-T83",
             "title": "Will the maximum temperature be  >83° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >83° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1613,8 +1613,8 @@
             "ticker": "KXHIGHTLV-26APR23-T76",
             "title": "Will the maximum temperature be  <76° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <76° on Apr 23, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.95,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1631,8 +1631,8 @@
             "ticker": "KXHIGHTLV-26APR23-B80.5",
             "title": "Will the maximum temperature be  80-81° on Apr 23, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.11,
-            "no_ask": 0.93,
+            "yes_ask": 0.1,
+            "no_ask": 0.94,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1640,8 +1640,8 @@
             "ticker": "KXHIGHTLV-26APR23-B78.5",
             "title": "Will the maximum temperature be  78-79° on Apr 23, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.49,
-            "no_ask": 0.52,
+            "yes_ask": 0.54,
+            "no_ask": 0.47,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1649,8 +1649,8 @@
             "ticker": "KXHIGHTLV-26APR23-B76.5",
             "title": "Will the maximum temperature be  76-77° on Apr 23, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.33,
-            "no_ask": 0.69,
+            "yes_ask": 0.29,
+            "no_ask": 0.72,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1681,8 +1681,8 @@
             "ticker": "KXHIGHLAX-26APR23-B74.5",
             "title": "Will the high temp in LA be 74-75° on Apr 23, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.17,
-            "no_ask": 0.84,
+            "yes_ask": 0.16,
+            "no_ask": 0.87,
             "close_time": "2026-04-24T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -1693,14 +1693,14 @@
             "yes_ask": 0.34,
             "no_ask": 0.67,
             "close_time": "2026-04-24T07:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHLAX-26APR23-B70.5",
             "title": "Will the high temp in LA be 70-71° on Apr 23, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.35,
-            "no_ask": 0.67,
+            "yes_ask": 0.36,
+            "no_ask": 0.66,
             "close_time": "2026-04-24T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -1708,8 +1708,8 @@
             "ticker": "KXHIGHLAX-26APR23-B68.5",
             "title": "Will the high temp in LA be 68-69° on Apr 23, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-04-24T07:59:00Z",
             "lowest_no_ask": false
           }
@@ -1722,8 +1722,8 @@
             "ticker": "KXHIGHMIA-26APR23-T82",
             "title": "Will the high temp in Miami be >82° on Apr 23, 2026?",
             "bracket": "Will the high temp in Miami be >82° on Apr 23, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.98,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1740,8 +1740,8 @@
             "ticker": "KXHIGHMIA-26APR23-B81.5",
             "title": "Will the high temp in Miami be 81-82° on Apr 23, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
+            "yes_ask": 0.33,
+            "no_ask": 0.71,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1758,8 +1758,8 @@
             "ticker": "KXHIGHMIA-26APR23-B77.5",
             "title": "Will the high temp in Miami be 77-78° on Apr 23, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.2,
-            "no_ask": 0.83,
+            "yes_ask": 0.15,
+            "no_ask": 0.86,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1781,8 +1781,8 @@
             "ticker": "KXHIGHTMIN-26APR23-T79",
             "title": "Will the maximum temperature be  >79° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >79° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1791,7 +1791,7 @@
             "title": "Will the maximum temperature be  <72° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <72° on Apr 23, 2026?",
             "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "no_ask": 0.69,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1799,8 +1799,8 @@
             "ticker": "KXHIGHTMIN-26APR23-B78.5",
             "title": "Will the maximum temperature be  78-79° on Apr 23, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.04,
-            "no_ask": 0.99,
+            "yes_ask": 0.06,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1808,8 +1808,8 @@
             "ticker": "KXHIGHTMIN-26APR23-B76.5",
             "title": "Will the maximum temperature be  76-77° on Apr 23, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.11,
-            "no_ask": 0.93,
+            "yes_ask": 0.06,
+            "no_ask": 0.96,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1817,7 +1817,7 @@
             "ticker": "KXHIGHTMIN-26APR23-B74.5",
             "title": "Will the maximum temperature be  74-75° on Apr 23, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.26,
+            "yes_ask": 0.25,
             "no_ask": 0.77,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
@@ -1826,8 +1826,8 @@
             "ticker": "KXHIGHTMIN-26APR23-B72.5",
             "title": "Will the maximum temperature be  72-73° on Apr 23, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.37,
+            "no_ask": 0.64,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1840,8 +1840,8 @@
             "ticker": "KXHIGHNY-26APR23-T75",
             "title": "Will the high temp in NYC be >75° on Apr 23, 2026?",
             "bracket": "Will the high temp in NYC be >75° on Apr 23, 2026?",
-            "yes_ask": 0.17,
-            "no_ask": 0.84,
+            "yes_ask": 0.2,
+            "no_ask": 0.82,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1858,8 +1858,8 @@
             "ticker": "KXHIGHNY-26APR23-B74.5",
             "title": "Will the high temp in NYC be 74-75° on Apr 23, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.38,
-            "no_ask": 0.65,
+            "yes_ask": 0.34,
+            "no_ask": 0.67,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -1868,7 +1868,7 @@
             "title": "Will the high temp in NYC be 72-73° on Apr 23, 2026?",
             "bracket": "72-73°",
             "yes_ask": 0.24,
-            "no_ask": 0.8,
+            "no_ask": 0.77,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1899,8 +1899,8 @@
             "ticker": "KXHIGHTNOLA-26APR23-T87",
             "title": "Will the maximum temperature be  >87° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >87° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1908,8 +1908,8 @@
             "ticker": "KXHIGHTNOLA-26APR23-T80",
             "title": "Will the maximum temperature be  <80° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <80° on Apr 23, 2026?",
-            "yes_ask": 0.16,
-            "no_ask": 0.87,
+            "yes_ask": 0.14,
+            "no_ask": 0.91,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1918,7 +1918,7 @@
             "title": "Will the maximum temperature be  86-87° on Apr 23, 2026?",
             "bracket": "86-87°",
             "yes_ask": 0.06,
-            "no_ask": 0.98,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1926,8 +1926,8 @@
             "ticker": "KXHIGHTNOLA-26APR23-B84.5",
             "title": "Will the maximum temperature be  84-85° on Apr 23, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.12,
+            "no_ask": 0.94,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1944,8 +1944,8 @@
             "ticker": "KXHIGHTNOLA-26APR23-B80.5",
             "title": "Will the maximum temperature be  80-81° on Apr 23, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.37,
-            "no_ask": 0.64,
+            "yes_ask": 0.41,
+            "no_ask": 0.6,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -1958,8 +1958,8 @@
             "ticker": "KXHIGHTOKC-26APR23-T83",
             "title": "Will the maximum temperature be  >83° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >83° on Apr 23, 2026?",
-            "yes_ask": 0.34,
-            "no_ask": 0.69,
+            "yes_ask": 0.33,
+            "no_ask": 0.71,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1967,8 +1967,8 @@
             "ticker": "KXHIGHTOKC-26APR23-T76",
             "title": "Will the maximum temperature be  <76° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <76° on Apr 23, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1979,14 +1979,14 @@
             "yes_ask": 0.3,
             "no_ask": 0.71,
             "close_time": "2026-04-24T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTOKC-26APR23-B80.5",
             "title": "Will the maximum temperature be  80-81° on Apr 23, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.28,
+            "no_ask": 0.76,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1994,7 +1994,7 @@
             "ticker": "KXHIGHTOKC-26APR23-B78.5",
             "title": "Will the maximum temperature be  78-79° on Apr 23, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.15,
+            "yes_ask": 0.14,
             "no_ask": 0.9,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
@@ -2003,7 +2003,7 @@
             "ticker": "KXHIGHTOKC-26APR23-B76.5",
             "title": "Will the maximum temperature be  76-77° on Apr 23, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.06,
+            "yes_ask": 0.05,
             "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
@@ -2026,8 +2026,8 @@
             "ticker": "KXHIGHPHIL-26APR23-T73",
             "title": "Will the high temp in Philadelphia be <73° on Apr 23, 2026?",
             "bracket": "Will the high temp in Philadelphia be <73° on Apr 23, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.99,
+            "yes_ask": 0.05,
+            "no_ask": 0.98,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -2036,7 +2036,7 @@
             "title": "Will the high temp in Philadelphia be 79-80° on Apr 23, 2026?",
             "bracket": "79-80°",
             "yes_ask": 0.29,
-            "no_ask": 0.72,
+            "no_ask": 0.73,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -2044,8 +2044,8 @@
             "ticker": "KXHIGHPHIL-26APR23-B77.5",
             "title": "Will the high temp in Philadelphia be 77-78° on Apr 23, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.29,
-            "no_ask": 0.75,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -2053,8 +2053,8 @@
             "ticker": "KXHIGHPHIL-26APR23-B75.5",
             "title": "Will the high temp in Philadelphia be 75-76° on Apr 23, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.15,
-            "no_ask": 0.93,
+            "yes_ask": 0.14,
+            "no_ask": 0.91,
             "close_time": "2026-04-24T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -2076,8 +2076,8 @@
             "ticker": "KXHIGHTPHX-26APR23-T92",
             "title": "Will the maximum temperature be  >92° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >92° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -2085,8 +2085,8 @@
             "ticker": "KXHIGHTPHX-26APR23-T85",
             "title": "Will the maximum temperature be  <85° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <85° on Apr 23, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.08,
+            "no_ask": 0.95,
             "close_time": "2026-04-24T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -2094,7 +2094,7 @@
             "ticker": "KXHIGHTPHX-26APR23-B91.5",
             "title": "Will the maximum temperature be  91-92° on Apr 23, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.07,
+            "yes_ask": 0.08,
             "no_ask": 0.95,
             "close_time": "2026-04-24T07:00:00Z",
             "lowest_no_ask": false
@@ -2103,8 +2103,8 @@
             "ticker": "KXHIGHTPHX-26APR23-B89.5",
             "title": "Will the maximum temperature be  89-90° on Apr 23, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.16,
-            "no_ask": 0.89,
+            "yes_ask": 0.17,
+            "no_ask": 0.88,
             "close_time": "2026-04-24T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -2112,7 +2112,7 @@
             "ticker": "KXHIGHTPHX-26APR23-B87.5",
             "title": "Will the maximum temperature be  87-88° on Apr 23, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.55,
+            "yes_ask": 0.56,
             "no_ask": 0.46,
             "close_time": "2026-04-24T07:00:00Z",
             "lowest_no_ask": true
@@ -2121,8 +2121,8 @@
             "ticker": "KXHIGHTPHX-26APR23-B85.5",
             "title": "Will the maximum temperature be  85-86° on Apr 23, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.24,
+            "no_ask": 0.84,
             "close_time": "2026-04-24T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -2136,7 +2136,7 @@
             "title": "Will the maximum temperature be  >88° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >88° on Apr 23, 2026?",
             "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2145,7 +2145,7 @@
             "title": "Will the maximum temperature be  <81° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <81° on Apr 23, 2026?",
             "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "no_ask": 0.91,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2154,7 +2154,7 @@
             "title": "Will the maximum temperature be  87-88° on Apr 23, 2026?",
             "bracket": "87-88°",
             "yes_ask": 0.12,
-            "no_ask": 0.96,
+            "no_ask": 0.95,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2162,8 +2162,8 @@
             "ticker": "KXHIGHTSATX-26APR23-B85.5",
             "title": "Will the maximum temperature be  85-86° on Apr 23, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.26,
-            "no_ask": 0.79,
+            "yes_ask": 0.25,
+            "no_ask": 0.77,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2171,8 +2171,8 @@
             "ticker": "KXHIGHTSATX-26APR23-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 23, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.36,
-            "no_ask": 0.69,
+            "yes_ask": 0.38,
+            "no_ask": 0.64,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -2180,8 +2180,8 @@
             "ticker": "KXHIGHTSATX-26APR23-B81.5",
             "title": "Will the maximum temperature be  81-82° on Apr 23, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.21,
-            "no_ask": 0.83,
+            "yes_ask": 0.22,
+            "no_ask": 0.82,
             "close_time": "2026-04-24T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -2204,7 +2204,7 @@
             "title": "Will the maximum temperature be  <63° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <63° on Apr 23, 2026?",
             "yes_ask": 0.03,
-            "no_ask": 0.99,
+            "no_ask": 0.98,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2212,8 +2212,8 @@
             "ticker": "KXHIGHTSFO-26APR23-B69.5",
             "title": "Will the maximum temperature be  69-70° on Apr 23, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.21,
-            "no_ask": 0.81,
+            "yes_ask": 0.24,
+            "no_ask": 0.79,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2222,7 +2222,7 @@
             "title": "Will the maximum temperature be  67-68° on Apr 23, 2026?",
             "bracket": "67-68°",
             "yes_ask": 0.36,
-            "no_ask": 0.68,
+            "no_ask": 0.66,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -2230,8 +2230,8 @@
             "ticker": "KXHIGHTSFO-26APR23-B65.5",
             "title": "Will the maximum temperature be  65-66° on Apr 23, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.29,
-            "no_ask": 0.74,
+            "yes_ask": 0.27,
+            "no_ask": 0.78,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2239,8 +2239,8 @@
             "ticker": "KXHIGHTSFO-26APR23-B63.5",
             "title": "Will the maximum temperature be  63-64° on Apr 23, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.12,
-            "no_ask": 0.94,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -2253,8 +2253,8 @@
             "ticker": "KXHIGHTSEA-26APR23-T65",
             "title": "Will the maximum temperature be  >65° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  >65° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.06,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2262,8 +2262,8 @@
             "ticker": "KXHIGHTSEA-26APR23-T58",
             "title": "Will the maximum temperature be  <58° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <58° on Apr 23, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.95,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2271,7 +2271,7 @@
             "ticker": "KXHIGHTSEA-26APR23-B64.5",
             "title": "Will the maximum temperature be  64-65° on Apr 23, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.07,
+            "yes_ask": 0.08,
             "no_ask": 0.96,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
@@ -2280,8 +2280,8 @@
             "ticker": "KXHIGHTSEA-26APR23-B62.5",
             "title": "Will the maximum temperature be  62-63° on Apr 23, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.28,
+            "no_ask": 0.8,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2298,8 +2298,8 @@
             "ticker": "KXHIGHTSEA-26APR23-B58.5",
             "title": "Will the maximum temperature be  58-59° on Apr 23, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.22,
+            "no_ask": 0.79,
             "close_time": "2026-04-24T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -2321,8 +2321,8 @@
             "ticker": "KXHIGHTDC-26APR23-T77",
             "title": "Will the maximum temperature be  <77° on Apr 23, 2026?",
             "bracket": "Will the maximum temperature be  <77° on Apr 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2330,8 +2330,8 @@
             "ticker": "KXHIGHTDC-26APR23-B83.5",
             "title": "Will the maximum temperature be  83-84° on Apr 23, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.29,
-            "no_ask": 0.77,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2340,7 +2340,7 @@
             "title": "Will the maximum temperature be  81-82° on Apr 23, 2026?",
             "bracket": "81-82°",
             "yes_ask": 0.34,
-            "no_ask": 0.68,
+            "no_ask": 0.67,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -2348,8 +2348,8 @@
             "ticker": "KXHIGHTDC-26APR23-B79.5",
             "title": "Will the maximum temperature be  79-80° on Apr 23, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.23,
-            "no_ask": 0.82,
+            "yes_ask": 0.22,
+            "no_ask": 0.8,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2357,8 +2357,8 @@
             "ticker": "KXHIGHTDC-26APR23-B77.5",
             "title": "Will the maximum temperature be  77-78° on Apr 23, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.1,
-            "no_ask": 0.97,
+            "yes_ask": 0.07,
+            "no_ask": 0.96,
             "close_time": "2026-04-24T05:00:00Z",
             "lowest_no_ask": false
           }
