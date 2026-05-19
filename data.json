@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-19T22:20:20Z",
+  "fetched_at": "2026-05-19T23:35:59Z",
   "dates": {
     "on May 19, 2026": {
       "Atlanta": {
@@ -297,65 +297,6 @@
           }
         ]
       },
-      "Denver": {
-        "series_ticker": "KXHIGHDEN",
-        "markets": [
-          {
-            "ticker": "KXHIGHDEN-26MAY19-T52",
-            "title": "Will the high temp in Denver be >52° on May 19, 2026?",
-            "bracket": "Will the high temp in Denver be >52° on May 19, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.96,
-            "close_time": "2026-05-20T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY19-T45",
-            "title": "Will the high temp in Denver be <45° on May 19, 2026?",
-            "bracket": "Will the high temp in Denver be <45° on May 19, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-05-20T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY19-B51.5",
-            "title": "Will the high temp in Denver be 51-52° on May 19, 2026?",
-            "bracket": "51-52°",
-            "yes_ask": 0.96,
-            "no_ask": 0.08,
-            "close_time": "2026-05-20T06:59:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY19-B49.5",
-            "title": "Will the high temp in Denver be 49-50° on May 19, 2026?",
-            "bracket": "49-50°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-05-20T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY19-B47.5",
-            "title": "Will the high temp in Denver be 47-48° on May 19, 2026?",
-            "bracket": "47-48°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-05-20T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY19-B45.5",
-            "title": "Will the high temp in Denver be 45-46° on May 19, 2026?",
-            "bracket": "45-46°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-05-20T06:59:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
       "Houston": {
         "series_ticker": "KXHIGHTHOU",
         "markets": [
@@ -449,7 +390,7 @@
             "ticker": "KXHIGHTLV-26MAY19-B84.5",
             "title": "Will the maximum temperature be  84-85° on May 19, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.03,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": false
@@ -458,8 +399,8 @@
             "ticker": "KXHIGHTLV-26MAY19-B82.5",
             "title": "Will the maximum temperature be  82-83° on May 19, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.13,
-            "no_ask": 0.91,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -467,8 +408,8 @@
             "ticker": "KXHIGHTLV-26MAY19-B80.5",
             "title": "Will the maximum temperature be  80-81° on May 19, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.87,
-            "no_ask": 0.16,
+            "yes_ask": 0.94,
+            "no_ask": 0.07,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": true
           }
@@ -481,7 +422,7 @@
             "ticker": "KXHIGHLAX-26MAY19-T78",
             "title": "Will the high temp in LA be >78° on May 19, 2026?",
             "bracket": "Will the high temp in LA be >78° on May 19, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.03,
             "no_ask": 0.99,
             "close_time": "2026-05-20T07:59:00Z",
             "lowest_no_ask": false
@@ -626,8 +567,8 @@
             "ticker": "KXHIGHTMIN-26MAY19-B58.5",
             "title": "Will the maximum temperature be  58-59° on May 19, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-05-20T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -635,8 +576,8 @@
             "ticker": "KXHIGHTMIN-26MAY19-B56.5",
             "title": "Will the maximum temperature be  56-57° on May 19, 2026?",
             "bracket": "56-57°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-05-20T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -644,8 +585,8 @@
             "ticker": "KXHIGHTMIN-26MAY19-B54.5",
             "title": "Will the maximum temperature be  54-55° on May 19, 2026?",
             "bracket": "54-55°",
-            "yes_ask": 0.97,
-            "no_ask": 0.05,
+            "yes_ask": 1.0,
+            "no_ask": 0.01,
             "close_time": "2026-05-20T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -930,8 +871,8 @@
             "ticker": "KXHIGHTPHX-26MAY19-B92.5",
             "title": "Will the maximum temperature be  92-93° on May 19, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.28,
-            "no_ask": 0.76,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-05-20T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -939,8 +880,8 @@
             "ticker": "KXHIGHTPHX-26MAY19-B90.5",
             "title": "Will the maximum temperature be  90-91° on May 19, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.76,
-            "no_ask": 0.28,
+            "yes_ask": 0.98,
+            "no_ask": 0.03,
             "close_time": "2026-05-20T07:00:00Z",
             "lowest_no_ask": true
           }
@@ -989,8 +930,8 @@
             "ticker": "KXHIGHTSATX-26MAY19-B91.5",
             "title": "Will the maximum temperature be  91-92° on May 19, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-05-20T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -998,8 +939,8 @@
             "ticker": "KXHIGHTSATX-26MAY19-B89.5",
             "title": "Will the maximum temperature be  89-90° on May 19, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.97,
-            "no_ask": 0.04,
+            "yes_ask": 1.0,
+            "no_ask": 0.01,
             "close_time": "2026-05-20T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1012,8 +953,8 @@
             "ticker": "KXHIGHTSFO-26MAY19-T82",
             "title": "Will the maximum temperature be  >82° on May 19, 2026?",
             "bracket": "Will the maximum temperature be  >82° on May 19, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1030,8 +971,8 @@
             "ticker": "KXHIGHTSFO-26MAY19-B81.5",
             "title": "Will the maximum temperature be  81-82° on May 19, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.96,
-            "no_ask": 0.05,
+            "yes_ask": 0.99,
+            "no_ask": 0.02,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1080,8 +1021,8 @@
             "ticker": "KXHIGHTSEA-26MAY19-T64",
             "title": "Will the maximum temperature be  <64° on May 19, 2026?",
             "bracket": "Will the maximum temperature be  <64° on May 19, 2026?",
-            "yes_ask": 0.23,
-            "no_ask": 0.79,
+            "yes_ask": 0.22,
+            "no_ask": 0.82,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1107,8 +1048,8 @@
             "ticker": "KXHIGHTSEA-26MAY19-B66.5",
             "title": "Will the maximum temperature be  66-67° on May 19, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1116,8 +1057,8 @@
             "ticker": "KXHIGHTSEA-26MAY19-B64.5",
             "title": "Will the maximum temperature be  64-65° on May 19, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.72,
-            "no_ask": 0.31,
+            "yes_ask": 0.81,
+            "no_ask": 0.2,
             "close_time": "2026-05-20T08:00:00Z",
             "lowest_no_ask": true
           }
@@ -1191,8 +1132,8 @@
             "ticker": "KXHIGHTATL-26MAY20-T93",
             "title": "Will the maximum temperature be  >93° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  >93° on May 20, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1200,8 +1141,8 @@
             "ticker": "KXHIGHTATL-26MAY20-T86",
             "title": "Will the maximum temperature be  <86° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <86° on May 20, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1218,7 +1159,7 @@
             "ticker": "KXHIGHTATL-26MAY20-B90.5",
             "title": "Will the maximum temperature be  90-91° on May 20, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.28,
+            "yes_ask": 0.29,
             "no_ask": 0.73,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
@@ -1227,7 +1168,7 @@
             "ticker": "KXHIGHTATL-26MAY20-B88.5",
             "title": "Will the maximum temperature be  88-89° on May 20, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.42,
+            "yes_ask": 0.43,
             "no_ask": 0.59,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": true
@@ -1236,8 +1177,8 @@
             "ticker": "KXHIGHTATL-26MAY20-B86.5",
             "title": "Will the maximum temperature be  86-87° on May 20, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.2,
-            "no_ask": 0.81,
+            "yes_ask": 0.19,
+            "no_ask": 0.82,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -1259,8 +1200,8 @@
             "ticker": "KXHIGHAUS-26MAY20-T82",
             "title": "Will the high temp in Austin be <82° on May 20, 2026?",
             "bracket": "Will the high temp in Austin be <82° on May 20, 2026?",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1277,7 +1218,7 @@
             "ticker": "KXHIGHAUS-26MAY20-B86.5",
             "title": "Will the high temp in Austin be 86-87° on May 20, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.11,
             "no_ask": 0.92,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": false
@@ -1295,8 +1236,8 @@
             "ticker": "KXHIGHAUS-26MAY20-B82.5",
             "title": "Will the high temp in Austin be 82-83° on May 20, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.35,
-            "no_ask": 0.66,
+            "yes_ask": 0.38,
+            "no_ask": 0.64,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": true
           }
@@ -1318,8 +1259,8 @@
             "ticker": "KXHIGHTBOS-26MAY20-T88",
             "title": "Will the maximum temperature be  <88° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <88° on May 20, 2026?",
-            "yes_ask": 0.09,
-            "no_ask": 0.93,
+            "yes_ask": 0.1,
+            "no_ask": 0.91,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1327,8 +1268,8 @@
             "ticker": "KXHIGHTBOS-26MAY20-B94.5",
             "title": "Will the maximum temperature be  94-95° on May 20, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1345,8 +1286,8 @@
             "ticker": "KXHIGHTBOS-26MAY20-B90.5",
             "title": "Will the maximum temperature be  90-91° on May 20, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "yes_ask": 0.34,
+            "no_ask": 0.68,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1377,8 +1318,8 @@
             "ticker": "KXHIGHCHI-26MAY20-T57",
             "title": "Will the high temp in Chicago be <57° on May 20, 2026?",
             "bracket": "Will the high temp in Chicago be <57° on May 20, 2026?",
-            "yes_ask": 0.14,
-            "no_ask": 0.87,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1387,7 +1328,7 @@
             "title": "Will the high temp in Chicago be 63-64° on May 20, 2026?",
             "bracket": "63-64°",
             "yes_ask": 0.05,
-            "no_ask": 0.97,
+            "no_ask": 0.96,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1395,8 +1336,8 @@
             "ticker": "KXHIGHCHI-26MAY20-B61.5",
             "title": "Will the high temp in Chicago be 61-62° on May 20, 2026?",
             "bracket": "61-62°",
-            "yes_ask": 0.15,
-            "no_ask": 0.87,
+            "yes_ask": 0.17,
+            "no_ask": 0.85,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -1404,8 +1345,8 @@
             "ticker": "KXHIGHCHI-26MAY20-B59.5",
             "title": "Will the high temp in Chicago be 59-60° on May 20, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.35,
-            "no_ask": 0.66,
+            "yes_ask": 0.39,
+            "no_ask": 0.62,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -1413,8 +1354,8 @@
             "ticker": "KXHIGHCHI-26MAY20-B57.5",
             "title": "Will the high temp in Chicago be 57-58° on May 20, 2026?",
             "bracket": "57-58°",
-            "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
             "close_time": "2026-05-21T05:59:00Z",
             "lowest_no_ask": false
           }
@@ -1437,7 +1378,7 @@
             "title": "Will the maximum temperature be  <77° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <77° on May 20, 2026?",
             "yes_ask": 0.13,
-            "no_ask": 0.9,
+            "no_ask": 0.89,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1454,8 +1395,8 @@
             "ticker": "KXHIGHTDAL-26MAY20-B81.5",
             "title": "Will the maximum temperature be  81-82° on May 20, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1464,7 +1405,7 @@
             "title": "Will the maximum temperature be  79-80° on May 20, 2026?",
             "bracket": "79-80°",
             "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "no_ask": 0.68,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1473,67 +1414,8 @@
             "title": "Will the maximum temperature be  77-78° on May 20, 2026?",
             "bracket": "77-78°",
             "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "no_ask": 0.84,
             "close_time": "2026-05-21T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Denver": {
-        "series_ticker": "KXHIGHDEN",
-        "markets": [
-          {
-            "ticker": "KXHIGHDEN-26MAY20-T61",
-            "title": "Will the high temp in Denver be >61° on May 20, 2026?",
-            "bracket": "Will the high temp in Denver be >61° on May 20, 2026?",
-            "yes_ask": 0.09,
-            "no_ask": 0.93,
-            "close_time": "2026-05-21T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY20-T54",
-            "title": "Will the high temp in Denver be <54° on May 20, 2026?",
-            "bracket": "Will the high temp in Denver be <54° on May 20, 2026?",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
-            "close_time": "2026-05-21T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY20-B60.5",
-            "title": "Will the high temp in Denver be 60-61° on May 20, 2026?",
-            "bracket": "60-61°",
-            "yes_ask": 0.19,
-            "no_ask": 0.83,
-            "close_time": "2026-05-21T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY20-B58.5",
-            "title": "Will the high temp in Denver be 58-59° on May 20, 2026?",
-            "bracket": "58-59°",
-            "yes_ask": 0.33,
-            "no_ask": 0.69,
-            "close_time": "2026-05-21T06:59:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY20-B56.5",
-            "title": "Will the high temp in Denver be 56-57° on May 20, 2026?",
-            "bracket": "56-57°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
-            "close_time": "2026-05-21T06:59:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHDEN-26MAY20-B54.5",
-            "title": "Will the high temp in Denver be 54-55° on May 20, 2026?",
-            "bracket": "54-55°",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
-            "close_time": "2026-05-21T06:59:00Z",
             "lowest_no_ask": false
           }
         ]
@@ -1554,8 +1436,8 @@
             "ticker": "KXHIGHTHOU-26MAY20-T84",
             "title": "Will the maximum temperature be  <84° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <84° on May 20, 2026?",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.34,
+            "no_ask": 0.7,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1572,8 +1454,8 @@
             "ticker": "KXHIGHTHOU-26MAY20-B88.5",
             "title": "Will the maximum temperature be  88-89° on May 20, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.1,
+            "no_ask": 0.91,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1590,8 +1472,8 @@
             "ticker": "KXHIGHTHOU-26MAY20-B84.5",
             "title": "Will the maximum temperature be  84-85° on May 20, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.39,
-            "no_ask": 0.62,
+            "yes_ask": 0.41,
+            "no_ask": 0.61,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1605,7 +1487,7 @@
             "title": "Will the maximum temperature be  >92° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  >92° on May 20, 2026?",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1613,8 +1495,8 @@
             "ticker": "KXHIGHTLV-26MAY20-T85",
             "title": "Will the maximum temperature be  <85° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <85° on May 20, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1632,7 +1514,7 @@
             "title": "Will the maximum temperature be  89-90° on May 20, 2026?",
             "bracket": "89-90°",
             "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "no_ask": 0.92,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1640,8 +1522,8 @@
             "ticker": "KXHIGHTLV-26MAY20-B87.5",
             "title": "Will the maximum temperature be  87-88° on May 20, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.42,
-            "no_ask": 0.59,
+            "yes_ask": 0.43,
+            "no_ask": 0.58,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1649,10 +1531,10 @@
             "ticker": "KXHIGHTLV-26MAY20-B85.5",
             "title": "Will the maximum temperature be  85-86° on May 20, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.43,
+            "yes_ask": 0.45,
             "no_ask": 0.59,
             "close_time": "2026-05-21T08:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -1663,8 +1545,8 @@
             "ticker": "KXHIGHLAX-26MAY20-T76",
             "title": "Will the high temp in LA be >76° on May 20, 2026?",
             "bracket": "Will the high temp in LA be >76° on May 20, 2026?",
-            "yes_ask": 0.69,
-            "no_ask": 0.32,
+            "yes_ask": 0.71,
+            "no_ask": 0.3,
             "close_time": "2026-05-21T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -1681,8 +1563,8 @@
             "ticker": "KXHIGHLAX-26MAY20-B75.5",
             "title": "Will the high temp in LA be 75-76° on May 20, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-05-21T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -1722,7 +1604,7 @@
             "ticker": "KXHIGHMIA-26MAY20-T91",
             "title": "Will the high temp in Miami be >91° on May 20, 2026?",
             "bracket": "Will the high temp in Miami be >91° on May 20, 2026?",
-            "yes_ask": 0.04,
+            "yes_ask": 0.03,
             "no_ask": 0.98,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
@@ -1740,7 +1622,7 @@
             "ticker": "KXHIGHMIA-26MAY20-B90.5",
             "title": "Will the high temp in Miami be 90-91° on May 20, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.1,
+            "yes_ask": 0.09,
             "no_ask": 0.92,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
@@ -1750,7 +1632,7 @@
             "title": "Will the high temp in Miami be 88-89° on May 20, 2026?",
             "bracket": "88-89°",
             "yes_ask": 0.46,
-            "no_ask": 0.56,
+            "no_ask": 0.55,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -1758,7 +1640,7 @@
             "ticker": "KXHIGHMIA-26MAY20-B86.5",
             "title": "Will the high temp in Miami be 86-87° on May 20, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.41,
+            "yes_ask": 0.42,
             "no_ask": 0.61,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
@@ -1808,7 +1690,7 @@
             "ticker": "KXHIGHTMIN-26MAY20-B66.5",
             "title": "Will the maximum temperature be  66-67° on May 20, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.05,
+            "yes_ask": 0.04,
             "no_ask": 0.97,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
@@ -1840,8 +1722,8 @@
             "ticker": "KXHIGHNY-26MAY20-T96",
             "title": "Will the high temp in NYC be >96° on May 20, 2026?",
             "bracket": "Will the high temp in NYC be >96° on May 20, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1868,7 +1750,7 @@
             "title": "Will the high temp in NYC be 93-94° on May 20, 2026?",
             "bracket": "93-94°",
             "yes_ask": 0.38,
-            "no_ask": 0.63,
+            "no_ask": 0.65,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -1876,8 +1758,8 @@
             "ticker": "KXHIGHNY-26MAY20-B91.5",
             "title": "Will the high temp in NYC be 91-92° on May 20, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.42,
-            "no_ask": 0.6,
+            "yes_ask": 0.46,
+            "no_ask": 0.57,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -1885,8 +1767,8 @@
             "ticker": "KXHIGHNY-26MAY20-B89.5",
             "title": "Will the high temp in NYC be 89-90° on May 20, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.15,
-            "no_ask": 0.88,
+            "yes_ask": 0.12,
+            "no_ask": 0.9,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -1908,8 +1790,8 @@
             "ticker": "KXHIGHTNOLA-26MAY20-T84",
             "title": "Will the maximum temperature be  <84° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <84° on May 20, 2026?",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.17,
+            "no_ask": 0.85,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1926,7 +1808,7 @@
             "ticker": "KXHIGHTNOLA-26MAY20-B88.5",
             "title": "Will the maximum temperature be  88-89° on May 20, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.08,
             "no_ask": 0.93,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
@@ -1935,8 +1817,8 @@
             "ticker": "KXHIGHTNOLA-26MAY20-B86.5",
             "title": "Will the maximum temperature be  86-87° on May 20, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.39,
-            "no_ask": 0.62,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1944,8 +1826,8 @@
             "ticker": "KXHIGHTNOLA-26MAY20-B84.5",
             "title": "Will the maximum temperature be  84-85° on May 20, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.4,
-            "no_ask": 0.61,
+            "yes_ask": 0.44,
+            "no_ask": 0.57,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1967,17 +1849,17 @@
             "ticker": "KXHIGHTOKC-26MAY20-T68",
             "title": "Will the maximum temperature be  <68° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <68° on May 20, 2026?",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.3,
+            "no_ask": 0.71,
             "close_time": "2026-05-21T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTOKC-26MAY20-B74.5",
             "title": "Will the maximum temperature be  74-75° on May 20, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1985,7 +1867,7 @@
             "ticker": "KXHIGHTOKC-26MAY20-B72.5",
             "title": "Will the maximum temperature be  72-73° on May 20, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.1,
             "no_ask": 0.92,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
@@ -2003,10 +1885,10 @@
             "ticker": "KXHIGHTOKC-26MAY20-B68.5",
             "title": "Will the maximum temperature be  68-69° on May 20, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.31,
-            "no_ask": 0.71,
+            "yes_ask": 0.34,
+            "no_ask": 0.67,
             "close_time": "2026-05-21T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           }
         ]
       },
@@ -2017,7 +1899,7 @@
             "ticker": "KXHIGHPHIL-26MAY20-T93",
             "title": "Will the high temp in Philadelphia be <93° on May 20, 2026?",
             "bracket": "Will the high temp in Philadelphia be <93° on May 20, 2026?",
-            "yes_ask": 0.06,
+            "yes_ask": 0.07,
             "no_ask": 0.95,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
@@ -2044,8 +1926,8 @@
             "ticker": "KXHIGHPHIL-26MAY20-B97.5",
             "title": "Will the high temp in Philadelphia be 97-98° on May 20, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -2063,7 +1945,7 @@
             "title": "Will the high temp in Philadelphia be 93-94° on May 20, 2026?",
             "bracket": "93-94°",
             "yes_ask": 0.26,
-            "no_ask": 0.8,
+            "no_ask": 0.78,
             "close_time": "2026-05-21T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -2085,8 +1967,8 @@
             "ticker": "KXHIGHTPHX-26MAY20-T91",
             "title": "Will the maximum temperature be  <91° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <91° on May 20, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-05-21T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -2094,8 +1976,8 @@
             "ticker": "KXHIGHTPHX-26MAY20-B97.5",
             "title": "Will the maximum temperature be  97-98° on May 20, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-05-21T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -2112,7 +1994,7 @@
             "ticker": "KXHIGHTPHX-26MAY20-B93.5",
             "title": "Will the maximum temperature be  93-94° on May 20, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.56,
+            "yes_ask": 0.55,
             "no_ask": 0.46,
             "close_time": "2026-05-21T07:00:00Z",
             "lowest_no_ask": true
@@ -2122,7 +2004,7 @@
             "title": "Will the maximum temperature be  91-92° on May 20, 2026?",
             "bracket": "91-92°",
             "yes_ask": 0.12,
-            "no_ask": 0.9,
+            "no_ask": 0.91,
             "close_time": "2026-05-21T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -2145,7 +2027,7 @@
             "title": "Will the maximum temperature be  <83° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <83° on May 20, 2026?",
             "yes_ask": 0.51,
-            "no_ask": 0.51,
+            "no_ask": 0.5,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -2153,8 +2035,8 @@
             "ticker": "KXHIGHTSATX-26MAY20-B89.5",
             "title": "Will the maximum temperature be  89-90° on May 20, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2162,8 +2044,8 @@
             "ticker": "KXHIGHTSATX-26MAY20-B87.5",
             "title": "Will the maximum temperature be  87-88° on May 20, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2171,8 +2053,8 @@
             "ticker": "KXHIGHTSATX-26MAY20-B85.5",
             "title": "Will the maximum temperature be  85-86° on May 20, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.12,
+            "no_ask": 0.89,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2180,8 +2062,8 @@
             "ticker": "KXHIGHTSATX-26MAY20-B83.5",
             "title": "Will the maximum temperature be  83-84° on May 20, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.29,
-            "no_ask": 0.72,
+            "yes_ask": 0.33,
+            "no_ask": 0.69,
             "close_time": "2026-05-21T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -2194,8 +2076,8 @@
             "ticker": "KXHIGHTSFO-26MAY20-T77",
             "title": "Will the maximum temperature be  >77° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  >77° on May 20, 2026?",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2203,8 +2085,8 @@
             "ticker": "KXHIGHTSFO-26MAY20-T70",
             "title": "Will the maximum temperature be  <70° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <70° on May 20, 2026?",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.11,
+            "no_ask": 0.94,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2212,8 +2094,8 @@
             "ticker": "KXHIGHTSFO-26MAY20-B76.5",
             "title": "Will the maximum temperature be  76-77° on May 20, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.21,
+            "no_ask": 0.83,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2221,16 +2103,16 @@
             "ticker": "KXHIGHTSFO-26MAY20-B74.5",
             "title": "Will the maximum temperature be  74-75° on May 20, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-05-21T08:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTSFO-26MAY20-B72.5",
             "title": "Will the maximum temperature be  72-73° on May 20, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.28,
+            "yes_ask": 0.29,
             "no_ask": 0.73,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": true
@@ -2239,8 +2121,8 @@
             "ticker": "KXHIGHTSFO-26MAY20-B70.5",
             "title": "Will the maximum temperature be  70-71° on May 20, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "yes_ask": 0.12,
+            "no_ask": 0.9,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -2262,8 +2144,8 @@
             "ticker": "KXHIGHTSEA-26MAY20-T66",
             "title": "Will the maximum temperature be  <66° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <66° on May 20, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2271,7 +2153,7 @@
             "ticker": "KXHIGHTSEA-26MAY20-B72.5",
             "title": "Will the maximum temperature be  72-73° on May 20, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.04,
+            "yes_ask": 0.06,
             "no_ask": 0.97,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
@@ -2290,7 +2172,7 @@
             "title": "Will the maximum temperature be  68-69° on May 20, 2026?",
             "bracket": "68-69°",
             "yes_ask": 0.44,
-            "no_ask": 0.57,
+            "no_ask": 0.58,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -2298,7 +2180,7 @@
             "ticker": "KXHIGHTSEA-26MAY20-B66.5",
             "title": "Will the maximum temperature be  66-67° on May 20, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.29,
+            "yes_ask": 0.31,
             "no_ask": 0.72,
             "close_time": "2026-05-21T08:00:00Z",
             "lowest_no_ask": false
@@ -2313,7 +2195,7 @@
             "title": "Will the maximum temperature be  >99° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  >99° on May 20, 2026?",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2321,8 +2203,8 @@
             "ticker": "KXHIGHTDC-26MAY20-T92",
             "title": "Will the maximum temperature be  <92° on May 20, 2026?",
             "bracket": "Will the maximum temperature be  <92° on May 20, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2342,22 +2224,22 @@
             "yes_ask": 0.33,
             "no_ask": 0.68,
             "close_time": "2026-05-21T05:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTDC-26MAY20-B94.5",
             "title": "Will the maximum temperature be  94-95° on May 20, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.37,
-            "no_ask": 0.66,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-05-21T05:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTDC-26MAY20-B92.5",
             "title": "Will the maximum temperature be  92-93° on May 20, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.18,
+            "yes_ask": 0.17,
             "no_ask": 0.86,
             "close_time": "2026-05-21T05:00:00Z",
             "lowest_no_ask": false
