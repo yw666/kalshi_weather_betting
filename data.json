@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-01T01:35:58Z",
+  "fetched_at": "2026-06-01T06:31:58Z",
   "dates": {
     "on Jun 1, 2026": {
       "Atlanta": {
@@ -9,8 +9,8 @@
             "ticker": "KXHIGHTATL-26JUN01-T89",
             "title": "Will the maximum temperature be >89° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >89° on Jun 1, 2026?",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -27,26 +27,26 @@
             "ticker": "KXHIGHTATL-26JUN01-B88.5",
             "title": "Will the maximum temperature be 88-89° on Jun 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.42,
-            "no_ask": 0.59,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-06-02T05:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTATL-26JUN01-B86.5",
             "title": "Will the maximum temperature be 86-87° on Jun 1, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.24,
-            "no_ask": 0.77,
+            "yes_ask": 0.41,
+            "no_ask": 0.63,
             "close_time": "2026-06-02T05:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTATL-26JUN01-B84.5",
             "title": "Will the maximum temperature be 84-85° on Jun 1, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -54,8 +54,8 @@
             "ticker": "KXHIGHTATL-26JUN01-B82.5",
             "title": "Will the maximum temperature be 82-83° on Jun 1, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -77,8 +77,8 @@
             "ticker": "KXHIGHAUS-26JUN01-T92",
             "title": "Will the high temp in Austin be <92° on Jun 1, 2026?",
             "bracket": "Will the high temp in Austin be <92° on Jun 1, 2026?",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.21,
+            "no_ask": 0.8,
             "close_time": "2026-06-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -104,8 +104,8 @@
             "ticker": "KXHIGHAUS-26JUN01-B94.5",
             "title": "Will the high temp in Austin be 94-95° on Jun 1, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.35,
+            "no_ask": 0.66,
             "close_time": "2026-06-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -113,8 +113,8 @@
             "ticker": "KXHIGHAUS-26JUN01-B92.5",
             "title": "Will the high temp in Austin be 92-93° on Jun 1, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.43,
-            "no_ask": 0.6,
+            "yes_ask": 0.47,
+            "no_ask": 0.54,
             "close_time": "2026-06-02T05:59:00Z",
             "lowest_no_ask": true
           }
@@ -136,16 +136,16 @@
             "ticker": "KXHIGHTBOS-26JUN01-T57",
             "title": "Will the maximum temperature be <57° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <57° on Jun 1, 2026?",
-            "yes_ask": 0.43,
-            "no_ask": 0.62,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-06-02T05:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTBOS-26JUN01-B63.5",
             "title": "Will the maximum temperature be 63-64° on Jun 1, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.04,
+            "yes_ask": 0.03,
             "no_ask": 0.98,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
@@ -154,8 +154,8 @@
             "ticker": "KXHIGHTBOS-26JUN01-B61.5",
             "title": "Will the maximum temperature be 61-62° on Jun 1, 2026?",
             "bracket": "61-62°",
-            "yes_ask": 0.07,
-            "no_ask": 0.95,
+            "yes_ask": 0.14,
+            "no_ask": 0.9,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -163,8 +163,8 @@
             "ticker": "KXHIGHTBOS-26JUN01-B59.5",
             "title": "Will the maximum temperature be 59-60° on Jun 1, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.3,
-            "no_ask": 0.76,
+            "yes_ask": 0.33,
+            "no_ask": 0.71,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -172,10 +172,10 @@
             "ticker": "KXHIGHTBOS-26JUN01-B57.5",
             "title": "Will the maximum temperature be 57-58° on Jun 1, 2026?",
             "bracket": "57-58°",
-            "yes_ask": 0.35,
-            "no_ask": 0.7,
+            "yes_ask": 0.4,
+            "no_ask": 0.64,
             "close_time": "2026-06-02T05:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           }
         ]
       },
@@ -195,17 +195,17 @@
             "ticker": "KXHIGHCHI-26JUN01-T72",
             "title": "Will the high temp in Chicago be <72° on Jun 1, 2026?",
             "bracket": "Will the high temp in Chicago be <72° on Jun 1, 2026?",
-            "yes_ask": 0.33,
-            "no_ask": 0.7,
+            "yes_ask": 0.47,
+            "no_ask": 0.55,
             "close_time": "2026-06-02T05:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHCHI-26JUN01-B78.5",
             "title": "Will the high temp in Chicago be 78-79° on Jun 1, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -213,8 +213,8 @@
             "ticker": "KXHIGHCHI-26JUN01-B76.5",
             "title": "Will the high temp in Chicago be 76-77° on Jun 1, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-06-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -222,8 +222,8 @@
             "ticker": "KXHIGHCHI-26JUN01-B74.5",
             "title": "Will the high temp in Chicago be 74-75° on Jun 1, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-06-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -231,10 +231,10 @@
             "ticker": "KXHIGHCHI-26JUN01-B72.5",
             "title": "Will the high temp in Chicago be 72-73° on Jun 1, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.44,
-            "no_ask": 0.57,
+            "yes_ask": 0.39,
+            "no_ask": 0.62,
             "close_time": "2026-06-02T05:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -245,8 +245,8 @@
             "ticker": "KXHIGHTDAL-26JUN01-T93",
             "title": "Will the maximum temperature be <93° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <93° on Jun 1, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -255,7 +255,7 @@
             "title": "Will the maximum temperature be >100° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >100° on Jun 1, 2026?",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -263,8 +263,8 @@
             "ticker": "KXHIGHTDAL-26JUN01-B99.5",
             "title": "Will the maximum temperature be 99-100° on Jun 1, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -272,17 +272,17 @@
             "ticker": "KXHIGHTDAL-26JUN01-B97.5",
             "title": "Will the maximum temperature be 97-98° on Jun 1, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.45,
-            "no_ask": 0.58,
+            "yes_ask": 0.35,
+            "no_ask": 0.66,
             "close_time": "2026-06-02T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTDAL-26JUN01-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jun 1, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.43,
-            "no_ask": 0.58,
+            "yes_ask": 0.46,
+            "no_ask": 0.55,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -290,8 +290,8 @@
             "ticker": "KXHIGHTDAL-26JUN01-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jun 1, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.08,
-            "no_ask": 0.93,
+            "yes_ask": 0.19,
+            "no_ask": 0.84,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -304,8 +304,8 @@
             "ticker": "KXHIGHDEN-26JUN01-T84",
             "title": "Will the high temp in Denver be >84° on Jun 1, 2026?",
             "bracket": "Will the high temp in Denver be >84° on Jun 1, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -313,8 +313,8 @@
             "ticker": "KXHIGHDEN-26JUN01-T77",
             "title": "Will the high temp in Denver be <77° on Jun 1, 2026?",
             "bracket": "Will the high temp in Denver be <77° on Jun 1, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-06-02T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -322,8 +322,8 @@
             "ticker": "KXHIGHDEN-26JUN01-B83.5",
             "title": "Will the high temp in Denver be 83-84° on Jun 1, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.06,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -331,8 +331,8 @@
             "ticker": "KXHIGHDEN-26JUN01-B81.5",
             "title": "Will the high temp in Denver be 81-82° on Jun 1, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-06-02T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -340,8 +340,8 @@
             "ticker": "KXHIGHDEN-26JUN01-B79.5",
             "title": "Will the high temp in Denver be 79-80° on Jun 1, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.37,
-            "no_ask": 0.64,
+            "yes_ask": 0.39,
+            "no_ask": 0.62,
             "close_time": "2026-06-02T06:59:00Z",
             "lowest_no_ask": true
           },
@@ -349,8 +349,8 @@
             "ticker": "KXHIGHDEN-26JUN01-B77.5",
             "title": "Will the high temp in Denver be 77-78° on Jun 1, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-06-02T06:59:00Z",
             "lowest_no_ask": false
           }
@@ -372,8 +372,8 @@
             "ticker": "KXHIGHTHOU-26JUN01-T89",
             "title": "Will the maximum temperature be <89° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <89° on Jun 1, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.96,
+            "yes_ask": 0.12,
+            "no_ask": 0.91,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -390,8 +390,8 @@
             "ticker": "KXHIGHTHOU-26JUN01-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jun 1, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.08,
-            "no_ask": 0.95,
+            "yes_ask": 0.11,
+            "no_ask": 0.91,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -399,8 +399,8 @@
             "ticker": "KXHIGHTHOU-26JUN01-B91.5",
             "title": "Will the maximum temperature be 91-92° on Jun 1, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.43,
-            "no_ask": 0.6,
+            "yes_ask": 0.42,
+            "no_ask": 0.63,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -408,8 +408,8 @@
             "ticker": "KXHIGHTHOU-26JUN01-B89.5",
             "title": "Will the maximum temperature be 89-90° on Jun 1, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.45,
-            "no_ask": 0.56,
+            "yes_ask": 0.42,
+            "no_ask": 0.61,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -423,7 +423,7 @@
             "title": "Will the maximum temperature be <96° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <96° on Jun 1, 2026?",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -431,7 +431,7 @@
             "ticker": "KXHIGHTLV-26JUN01-T103",
             "title": "Will the maximum temperature be >103° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >103° on Jun 1, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
@@ -440,8 +440,8 @@
             "ticker": "KXHIGHTLV-26JUN01-B98.5",
             "title": "Will the maximum temperature be 98-99° on Jun 1, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.64,
-            "no_ask": 0.4,
+            "yes_ask": 0.66,
+            "no_ask": 0.36,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -449,8 +449,8 @@
             "ticker": "KXHIGHTLV-26JUN01-B96.5",
             "title": "Will the maximum temperature be 96-97° on Jun 1, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.13,
-            "no_ask": 0.9,
+            "yes_ask": 0.12,
+            "no_ask": 0.89,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -467,8 +467,8 @@
             "ticker": "KXHIGHTLV-26JUN01-B100.5",
             "title": "Will the maximum temperature be 100-101° on Jun 1, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -481,8 +481,8 @@
             "ticker": "KXHIGHLAX-26JUN01-T75",
             "title": "Will the high temp in LA be >75° on Jun 1, 2026?",
             "bracket": "Will the high temp in LA be >75° on Jun 1, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -490,8 +490,8 @@
             "ticker": "KXHIGHLAX-26JUN01-T68",
             "title": "Will the high temp in LA be <68° on Jun 1, 2026?",
             "bracket": "Will the high temp in LA be <68° on Jun 1, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -499,8 +499,8 @@
             "ticker": "KXHIGHLAX-26JUN01-B74.5",
             "title": "Will the high temp in LA be 74-75° on Jun 1, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.19,
-            "no_ask": 0.82,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-06-02T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -508,8 +508,8 @@
             "ticker": "KXHIGHLAX-26JUN01-B72.5",
             "title": "Will the high temp in LA be 72-73° on Jun 1, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.61,
-            "no_ask": 0.4,
+            "yes_ask": 0.48,
+            "no_ask": 0.53,
             "close_time": "2026-06-02T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -517,8 +517,8 @@
             "ticker": "KXHIGHLAX-26JUN01-B70.5",
             "title": "Will the high temp in LA be 70-71° on Jun 1, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.19,
-            "no_ask": 0.82,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-06-02T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -526,8 +526,8 @@
             "ticker": "KXHIGHLAX-26JUN01-B68.5",
             "title": "Will the high temp in LA be 68-69° on Jun 1, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-06-02T07:59:00Z",
             "lowest_no_ask": false
           }
@@ -540,8 +540,8 @@
             "ticker": "KXHIGHMIA-26JUN01-T93",
             "title": "Will the high temp in Miami be >93° on Jun 1, 2026?",
             "bracket": "Will the high temp in Miami be >93° on Jun 1, 2026?",
-            "yes_ask": 0.17,
-            "no_ask": 0.84,
+            "yes_ask": 0.21,
+            "no_ask": 0.8,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -558,26 +558,26 @@
             "ticker": "KXHIGHMIA-26JUN01-B92.5",
             "title": "Will the high temp in Miami be 92-93° on Jun 1, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.37,
+            "no_ask": 0.64,
             "close_time": "2026-06-02T04:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHMIA-26JUN01-B90.5",
             "title": "Will the high temp in Miami be 90-91° on Jun 1, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-06-02T04:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHMIA-26JUN01-B88.5",
             "title": "Will the high temp in Miami be 88-89° on Jun 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.17,
-            "no_ask": 0.85,
+            "yes_ask": 0.12,
+            "no_ask": 0.89,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -585,8 +585,8 @@
             "ticker": "KXHIGHMIA-26JUN01-B86.5",
             "title": "Will the high temp in Miami be 86-87° on Jun 1, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -599,8 +599,8 @@
             "ticker": "KXHIGHTMIN-26JUN01-T83",
             "title": "Will the maximum temperature be >83° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >83° on Jun 1, 2026?",
-            "yes_ask": 0.14,
-            "no_ask": 0.88,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -617,8 +617,8 @@
             "ticker": "KXHIGHTMIN-26JUN01-B82.5",
             "title": "Will the maximum temperature be 82-83° on Jun 1, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.29,
+            "no_ask": 0.75,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -626,8 +626,8 @@
             "ticker": "KXHIGHTMIN-26JUN01-B80.5",
             "title": "Will the maximum temperature be 80-81° on Jun 1, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.39,
-            "no_ask": 0.62,
+            "yes_ask": 0.36,
+            "no_ask": 0.65,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -635,8 +635,8 @@
             "ticker": "KXHIGHTMIN-26JUN01-B78.5",
             "title": "Will the maximum temperature be 78-79° on Jun 1, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.22,
-            "no_ask": 0.81,
+            "yes_ask": 0.2,
+            "no_ask": 0.84,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -644,8 +644,8 @@
             "ticker": "KXHIGHTMIN-26JUN01-B76.5",
             "title": "Will the maximum temperature be 76-77° on Jun 1, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -667,8 +667,8 @@
             "ticker": "KXHIGHNY-26JUN01-T70",
             "title": "Will the high temp in NYC be <70° on Jun 1, 2026?",
             "bracket": "Will the high temp in NYC be <70° on Jun 1, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -676,8 +676,8 @@
             "ticker": "KXHIGHNY-26JUN01-B76.5",
             "title": "Will the high temp in NYC be 76-77° on Jun 1, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -685,8 +685,8 @@
             "ticker": "KXHIGHNY-26JUN01-B74.5",
             "title": "Will the high temp in NYC be 74-75° on Jun 1, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.08,
+            "no_ask": 0.95,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -694,8 +694,8 @@
             "ticker": "KXHIGHNY-26JUN01-B72.5",
             "title": "Will the high temp in NYC be 72-73° on Jun 1, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.46,
-            "no_ask": 0.57,
+            "yes_ask": 0.51,
+            "no_ask": 0.5,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -703,8 +703,8 @@
             "ticker": "KXHIGHNY-26JUN01-B70.5",
             "title": "Will the high temp in NYC be 70-71° on Jun 1, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.38,
-            "no_ask": 0.63,
+            "yes_ask": 0.43,
+            "no_ask": 0.58,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -735,7 +735,7 @@
             "ticker": "KXHIGHTNOLA-26JUN01-B92.5",
             "title": "Will the maximum temperature be 92-93° on Jun 1, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.05,
+            "yes_ask": 0.08,
             "no_ask": 0.98,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
@@ -744,8 +744,8 @@
             "ticker": "KXHIGHTNOLA-26JUN01-B90.5",
             "title": "Will the maximum temperature be 90-91° on Jun 1, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.31,
+            "no_ask": 0.7,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -753,8 +753,8 @@
             "ticker": "KXHIGHTNOLA-26JUN01-B88.5",
             "title": "Will the maximum temperature be 88-89° on Jun 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.46,
-            "no_ask": 0.58,
+            "yes_ask": 0.49,
+            "no_ask": 0.53,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -762,8 +762,8 @@
             "ticker": "KXHIGHTNOLA-26JUN01-B86.5",
             "title": "Will the maximum temperature be 86-87° on Jun 1, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.38,
-            "no_ask": 0.63,
+            "yes_ask": 0.14,
+            "no_ask": 0.88,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -776,8 +776,8 @@
             "ticker": "KXHIGHTOKC-26JUN01-T96",
             "title": "Will the maximum temperature be <96° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <96° on Jun 1, 2026?",
-            "yes_ask": 0.35,
-            "no_ask": 0.67,
+            "yes_ask": 0.32,
+            "no_ask": 0.7,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -794,8 +794,8 @@
             "ticker": "KXHIGHTOKC-26JUN01-B98.5",
             "title": "Will the maximum temperature be 98-99° on Jun 1, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.24,
-            "no_ask": 0.77,
+            "yes_ask": 0.22,
+            "no_ask": 0.8,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -803,8 +803,8 @@
             "ticker": "KXHIGHTOKC-26JUN01-B96.5",
             "title": "Will the maximum temperature be 96-97° on Jun 1, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.41,
-            "no_ask": 0.61,
+            "yes_ask": 0.46,
+            "no_ask": 0.55,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -853,8 +853,8 @@
             "ticker": "KXHIGHPHIL-26JUN01-B81.5",
             "title": "Will the high temp in Philadelphia be 81-82° on Jun 1, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.09,
-            "no_ask": 0.93,
+            "yes_ask": 0.07,
+            "no_ask": 0.95,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -862,7 +862,7 @@
             "ticker": "KXHIGHPHIL-26JUN01-B79.5",
             "title": "Will the high temp in Philadelphia be 79-80° on Jun 1, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.54,
+            "yes_ask": 0.5,
             "no_ask": 0.51,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": true
@@ -871,8 +871,8 @@
             "ticker": "KXHIGHPHIL-26JUN01-B77.5",
             "title": "Will the high temp in Philadelphia be 77-78° on Jun 1, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.38,
-            "no_ask": 0.64,
+            "yes_ask": 0.44,
+            "no_ask": 0.6,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -881,7 +881,7 @@
             "title": "Will the high temp in Philadelphia be 75-76° on Jun 1, 2026?",
             "bracket": "75-76°",
             "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -921,8 +921,8 @@
             "ticker": "KXHIGHTPHX-26JUN01-B104.5",
             "title": "Will the maximum temperature be 104-105° on Jun 1, 2026?",
             "bracket": "104-105°",
-            "yes_ask": 0.23,
-            "no_ask": 0.79,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-06-02T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -930,8 +930,8 @@
             "ticker": "KXHIGHTPHX-26JUN01-B102.5",
             "title": "Will the maximum temperature be 102-103° on Jun 1, 2026?",
             "bracket": "102-103°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.54,
+            "no_ask": 0.47,
             "close_time": "2026-06-02T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -939,8 +939,8 @@
             "ticker": "KXHIGHTPHX-26JUN01-B100.5",
             "title": "Will the maximum temperature be 100-101° on Jun 1, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-06-02T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -962,8 +962,8 @@
             "ticker": "KXHIGHTSATX-26JUN01-T90",
             "title": "Will the maximum temperature be <90° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <90° on Jun 1, 2026?",
-            "yes_ask": 0.37,
-            "no_ask": 0.66,
+            "yes_ask": 0.32,
+            "no_ask": 0.7,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -980,7 +980,7 @@
             "ticker": "KXHIGHTSATX-26JUN01-B94.5",
             "title": "Will the maximum temperature be 94-95° on Jun 1, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.06,
+            "yes_ask": 0.05,
             "no_ask": 0.97,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
@@ -989,8 +989,8 @@
             "ticker": "KXHIGHTSATX-26JUN01-B92.5",
             "title": "Will the maximum temperature be 92-93° on Jun 1, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.17,
-            "no_ask": 0.85,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -998,8 +998,8 @@
             "ticker": "KXHIGHTSATX-26JUN01-B90.5",
             "title": "Will the maximum temperature be 90-91° on Jun 1, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.42,
-            "no_ask": 0.6,
+            "yes_ask": 0.44,
+            "no_ask": 0.57,
             "close_time": "2026-06-02T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1013,7 +1013,7 @@
             "title": "Will the maximum temperature be >76° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >76° on Jun 1, 2026?",
             "yes_ask": 0.08,
-            "no_ask": 0.93,
+            "no_ask": 0.94,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1021,8 +1021,8 @@
             "ticker": "KXHIGHTSFO-26JUN01-T69",
             "title": "Will the maximum temperature be <69° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be <69° on Jun 1, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1030,8 +1030,8 @@
             "ticker": "KXHIGHTSFO-26JUN01-B75.5",
             "title": "Will the maximum temperature be 75-76° on Jun 1, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1039,8 +1039,8 @@
             "ticker": "KXHIGHTSFO-26JUN01-B73.5",
             "title": "Will the maximum temperature be 73-74° on Jun 1, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1048,8 +1048,8 @@
             "ticker": "KXHIGHTSFO-26JUN01-B71.5",
             "title": "Will the maximum temperature be 71-72° on Jun 1, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.24,
-            "no_ask": 0.77,
+            "yes_ask": 0.3,
+            "no_ask": 0.73,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1057,8 +1057,8 @@
             "ticker": "KXHIGHTSFO-26JUN01-B69.5",
             "title": "Will the maximum temperature be 69-70° on Jun 1, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.1,
+            "no_ask": 0.91,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1071,8 +1071,8 @@
             "ticker": "KXHIGHTSEA-26JUN01-T78",
             "title": "Will the maximum temperature be >78° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >78° on Jun 1, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1089,8 +1089,8 @@
             "ticker": "KXHIGHTSEA-26JUN01-B77.5",
             "title": "Will the maximum temperature be 77-78° on Jun 1, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.24,
-            "no_ask": 0.78,
+            "yes_ask": 0.34,
+            "no_ask": 0.67,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1098,8 +1098,8 @@
             "ticker": "KXHIGHTSEA-26JUN01-B75.5",
             "title": "Will the maximum temperature be 75-76° on Jun 1, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.4,
+            "no_ask": 0.62,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1107,8 +1107,8 @@
             "ticker": "KXHIGHTSEA-26JUN01-B73.5",
             "title": "Will the maximum temperature be 73-74° on Jun 1, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.18,
+            "no_ask": 0.84,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1116,8 +1116,8 @@
             "ticker": "KXHIGHTSEA-26JUN01-B71.5",
             "title": "Will the maximum temperature be 71-72° on Jun 1, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-06-02T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1131,7 +1131,7 @@
             "title": "Will the maximum temperature be >82° on Jun 1, 2026?",
             "bracket": "Will the maximum temperature be >82° on Jun 1, 2026?",
             "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1148,8 +1148,8 @@
             "ticker": "KXHIGHTDC-26JUN01-B81.5",
             "title": "Will the maximum temperature be 81-82° on Jun 1, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.35,
-            "no_ask": 0.67,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1157,8 +1157,8 @@
             "ticker": "KXHIGHTDC-26JUN01-B79.5",
             "title": "Will the maximum temperature be 79-80° on Jun 1, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.45,
-            "no_ask": 0.59,
+            "yes_ask": 0.47,
+            "no_ask": 0.57,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1166,8 +1166,8 @@
             "ticker": "KXHIGHTDC-26JUN01-B77.5",
             "title": "Will the maximum temperature be 77-78° on Jun 1, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.2,
-            "no_ask": 0.84,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1175,8 +1175,8 @@
             "ticker": "KXHIGHTDC-26JUN01-B75.5",
             "title": "Will the maximum temperature be 75-76° on Jun 1, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.06,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-06-02T05:00:00Z",
             "lowest_no_ask": false
           }
