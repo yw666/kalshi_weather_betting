@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T11:42:45Z",
+  "fetched_at": "2026-07-04T12:48:14Z",
   "dates": {
     "on Jul 4, 2026": {
       "Atlanta": {
@@ -9,8 +9,8 @@
             "ticker": "KXHIGHTATL-26JUL04-T94",
             "title": "Will the maximum temperature be <94° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <94° on Jul 4, 2026?",
-            "yes_ask": 0.15,
-            "no_ask": 0.86,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -27,8 +27,8 @@
             "ticker": "KXHIGHTATL-26JUL04-B98.5",
             "title": "Will the maximum temperature be 98-99° on Jul 4, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -36,8 +36,8 @@
             "ticker": "KXHIGHTATL-26JUL04-B96.5",
             "title": "Will the maximum temperature be 96-97° on Jul 4, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.29,
-            "no_ask": 0.72,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -45,8 +45,8 @@
             "ticker": "KXHIGHTATL-26JUL04-B94.5",
             "title": "Will the maximum temperature be 94-95° on Jul 4, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.47,
-            "no_ask": 0.54,
+            "yes_ask": 0.58,
+            "no_ask": 0.43,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -95,8 +95,8 @@
             "ticker": "KXHIGHAUS-26JUL04-B97.5",
             "title": "Will the high temp in Austin be 97-98° on Jul 4, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.58,
-            "no_ask": 0.43,
+            "yes_ask": 0.61,
+            "no_ask": 0.4,
             "close_time": "2026-07-05T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -104,8 +104,8 @@
             "ticker": "KXHIGHAUS-26JUL04-B95.5",
             "title": "Will the high temp in Austin be 95-96° on Jul 4, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.05,
-            "no_ask": 0.97,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-07-05T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -127,8 +127,8 @@
             "ticker": "KXHIGHTBOS-26JUL04-T98",
             "title": "Will the maximum temperature be >98° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be >98° on Jul 4, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -136,8 +136,8 @@
             "ticker": "KXHIGHTBOS-26JUL04-T91",
             "title": "Will the maximum temperature be <91° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <91° on Jul 4, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -145,8 +145,8 @@
             "ticker": "KXHIGHTBOS-26JUL04-B97.5",
             "title": "Will the maximum temperature be 97-98° on Jul 4, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -154,8 +154,8 @@
             "ticker": "KXHIGHTBOS-26JUL04-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 4, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.44,
-            "no_ask": 0.57,
+            "yes_ask": 0.43,
+            "no_ask": 0.58,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -163,8 +163,8 @@
             "ticker": "KXHIGHTBOS-26JUL04-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jul 4, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.32,
-            "no_ask": 0.69,
+            "yes_ask": 0.34,
+            "no_ask": 0.67,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -172,8 +172,8 @@
             "ticker": "KXHIGHTBOS-26JUL04-B91.5",
             "title": "Will the maximum temperature be 91-92° on Jul 4, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -195,8 +195,8 @@
             "ticker": "KXHIGHCHI-26JUL04-T85",
             "title": "Will the high temp in Chicago be <85° on Jul 4, 2026?",
             "bracket": "Will the high temp in Chicago be <85° on Jul 4, 2026?",
-            "yes_ask": 0.68,
-            "no_ask": 0.33,
+            "yes_ask": 0.73,
+            "no_ask": 0.28,
             "close_time": "2026-07-05T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -222,8 +222,8 @@
             "ticker": "KXHIGHCHI-26JUL04-B87.5",
             "title": "Will the high temp in Chicago be 87-88° on Jul 4, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-07-05T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -231,8 +231,8 @@
             "ticker": "KXHIGHCHI-26JUL04-B85.5",
             "title": "Will the high temp in Chicago be 85-86° on Jul 4, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.21,
+            "no_ask": 0.8,
             "close_time": "2026-07-05T05:59:00Z",
             "lowest_no_ask": false
           }
@@ -263,8 +263,8 @@
             "ticker": "KXHIGHTDAL-26JUL04-B98.5",
             "title": "Will the maximum temperature be 98-99° on Jul 4, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.58,
+            "no_ask": 0.43,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -281,8 +281,8 @@
             "ticker": "KXHIGHTDAL-26JUL04-B102.5",
             "title": "Will the maximum temperature be 102-103° on Jul 4, 2026?",
             "bracket": "102-103°",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -290,8 +290,8 @@
             "ticker": "KXHIGHTDAL-26JUL04-B100.5",
             "title": "Will the maximum temperature be 100-101° on Jul 4, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.38,
+            "no_ask": 0.63,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -322,8 +322,8 @@
             "ticker": "KXHIGHTHOU-26JUL04-B99.5",
             "title": "Will the maximum temperature be 99-100° on Jul 4, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.09,
+            "no_ask": 0.93,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -331,26 +331,26 @@
             "ticker": "KXHIGHTHOU-26JUL04-B97.5",
             "title": "Will the maximum temperature be 97-98° on Jul 4, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.5,
-            "no_ask": 0.54,
+            "yes_ask": 0.48,
+            "no_ask": 0.55,
             "close_time": "2026-07-05T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTHOU-26JUL04-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 4, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.46,
-            "no_ask": 0.57,
+            "yes_ask": 0.51,
+            "no_ask": 0.54,
             "close_time": "2026-07-05T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTHOU-26JUL04-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jul 4, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -391,7 +391,7 @@
             "title": "Will the maximum temperature be 105-106° on Jul 4, 2026?",
             "bracket": "105-106°",
             "yes_ask": 0.31,
-            "no_ask": 0.71,
+            "no_ask": 0.7,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -399,8 +399,8 @@
             "ticker": "KXHIGHTLV-26JUL04-B103.5",
             "title": "Will the maximum temperature be 103-104° on Jul 4, 2026?",
             "bracket": "103-104°",
-            "yes_ask": 0.66,
-            "no_ask": 0.36,
+            "yes_ask": 0.68,
+            "no_ask": 0.33,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -408,8 +408,8 @@
             "ticker": "KXHIGHTLV-26JUL04-B101.5",
             "title": "Will the maximum temperature be 101-102° on Jul 4, 2026?",
             "bracket": "101-102°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -422,8 +422,8 @@
             "ticker": "KXHIGHLAX-26JUL04-T74",
             "title": "Will the high temp in LA be >74° on Jul 4, 2026?",
             "bracket": "Will the high temp in LA be >74° on Jul 4, 2026?",
-            "yes_ask": 0.25,
-            "no_ask": 0.77,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-07-05T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -440,8 +440,8 @@
             "ticker": "KXHIGHLAX-26JUL04-B73.5",
             "title": "Will the high temp in LA be 73-74° on Jul 4, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.67,
-            "no_ask": 0.34,
+            "yes_ask": 0.66,
+            "no_ask": 0.35,
             "close_time": "2026-07-05T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -449,8 +449,8 @@
             "ticker": "KXHIGHLAX-26JUL04-B71.5",
             "title": "Will the high temp in LA be 71-72° on Jul 4, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-07-05T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -508,26 +508,26 @@
             "ticker": "KXHIGHMIA-26JUL04-B92.5",
             "title": "Will the high temp in Miami be 92-93° on Jul 4, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.56,
-            "no_ask": 0.45,
+            "yes_ask": 0.47,
+            "no_ask": 0.56,
             "close_time": "2026-07-05T04:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHMIA-26JUL04-B90.5",
             "title": "Will the high temp in Miami be 90-91° on Jul 4, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.41,
-            "no_ask": 0.6,
+            "yes_ask": 0.47,
+            "no_ask": 0.55,
             "close_time": "2026-07-05T04:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHMIA-26JUL04-B88.5",
             "title": "Will the high temp in Miami be 88-89° on Jul 4, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -540,8 +540,8 @@
             "ticker": "KXHIGHTMIN-26JUL04-T85",
             "title": "Will the maximum temperature be >85° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be >85° on Jul 4, 2026?",
-            "yes_ask": 0.65,
-            "no_ask": 0.38,
+            "yes_ask": 0.7,
+            "no_ask": 0.35,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -558,8 +558,8 @@
             "ticker": "KXHIGHTMIN-26JUL04-B84.5",
             "title": "Will the maximum temperature be 84-85° on Jul 4, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -567,8 +567,8 @@
             "ticker": "KXHIGHTMIN-26JUL04-B82.5",
             "title": "Will the maximum temperature be 82-83° on Jul 4, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.06,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -576,8 +576,8 @@
             "ticker": "KXHIGHTMIN-26JUL04-B80.5",
             "title": "Will the maximum temperature be 80-81° on Jul 4, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -617,8 +617,8 @@
             "ticker": "KXHIGHNY-26JUL04-B98.5",
             "title": "Will the high temp in NYC be 98-99° on Jul 4, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.08,
-            "no_ask": 0.93,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -644,8 +644,8 @@
             "ticker": "KXHIGHNY-26JUL04-B100.5",
             "title": "Will the high temp in NYC be 100-101° on Jul 4, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -667,8 +667,8 @@
             "ticker": "KXHIGHTNOLA-26JUL04-T91",
             "title": "Will the maximum temperature be <91° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <91° on Jul 4, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -685,8 +685,8 @@
             "ticker": "KXHIGHTNOLA-26JUL04-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 4, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.35,
+            "no_ask": 0.66,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -694,7 +694,7 @@
             "ticker": "KXHIGHTNOLA-26JUL04-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jul 4, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.57,
+            "yes_ask": 0.58,
             "no_ask": 0.45,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": true
@@ -703,8 +703,8 @@
             "ticker": "KXHIGHTNOLA-26JUL04-B91.5",
             "title": "Will the maximum temperature be 91-92° on Jul 4, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -717,8 +717,8 @@
             "ticker": "KXHIGHTOKC-26JUL04-T98",
             "title": "Will the maximum temperature be <98° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <98° on Jul 4, 2026?",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.27,
+            "no_ask": 0.78,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -735,8 +735,8 @@
             "ticker": "KXHIGHTOKC-26JUL04-B98.5",
             "title": "Will the maximum temperature be 98-99° on Jul 4, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.54,
-            "no_ask": 0.47,
+            "yes_ask": 0.46,
+            "no_ask": 0.55,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -753,8 +753,8 @@
             "ticker": "KXHIGHTOKC-26JUL04-B102.5",
             "title": "Will the maximum temperature be 102-103° on Jul 4, 2026?",
             "bracket": "102-103°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -762,8 +762,8 @@
             "ticker": "KXHIGHTOKC-26JUL04-B100.5",
             "title": "Will the maximum temperature be 100-101° on Jul 4, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -776,8 +776,8 @@
             "ticker": "KXHIGHPHIL-26JUL04-T99",
             "title": "Will the high temp in Philadelphia be <99° on Jul 4, 2026?",
             "bracket": "Will the high temp in Philadelphia be <99° on Jul 4, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.99,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -794,8 +794,8 @@
             "ticker": "KXHIGHPHIL-26JUL04-B99.5",
             "title": "Will the high temp in Philadelphia be 99-100° on Jul 4, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -803,7 +803,7 @@
             "ticker": "KXHIGHPHIL-26JUL04-B105.5",
             "title": "Will the high temp in Philadelphia be 105-106° on Jul 4, 2026?",
             "bracket": "105-106°",
-            "yes_ask": 0.01,
+            "yes_ask": 0.02,
             "no_ask": 1.0,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
@@ -812,8 +812,8 @@
             "ticker": "KXHIGHPHIL-26JUL04-B103.5",
             "title": "Will the high temp in Philadelphia be 103-104° on Jul 4, 2026?",
             "bracket": "103-104°",
-            "yes_ask": 0.32,
-            "no_ask": 0.71,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -821,8 +821,8 @@
             "ticker": "KXHIGHPHIL-26JUL04-B101.5",
             "title": "Will the high temp in Philadelphia be 101-102° on Jul 4, 2026?",
             "bracket": "101-102°",
-            "yes_ask": 0.61,
-            "no_ask": 0.4,
+            "yes_ask": 0.64,
+            "no_ask": 0.38,
             "close_time": "2026-07-05T04:59:00Z",
             "lowest_no_ask": true
           }
@@ -844,8 +844,8 @@
             "ticker": "KXHIGHTPHX-26JUL04-T104",
             "title": "Will the maximum temperature be <104° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <104° on Jul 4, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -853,7 +853,7 @@
             "ticker": "KXHIGHTPHX-26JUL04-B110.5",
             "title": "Will the maximum temperature be 110-111° on Jul 4, 2026?",
             "bracket": "110-111°",
-            "yes_ask": 0.01,
+            "yes_ask": 0.02,
             "no_ask": 1.0,
             "close_time": "2026-07-05T07:00:00Z",
             "lowest_no_ask": false
@@ -862,7 +862,7 @@
             "ticker": "KXHIGHTPHX-26JUL04-B108.5",
             "title": "Will the maximum temperature be 108-109° on Jul 4, 2026?",
             "bracket": "108-109°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.1,
             "no_ask": 0.92,
             "close_time": "2026-07-05T07:00:00Z",
             "lowest_no_ask": false
@@ -871,7 +871,7 @@
             "ticker": "KXHIGHTPHX-26JUL04-B106.5",
             "title": "Will the maximum temperature be 106-107° on Jul 4, 2026?",
             "bracket": "106-107°",
-            "yes_ask": 0.37,
+            "yes_ask": 0.36,
             "no_ask": 0.65,
             "close_time": "2026-07-05T07:00:00Z",
             "lowest_no_ask": false
@@ -880,8 +880,8 @@
             "ticker": "KXHIGHTPHX-26JUL04-B104.5",
             "title": "Will the maximum temperature be 104-105° on Jul 4, 2026?",
             "bracket": "104-105°",
-            "yes_ask": 0.47,
-            "no_ask": 0.54,
+            "yes_ask": 0.54,
+            "no_ask": 0.47,
             "close_time": "2026-07-05T07:00:00Z",
             "lowest_no_ask": true
           }
@@ -894,7 +894,7 @@
             "ticker": "KXHIGHTSATX-26JUL04-T93",
             "title": "Will the maximum temperature be <93° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <93° on Jul 4, 2026?",
-            "yes_ask": 0.04,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
@@ -921,8 +921,8 @@
             "ticker": "KXHIGHTSATX-26JUL04-B97.5",
             "title": "Will the maximum temperature be 97-98° on Jul 4, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.38,
-            "no_ask": 0.65,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -930,8 +930,8 @@
             "ticker": "KXHIGHTSATX-26JUL04-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 4, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.54,
-            "no_ask": 0.47,
+            "yes_ask": 0.58,
+            "no_ask": 0.43,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -940,7 +940,7 @@
             "title": "Will the maximum temperature be 93-94° on Jul 4, 2026?",
             "bracket": "93-94°",
             "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "no_ask": 0.95,
             "close_time": "2026-07-05T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -953,8 +953,8 @@
             "ticker": "KXHIGHTSFO-26JUL04-T74",
             "title": "Will the maximum temperature be >74° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be >74° on Jul 4, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -962,8 +962,8 @@
             "ticker": "KXHIGHTSFO-26JUL04-T67",
             "title": "Will the maximum temperature be <67° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <67° on Jul 4, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -971,8 +971,8 @@
             "ticker": "KXHIGHTSFO-26JUL04-B73.5",
             "title": "Will the maximum temperature be 73-74° on Jul 4, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.11,
-            "no_ask": 0.9,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -980,7 +980,7 @@
             "ticker": "KXHIGHTSFO-26JUL04-B71.5",
             "title": "Will the maximum temperature be 71-72° on Jul 4, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.34,
+            "yes_ask": 0.35,
             "no_ask": 0.67,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
@@ -989,8 +989,8 @@
             "ticker": "KXHIGHTSFO-26JUL04-B69.5",
             "title": "Will the maximum temperature be 69-70° on Jul 4, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.45,
-            "no_ask": 0.6,
+            "yes_ask": 0.49,
+            "no_ask": 0.55,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -998,8 +998,8 @@
             "ticker": "KXHIGHTSFO-26JUL04-B67.5",
             "title": "Will the maximum temperature be 67-68° on Jul 4, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.1,
-            "no_ask": 0.91,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1021,8 +1021,8 @@
             "ticker": "KXHIGHTSEA-26JUL04-T72",
             "title": "Will the maximum temperature be <72° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <72° on Jul 4, 2026?",
-            "yes_ask": 0.29,
-            "no_ask": 0.72,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1039,8 +1039,8 @@
             "ticker": "KXHIGHTSEA-26JUL04-B76.5",
             "title": "Will the maximum temperature be 76-77° on Jul 4, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1048,8 +1048,8 @@
             "ticker": "KXHIGHTSEA-26JUL04-B74.5",
             "title": "Will the maximum temperature be 74-75° on Jul 4, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.22,
+            "no_ask": 0.8,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1057,8 +1057,8 @@
             "ticker": "KXHIGHTSEA-26JUL04-B72.5",
             "title": "Will the maximum temperature be 72-73° on Jul 4, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.51,
-            "no_ask": 0.5,
+            "yes_ask": 0.57,
+            "no_ask": 0.47,
             "close_time": "2026-07-05T08:00:00Z",
             "lowest_no_ask": true
           }
@@ -1080,8 +1080,8 @@
             "ticker": "KXHIGHTDC-26JUL04-T100",
             "title": "Will the maximum temperature be <100° on Jul 4, 2026?",
             "bracket": "Will the maximum temperature be <100° on Jul 4, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1090,7 +1090,7 @@
             "title": "Will the maximum temperature be 106-107° on Jul 4, 2026?",
             "bracket": "106-107°",
             "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "no_ask": 1.0,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1107,8 +1107,8 @@
             "ticker": "KXHIGHTDC-26JUL04-B102.5",
             "title": "Will the maximum temperature be 102-103° on Jul 4, 2026?",
             "bracket": "102-103°",
-            "yes_ask": 0.49,
-            "no_ask": 0.52,
+            "yes_ask": 0.52,
+            "no_ask": 0.49,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1117,7 +1117,7 @@
             "title": "Will the maximum temperature be 100-101° on Jul 4, 2026?",
             "bracket": "100-101°",
             "yes_ask": 0.44,
-            "no_ask": 0.59,
+            "no_ask": 0.57,
             "close_time": "2026-07-05T05:00:00Z",
             "lowest_no_ask": false
           }
