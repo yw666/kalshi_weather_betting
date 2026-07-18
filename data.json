@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-18T10:40:29Z",
+  "fetched_at": "2026-07-18T11:36:43Z",
   "dates": {
     "on Jul 18, 2026": {
       "Atlanta": {
@@ -27,8 +27,8 @@
             "ticker": "KXHIGHTATL-26JUL18-B94.5",
             "title": "Will the maximum temperature be 94-95° on Jul 18, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.2,
-            "no_ask": 0.81,
+            "yes_ask": 0.21,
+            "no_ask": 0.8,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -37,7 +37,7 @@
             "title": "Will the maximum temperature be 92-93° on Jul 18, 2026?",
             "bracket": "92-93°",
             "yes_ask": 0.47,
-            "no_ask": 0.54,
+            "no_ask": 0.55,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -45,8 +45,8 @@
             "ticker": "KXHIGHTATL-26JUL18-B90.5",
             "title": "Will the maximum temperature be 90-91° on Jul 18, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.29,
+            "no_ask": 0.73,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -54,8 +54,8 @@
             "ticker": "KXHIGHTATL-26JUL18-B88.5",
             "title": "Will the maximum temperature be 88-89° on Jul 18, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.06,
-            "no_ask": 0.98,
+            "yes_ask": 0.08,
+            "no_ask": 0.95,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -68,8 +68,8 @@
             "ticker": "KXHIGHAUS-26JUL18-T97",
             "title": "Will the high temp in Austin be >97° on Jul 18, 2026?",
             "bracket": "Will the high temp in Austin be >97° on Jul 18, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.96,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -77,8 +77,8 @@
             "ticker": "KXHIGHAUS-26JUL18-T90",
             "title": "Will the high temp in Austin be <90° on Jul 18, 2026?",
             "bracket": "Will the high temp in Austin be <90° on Jul 18, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -87,7 +87,7 @@
             "title": "Will the high temp in Austin be 96-97° on Jul 18, 2026?",
             "bracket": "96-97°",
             "yes_ask": 0.28,
-            "no_ask": 0.76,
+            "no_ask": 0.73,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -95,8 +95,8 @@
             "ticker": "KXHIGHAUS-26JUL18-B94.5",
             "title": "Will the high temp in Austin be 94-95° on Jul 18, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.46,
-            "no_ask": 0.56,
+            "yes_ask": 0.47,
+            "no_ask": 0.57,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -127,8 +127,8 @@
             "ticker": "KXHIGHTBOS-26JUL18-T87",
             "title": "Will the maximum temperature be >87° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be >87° on Jul 18, 2026?",
-            "yes_ask": 0.14,
-            "no_ask": 0.88,
+            "yes_ask": 0.16,
+            "no_ask": 0.87,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -145,8 +145,8 @@
             "ticker": "KXHIGHTBOS-26JUL18-B86.5",
             "title": "Will the maximum temperature be 86-87° on Jul 18, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.24,
-            "no_ask": 0.79,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -154,8 +154,8 @@
             "ticker": "KXHIGHTBOS-26JUL18-B84.5",
             "title": "Will the maximum temperature be 84-85° on Jul 18, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.49,
-            "no_ask": 0.52,
+            "yes_ask": 0.51,
+            "no_ask": 0.5,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -163,8 +163,8 @@
             "ticker": "KXHIGHTBOS-26JUL18-B82.5",
             "title": "Will the maximum temperature be 82-83° on Jul 18, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -172,8 +172,8 @@
             "ticker": "KXHIGHTBOS-26JUL18-B80.5",
             "title": "Will the maximum temperature be 80-81° on Jul 18, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -195,8 +195,8 @@
             "ticker": "KXHIGHCHI-26JUL18-T89",
             "title": "Will the high temp in Chicago be <89° on Jul 18, 2026?",
             "bracket": "Will the high temp in Chicago be <89° on Jul 18, 2026?",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -213,8 +213,8 @@
             "ticker": "KXHIGHCHI-26JUL18-B93.5",
             "title": "Will the high temp in Chicago be 93-94° on Jul 18, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.12,
+            "no_ask": 0.9,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -222,8 +222,8 @@
             "ticker": "KXHIGHCHI-26JUL18-B91.5",
             "title": "Will the high temp in Chicago be 91-92° on Jul 18, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -231,8 +231,8 @@
             "ticker": "KXHIGHCHI-26JUL18-B89.5",
             "title": "Will the high temp in Chicago be 89-90° on Jul 18, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.37,
+            "no_ask": 0.64,
             "close_time": "2026-07-19T05:59:00Z",
             "lowest_no_ask": true
           }
@@ -245,8 +245,8 @@
             "ticker": "KXHIGHTDAL-26JUL18-T93",
             "title": "Will the maximum temperature be <93° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <93° on Jul 18, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -254,7 +254,7 @@
             "ticker": "KXHIGHTDAL-26JUL18-T100",
             "title": "Will the maximum temperature be >100° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be >100° on Jul 18, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
@@ -263,7 +263,7 @@
             "ticker": "KXHIGHTDAL-26JUL18-B99.5",
             "title": "Will the maximum temperature be 99-100° on Jul 18, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.06,
             "no_ask": 0.95,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
@@ -272,8 +272,8 @@
             "ticker": "KXHIGHTDAL-26JUL18-B97.5",
             "title": "Will the maximum temperature be 97-98° on Jul 18, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.35,
-            "no_ask": 0.66,
+            "yes_ask": 0.39,
+            "no_ask": 0.64,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -281,8 +281,8 @@
             "ticker": "KXHIGHTDAL-26JUL18-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 18, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.4,
-            "no_ask": 0.62,
+            "yes_ask": 0.49,
+            "no_ask": 0.53,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -290,9 +290,68 @@
             "ticker": "KXHIGHTDAL-26JUL18-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jul 18, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-07-19T06:00:00Z",
+            "lowest_no_ask": false
+          }
+        ]
+      },
+      "Denver": {
+        "series_ticker": "KXHIGHDEN",
+        "markets": [
+          {
+            "ticker": "KXHIGHDEN-26JUL18-T98",
+            "title": "Will the high temp in Denver be >98° on Jul 18, 2026?",
+            "bracket": "Will the high temp in Denver be >98° on Jul 18, 2026?",
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
+            "close_time": "2026-07-19T06:59:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26JUL18-T91",
+            "title": "Will the high temp in Denver be <91° on Jul 18, 2026?",
+            "bracket": "Will the high temp in Denver be <91° on Jul 18, 2026?",
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
+            "close_time": "2026-07-19T06:59:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26JUL18-B97.5",
+            "title": "Will the high temp in Denver be 97-98° on Jul 18, 2026?",
+            "bracket": "97-98°",
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
+            "close_time": "2026-07-19T06:59:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26JUL18-B95.5",
+            "title": "Will the high temp in Denver be 95-96° on Jul 18, 2026?",
+            "bracket": "95-96°",
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
+            "close_time": "2026-07-19T06:59:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26JUL18-B93.5",
+            "title": "Will the high temp in Denver be 93-94° on Jul 18, 2026?",
+            "bracket": "93-94°",
+            "yes_ask": 0.5,
+            "no_ask": 0.51,
+            "close_time": "2026-07-19T06:59:00Z",
+            "lowest_no_ask": true
+          },
+          {
+            "ticker": "KXHIGHDEN-26JUL18-B91.5",
+            "title": "Will the high temp in Denver be 91-92° on Jul 18, 2026?",
+            "bracket": "91-92°",
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
+            "close_time": "2026-07-19T06:59:00Z",
             "lowest_no_ask": false
           }
         ]
@@ -322,8 +381,8 @@
             "ticker": "KXHIGHTHOU-26JUL18-B99.5",
             "title": "Will the maximum temperature be 99-100° on Jul 18, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -340,8 +399,8 @@
             "ticker": "KXHIGHTHOU-26JUL18-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 18, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.49,
-            "no_ask": 0.52,
+            "yes_ask": 0.5,
+            "no_ask": 0.51,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -372,7 +431,7 @@
             "ticker": "KXHIGHTLV-26JUL18-T100",
             "title": "Will the maximum temperature be <100° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <100° on Jul 18, 2026?",
-            "yes_ask": 0.03,
+            "yes_ask": 0.05,
             "no_ask": 0.98,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": false
@@ -390,8 +449,8 @@
             "ticker": "KXHIGHTLV-26JUL18-B104.5",
             "title": "Will the maximum temperature be 104-105° on Jul 18, 2026?",
             "bracket": "104-105°",
-            "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -399,7 +458,7 @@
             "ticker": "KXHIGHTLV-26JUL18-B102.5",
             "title": "Will the maximum temperature be 102-103° on Jul 18, 2026?",
             "bracket": "102-103°",
-            "yes_ask": 0.56,
+            "yes_ask": 0.52,
             "no_ask": 0.49,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": true
@@ -408,8 +467,8 @@
             "ticker": "KXHIGHTLV-26JUL18-B100.5",
             "title": "Will the maximum temperature be 100-101° on Jul 18, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -422,8 +481,8 @@
             "ticker": "KXHIGHLAX-26JUL18-T79",
             "title": "Will the high temp in LA be >79° on Jul 18, 2026?",
             "bracket": "Will the high temp in LA be >79° on Jul 18, 2026?",
-            "yes_ask": 0.71,
-            "no_ask": 0.3,
+            "yes_ask": 0.67,
+            "no_ask": 0.34,
             "close_time": "2026-07-19T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -440,8 +499,8 @@
             "ticker": "KXHIGHLAX-26JUL18-B78.5",
             "title": "Will the high temp in LA be 78-79° on Jul 18, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-07-19T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -449,8 +508,8 @@
             "ticker": "KXHIGHLAX-26JUL18-B76.5",
             "title": "Will the high temp in LA be 76-77° on Jul 18, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-07-19T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -500,7 +559,7 @@
             "title": "Will the high temp in Miami be 94-95° on Jul 18, 2026?",
             "bracket": "94-95°",
             "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "no_ask": 0.95,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -508,8 +567,8 @@
             "ticker": "KXHIGHMIA-26JUL18-B92.5",
             "title": "Will the high temp in Miami be 92-93° on Jul 18, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.51,
-            "no_ask": 0.5,
+            "yes_ask": 0.49,
+            "no_ask": 0.52,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -518,7 +577,7 @@
             "title": "Will the high temp in Miami be 90-91° on Jul 18, 2026?",
             "bracket": "90-91°",
             "yes_ask": 0.41,
-            "no_ask": 0.61,
+            "no_ask": 0.6,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -526,8 +585,8 @@
             "ticker": "KXHIGHMIA-26JUL18-B88.5",
             "title": "Will the high temp in Miami be 88-89° on Jul 18, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -540,8 +599,8 @@
             "ticker": "KXHIGHTMIN-26JUL18-T95",
             "title": "Will the maximum temperature be >95° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be >95° on Jul 18, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -549,7 +608,7 @@
             "ticker": "KXHIGHTMIN-26JUL18-T88",
             "title": "Will the maximum temperature be <88° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <88° on Jul 18, 2026?",
-            "yes_ask": 0.27,
+            "yes_ask": 0.25,
             "no_ask": 0.76,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
@@ -558,8 +617,8 @@
             "ticker": "KXHIGHTMIN-26JUL18-B94.5",
             "title": "Will the maximum temperature be 94-95° on Jul 18, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -567,8 +626,8 @@
             "ticker": "KXHIGHTMIN-26JUL18-B92.5",
             "title": "Will the maximum temperature be 92-93° on Jul 18, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.08,
-            "no_ask": 0.93,
+            "yes_ask": 0.06,
+            "no_ask": 0.96,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -576,8 +635,8 @@
             "ticker": "KXHIGHTMIN-26JUL18-B90.5",
             "title": "Will the maximum temperature be 90-91° on Jul 18, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.27,
-            "no_ask": 0.76,
+            "yes_ask": 0.33,
+            "no_ask": 0.68,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -585,8 +644,8 @@
             "ticker": "KXHIGHTMIN-26JUL18-B88.5",
             "title": "Will the maximum temperature be 88-89° on Jul 18, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.43,
-            "no_ask": 0.62,
+            "yes_ask": 0.41,
+            "no_ask": 0.6,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -599,8 +658,8 @@
             "ticker": "KXHIGHNY-26JUL18-T86",
             "title": "Will the high temp in NYC be >86° on Jul 18, 2026?",
             "bracket": "Will the high temp in NYC be >86° on Jul 18, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -608,17 +667,17 @@
             "ticker": "KXHIGHNY-26JUL18-T79",
             "title": "Will the high temp in NYC be <79° on Jul 18, 2026?",
             "bracket": "Will the high temp in NYC be <79° on Jul 18, 2026?",
-            "yes_ask": 0.37,
-            "no_ask": 0.64,
+            "yes_ask": 0.42,
+            "no_ask": 0.59,
             "close_time": "2026-07-19T04:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHNY-26JUL18-B85.5",
             "title": "Will the high temp in NYC be 85-86° on Jul 18, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -626,8 +685,8 @@
             "ticker": "KXHIGHNY-26JUL18-B83.5",
             "title": "Will the high temp in NYC be 83-84° on Jul 18, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -635,8 +694,8 @@
             "ticker": "KXHIGHNY-26JUL18-B81.5",
             "title": "Will the high temp in NYC be 81-82° on Jul 18, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.18,
-            "no_ask": 0.84,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -644,10 +703,10 @@
             "ticker": "KXHIGHNY-26JUL18-B79.5",
             "title": "Will the high temp in NYC be 79-80° on Jul 18, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.45,
-            "no_ask": 0.59,
+            "yes_ask": 0.41,
+            "no_ask": 0.6,
             "close_time": "2026-07-19T04:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -658,8 +717,8 @@
             "ticker": "KXHIGHTNOLA-26JUL18-T94",
             "title": "Will the maximum temperature be <94° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <94° on Jul 18, 2026?",
-            "yes_ask": 0.29,
-            "no_ask": 0.72,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -676,8 +735,8 @@
             "ticker": "KXHIGHTNOLA-26JUL18-B98.5",
             "title": "Will the maximum temperature be 98-99° on Jul 18, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.04,
-            "no_ask": 0.99,
+            "yes_ask": 0.1,
+            "no_ask": 0.92,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -685,19 +744,19 @@
             "ticker": "KXHIGHTNOLA-26JUL18-B96.5",
             "title": "Will the maximum temperature be 96-97° on Jul 18, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.46,
+            "no_ask": 0.59,
             "close_time": "2026-07-19T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTNOLA-26JUL18-B94.5",
             "title": "Will the maximum temperature be 94-95° on Jul 18, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.42,
-            "no_ask": 0.59,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-07-19T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTNOLA-26JUL18-B100.5",
@@ -717,8 +776,8 @@
             "ticker": "KXHIGHTOKC-26JUL18-T97",
             "title": "Will the maximum temperature be >97° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be >97° on Jul 18, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -776,17 +835,17 @@
             "ticker": "KXHIGHPHIL-26JUL18-T89",
             "title": "Will the high temp in Philadelphia be >89° on Jul 18, 2026?",
             "bracket": "Will the high temp in Philadelphia be >89° on Jul 18, 2026?",
-            "yes_ask": 0.32,
-            "no_ask": 0.71,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-07-19T04:59:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHPHIL-26JUL18-T82",
             "title": "Will the high temp in Philadelphia be <82° on Jul 18, 2026?",
             "bracket": "Will the high temp in Philadelphia be <82° on Jul 18, 2026?",
-            "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "yes_ask": 0.12,
+            "no_ask": 0.89,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -794,17 +853,17 @@
             "ticker": "KXHIGHPHIL-26JUL18-B88.5",
             "title": "Will the high temp in Philadelphia be 88-89° on Jul 18, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.22,
+            "no_ask": 0.79,
             "close_time": "2026-07-19T04:59:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHPHIL-26JUL18-B86.5",
             "title": "Will the high temp in Philadelphia be 86-87° on Jul 18, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "yes_ask": 0.23,
+            "no_ask": 0.8,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -812,8 +871,8 @@
             "ticker": "KXHIGHPHIL-26JUL18-B84.5",
             "title": "Will the high temp in Philadelphia be 84-85° on Jul 18, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.2,
-            "no_ask": 0.81,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -821,8 +880,8 @@
             "ticker": "KXHIGHPHIL-26JUL18-B82.5",
             "title": "Will the high temp in Philadelphia be 82-83° on Jul 18, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.09,
-            "no_ask": 0.94,
+            "yes_ask": 0.12,
+            "no_ask": 0.89,
             "close_time": "2026-07-19T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -835,8 +894,8 @@
             "ticker": "KXHIGHTPHX-26JUL18-T95",
             "title": "Will the maximum temperature be <95° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <95° on Jul 18, 2026?",
-            "yes_ask": 0.17,
-            "no_ask": 0.84,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-07-19T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -844,8 +903,8 @@
             "ticker": "KXHIGHTPHX-26JUL18-T102",
             "title": "Will the maximum temperature be >102° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be >102° on Jul 18, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-07-19T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -853,8 +912,8 @@
             "ticker": "KXHIGHTPHX-26JUL18-B99.5",
             "title": "Will the maximum temperature be 99-100° on Jul 18, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-07-19T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -863,7 +922,7 @@
             "title": "Will the maximum temperature be 97-98° on Jul 18, 2026?",
             "bracket": "97-98°",
             "yes_ask": 0.39,
-            "no_ask": 0.64,
+            "no_ask": 0.63,
             "close_time": "2026-07-19T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -871,7 +930,7 @@
             "ticker": "KXHIGHTPHX-26JUL18-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 18, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.19,
+            "yes_ask": 0.2,
             "no_ask": 0.83,
             "close_time": "2026-07-19T07:00:00Z",
             "lowest_no_ask": false
@@ -903,7 +962,7 @@
             "ticker": "KXHIGHTSATX-26JUL18-T89",
             "title": "Will the maximum temperature be <89° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <89° on Jul 18, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
@@ -912,8 +971,8 @@
             "ticker": "KXHIGHTSATX-26JUL18-B95.5",
             "title": "Will the maximum temperature be 95-96° on Jul 18, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.23,
-            "no_ask": 0.78,
+            "yes_ask": 0.22,
+            "no_ask": 0.79,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -921,8 +980,8 @@
             "ticker": "KXHIGHTSATX-26JUL18-B93.5",
             "title": "Will the maximum temperature be 93-94° on Jul 18, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.51,
-            "no_ask": 0.51,
+            "yes_ask": 0.49,
+            "no_ask": 0.52,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -939,8 +998,8 @@
             "ticker": "KXHIGHTSATX-26JUL18-B89.5",
             "title": "Will the maximum temperature be 89-90° on Jul 18, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-07-19T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -980,8 +1039,8 @@
             "ticker": "KXHIGHTSFO-26JUL18-B69.5",
             "title": "Will the maximum temperature be 69-70° on Jul 18, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.4,
-            "no_ask": 0.61,
+            "yes_ask": 0.37,
+            "no_ask": 0.64,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1021,7 +1080,7 @@
             "ticker": "KXHIGHTSEA-26JUL18-T74",
             "title": "Will the maximum temperature be <74° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be <74° on Jul 18, 2026?",
-            "yes_ask": 0.15,
+            "yes_ask": 0.14,
             "no_ask": 0.88,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": false
@@ -1039,7 +1098,7 @@
             "ticker": "KXHIGHTSEA-26JUL18-B78.5",
             "title": "Will the maximum temperature be 78-79° on Jul 18, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.13,
+            "yes_ask": 0.14,
             "no_ask": 0.88,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": false
@@ -1048,7 +1107,7 @@
             "ticker": "KXHIGHTSEA-26JUL18-B76.5",
             "title": "Will the maximum temperature be 76-77° on Jul 18, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.4,
+            "yes_ask": 0.39,
             "no_ask": 0.62,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": true
@@ -1057,8 +1116,8 @@
             "ticker": "KXHIGHTSEA-26JUL18-B74.5",
             "title": "Will the maximum temperature be 74-75° on Jul 18, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.33,
-            "no_ask": 0.69,
+            "yes_ask": 0.31,
+            "no_ask": 0.7,
             "close_time": "2026-07-19T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1071,8 +1130,8 @@
             "ticker": "KXHIGHTDC-26JUL18-T97",
             "title": "Will the maximum temperature be >97° on Jul 18, 2026?",
             "bracket": "Will the maximum temperature be >97° on Jul 18, 2026?",
-            "yes_ask": 0.25,
-            "no_ask": 0.77,
+            "yes_ask": 0.14,
+            "no_ask": 0.9,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1089,17 +1148,17 @@
             "ticker": "KXHIGHTDC-26JUL18-B96.5",
             "title": "Will the maximum temperature be 96-97° on Jul 18, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.23,
+            "no_ask": 0.79,
             "close_time": "2026-07-19T05:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTDC-26JUL18-B94.5",
             "title": "Will the maximum temperature be 94-95° on Jul 18, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.33,
+            "no_ask": 0.68,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1107,8 +1166,8 @@
             "ticker": "KXHIGHTDC-26JUL18-B92.5",
             "title": "Will the maximum temperature be 92-93° on Jul 18, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.22,
-            "no_ask": 0.8,
+            "yes_ask": 0.23,
+            "no_ask": 0.79,
             "close_time": "2026-07-19T05:00:00Z",
             "lowest_no_ask": false
           },
