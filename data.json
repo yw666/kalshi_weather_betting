@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-01T10:56:21Z",
+  "fetched_at": "2026-08-01T12:02:41Z",
   "dates": {
     "on Aug 1, 2026": {
       "Atlanta": {
@@ -9,8 +9,8 @@
             "ticker": "KXHIGHTATL-26AUG01-T89",
             "title": "Will the maximum temperature be >89° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >89° on Aug 1, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -18,8 +18,8 @@
             "ticker": "KXHIGHTATL-26AUG01-T82",
             "title": "Will the maximum temperature be <82° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <82° on Aug 1, 2026?",
-            "yes_ask": 0.15,
-            "no_ask": 0.86,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -27,8 +27,8 @@
             "ticker": "KXHIGHTATL-26AUG01-B88.5",
             "title": "Will the maximum temperature be 88-89° on Aug 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.18,
+            "no_ask": 0.83,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -36,26 +36,26 @@
             "ticker": "KXHIGHTATL-26AUG01-B86.5",
             "title": "Will the maximum temperature be 86-87° on Aug 1, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
-            "close_time": "2026-08-02T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTATL-26AUG01-B84.5",
-            "title": "Will the maximum temperature be 84-85° on Aug 1, 2026?",
-            "bracket": "84-85°",
-            "yes_ask": 0.36,
+            "yes_ask": 0.35,
             "no_ask": 0.66,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": true
           },
           {
+            "ticker": "KXHIGHTATL-26AUG01-B84.5",
+            "title": "Will the maximum temperature be 84-85° on Aug 1, 2026?",
+            "bracket": "84-85°",
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
+            "close_time": "2026-08-02T05:00:00Z",
+            "lowest_no_ask": false
+          },
+          {
             "ticker": "KXHIGHTATL-26AUG01-B82.5",
             "title": "Will the maximum temperature be 82-83° on Aug 1, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.11,
-            "no_ask": 0.9,
+            "yes_ask": 0.09,
+            "no_ask": 0.94,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -68,8 +68,8 @@
             "ticker": "KXHIGHAUS-26AUG01-T96",
             "title": "Will the high temp in Austin be <96° on Aug 1, 2026?",
             "bracket": "Will the high temp in Austin be <96° on Aug 1, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -86,8 +86,8 @@
             "ticker": "KXHIGHAUS-26AUG01-B98.5",
             "title": "Will the high temp in Austin be 98-99° on Aug 1, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.41,
-            "no_ask": 0.6,
+            "yes_ask": 0.42,
+            "no_ask": 0.59,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -95,8 +95,8 @@
             "ticker": "KXHIGHAUS-26AUG01-B96.5",
             "title": "Will the high temp in Austin be 96-97° on Aug 1, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.18,
-            "no_ask": 0.84,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -104,8 +104,8 @@
             "ticker": "KXHIGHAUS-26AUG01-B102.5",
             "title": "Will the high temp in Austin be 102-103° on Aug 1, 2026?",
             "bracket": "102-103°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -113,7 +113,7 @@
             "ticker": "KXHIGHAUS-26AUG01-B100.5",
             "title": "Will the high temp in Austin be 100-101° on Aug 1, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.32,
+            "yes_ask": 0.35,
             "no_ask": 0.69,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
@@ -127,8 +127,8 @@
             "ticker": "KXHIGHTBOS-26AUG01-T89",
             "title": "Will the maximum temperature be >89° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >89° on Aug 1, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -136,8 +136,8 @@
             "ticker": "KXHIGHTBOS-26AUG01-T82",
             "title": "Will the maximum temperature be <82° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <82° on Aug 1, 2026?",
-            "yes_ask": 0.39,
-            "no_ask": 0.63,
+            "yes_ask": 0.36,
+            "no_ask": 0.65,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -145,8 +145,8 @@
             "ticker": "KXHIGHTBOS-26AUG01-B88.5",
             "title": "Will the maximum temperature be 88-89° on Aug 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -154,7 +154,7 @@
             "ticker": "KXHIGHTBOS-26AUG01-B86.5",
             "title": "Will the maximum temperature be 86-87° on Aug 1, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.08,
+            "yes_ask": 0.09,
             "no_ask": 0.94,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
@@ -163,8 +163,8 @@
             "ticker": "KXHIGHTBOS-26AUG01-B84.5",
             "title": "Will the maximum temperature be 84-85° on Aug 1, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.26,
-            "no_ask": 0.75,
+            "yes_ask": 0.22,
+            "no_ask": 0.79,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -172,8 +172,8 @@
             "ticker": "KXHIGHTBOS-26AUG01-B82.5",
             "title": "Will the maximum temperature be 82-83° on Aug 1, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.25,
+            "no_ask": 0.78,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -187,7 +187,7 @@
             "title": "Will the high temp in Chicago be >77° on Aug 1, 2026?",
             "bracket": "Will the high temp in Chicago be >77° on Aug 1, 2026?",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -204,8 +204,8 @@
             "ticker": "KXHIGHCHI-26AUG01-B76.5",
             "title": "Will the high temp in Chicago be 76-77° on Aug 1, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.05,
-            "no_ask": 0.97,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -213,8 +213,8 @@
             "ticker": "KXHIGHCHI-26AUG01-B74.5",
             "title": "Will the high temp in Chicago be 74-75° on Aug 1, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.3,
-            "no_ask": 0.71,
+            "yes_ask": 0.32,
+            "no_ask": 0.69,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": false
           },
@@ -222,8 +222,8 @@
             "ticker": "KXHIGHCHI-26AUG01-B72.5",
             "title": "Will the high temp in Chicago be 72-73° on Aug 1, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.68,
-            "no_ask": 0.33,
+            "yes_ask": 0.63,
+            "no_ask": 0.38,
             "close_time": "2026-08-02T05:59:00Z",
             "lowest_no_ask": true
           },
@@ -245,8 +245,8 @@
             "ticker": "KXHIGHTDAL-26AUG01-T95",
             "title": "Will the maximum temperature be <95° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <95° on Aug 1, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.96,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -254,8 +254,8 @@
             "ticker": "KXHIGHTDAL-26AUG01-T102",
             "title": "Will the maximum temperature be >102° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >102° on Aug 1, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.97,
+            "yes_ask": 0.04,
+            "no_ask": 0.98,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -263,8 +263,8 @@
             "ticker": "KXHIGHTDAL-26AUG01-B99.5",
             "title": "Will the maximum temperature be 99-100° on Aug 1, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.15,
+            "no_ask": 0.86,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -272,8 +272,8 @@
             "ticker": "KXHIGHTDAL-26AUG01-B97.5",
             "title": "Will the maximum temperature be 97-98° on Aug 1, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.59,
-            "no_ask": 0.42,
+            "yes_ask": 0.57,
+            "no_ask": 0.44,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -281,8 +281,8 @@
             "ticker": "KXHIGHTDAL-26AUG01-B95.5",
             "title": "Will the maximum temperature be 95-96° on Aug 1, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.1,
+            "no_ask": 0.91,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -290,8 +290,8 @@
             "ticker": "KXHIGHTDAL-26AUG01-B101.5",
             "title": "Will the maximum temperature be 101-102° on Aug 1, 2026?",
             "bracket": "101-102°",
-            "yes_ask": 0.13,
-            "no_ask": 0.9,
+            "yes_ask": 0.09,
+            "no_ask": 0.93,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -304,8 +304,8 @@
             "ticker": "KXHIGHDEN-26AUG01-T95",
             "title": "Will the high temp in Denver be >95° on Aug 1, 2026?",
             "bracket": "Will the high temp in Denver be >95° on Aug 1, 2026?",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-08-02T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -322,8 +322,8 @@
             "ticker": "KXHIGHDEN-26AUG01-B94.5",
             "title": "Will the high temp in Denver be 94-95° on Aug 1, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.41,
-            "no_ask": 0.6,
+            "yes_ask": 0.46,
+            "no_ask": 0.55,
             "close_time": "2026-08-02T06:59:00Z",
             "lowest_no_ask": true
           },
@@ -340,8 +340,8 @@
             "ticker": "KXHIGHDEN-26AUG01-B90.5",
             "title": "Will the high temp in Denver be 90-91° on Aug 1, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.08,
+            "no_ask": 0.94,
             "close_time": "2026-08-02T06:59:00Z",
             "lowest_no_ask": false
           },
@@ -363,7 +363,7 @@
             "ticker": "KXHIGHTHOU-26AUG01-T97",
             "title": "Will the maximum temperature be <97° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <97° on Aug 1, 2026?",
-            "yes_ask": 0.21,
+            "yes_ask": 0.22,
             "no_ask": 0.8,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
@@ -381,8 +381,8 @@
             "ticker": "KXHIGHTHOU-26AUG01-B99.5",
             "title": "Will the maximum temperature be 99-100° on Aug 1, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.2,
-            "no_ask": 0.81,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -390,8 +390,8 @@
             "ticker": "KXHIGHTHOU-26AUG01-B97.5",
             "title": "Will the maximum temperature be 97-98° on Aug 1, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.53,
-            "no_ask": 0.5,
+            "yes_ask": 0.61,
+            "no_ask": 0.44,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -399,8 +399,8 @@
             "ticker": "KXHIGHTHOU-26AUG01-B103.5",
             "title": "Will the maximum temperature be 103-104° on Aug 1, 2026?",
             "bracket": "103-104°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -431,8 +431,8 @@
             "ticker": "KXHIGHTLV-26AUG01-T112",
             "title": "Will the maximum temperature be <112° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <112° on Aug 1, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -449,8 +449,8 @@
             "ticker": "KXHIGHTLV-26AUG01-B116.5",
             "title": "Will the maximum temperature be 116-117° on Aug 1, 2026?",
             "bracket": "116-117°",
-            "yes_ask": 0.28,
-            "no_ask": 0.73,
+            "yes_ask": 0.27,
+            "no_ask": 0.74,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -458,8 +458,8 @@
             "ticker": "KXHIGHTLV-26AUG01-B114.5",
             "title": "Will the maximum temperature be 114-115° on Aug 1, 2026?",
             "bracket": "114-115°",
-            "yes_ask": 0.68,
-            "no_ask": 0.33,
+            "yes_ask": 0.67,
+            "no_ask": 0.34,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -467,8 +467,8 @@
             "ticker": "KXHIGHTLV-26AUG01-B112.5",
             "title": "Will the maximum temperature be 112-113° on Aug 1, 2026?",
             "bracket": "112-113°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -499,8 +499,8 @@
             "ticker": "KXHIGHLAX-26AUG01-B84.5",
             "title": "Will the high temp in LA be 84-85° on Aug 1, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-08-02T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -508,8 +508,8 @@
             "ticker": "KXHIGHLAX-26AUG01-B82.5",
             "title": "Will the high temp in LA be 82-83° on Aug 1, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.42,
-            "no_ask": 0.59,
+            "yes_ask": 0.41,
+            "no_ask": 0.6,
             "close_time": "2026-08-02T07:59:00Z",
             "lowest_no_ask": false
           },
@@ -517,8 +517,8 @@
             "ticker": "KXHIGHLAX-26AUG01-B80.5",
             "title": "Will the high temp in LA be 80-81° on Aug 1, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.48,
+            "no_ask": 0.53,
             "close_time": "2026-08-02T07:59:00Z",
             "lowest_no_ask": true
           },
@@ -526,8 +526,8 @@
             "ticker": "KXHIGHLAX-26AUG01-B78.5",
             "title": "Will the high temp in LA be 78-79° on Aug 1, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-08-02T07:59:00Z",
             "lowest_no_ask": false
           }
@@ -558,8 +558,8 @@
             "ticker": "KXHIGHMIA-26AUG01-B94.5",
             "title": "Will the high temp in Miami be 94-95° on Aug 1, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.55,
+            "no_ask": 0.46,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -567,8 +567,8 @@
             "ticker": "KXHIGHMIA-26AUG01-B92.5",
             "title": "Will the high temp in Miami be 92-93° on Aug 1, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.35,
-            "no_ask": 0.66,
+            "yes_ask": 0.33,
+            "no_ask": 0.69,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -576,8 +576,8 @@
             "ticker": "KXHIGHMIA-26AUG01-B90.5",
             "title": "Will the high temp in Miami be 90-91° on Aug 1, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.07,
+            "no_ask": 0.95,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -586,7 +586,7 @@
             "title": "Will the high temp in Miami be 88-89° on Aug 1, 2026?",
             "bracket": "88-89°",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           }
@@ -599,7 +599,7 @@
             "ticker": "KXHIGHTMIN-26AUG01-T88",
             "title": "Will the maximum temperature be >88° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >88° on Aug 1, 2026?",
-            "yes_ask": 0.07,
+            "yes_ask": 0.05,
             "no_ask": 0.97,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
@@ -617,8 +617,8 @@
             "ticker": "KXHIGHTMIN-26AUG01-B87.5",
             "title": "Will the maximum temperature be 87-88° on Aug 1, 2026?",
             "bracket": "87-88°",
-            "yes_ask": 0.13,
-            "no_ask": 0.9,
+            "yes_ask": 0.12,
+            "no_ask": 0.92,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -626,8 +626,8 @@
             "ticker": "KXHIGHTMIN-26AUG01-B85.5",
             "title": "Will the maximum temperature be 85-86° on Aug 1, 2026?",
             "bracket": "85-86°",
-            "yes_ask": 0.44,
-            "no_ask": 0.57,
+            "yes_ask": 0.5,
+            "no_ask": 0.51,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -635,7 +635,7 @@
             "ticker": "KXHIGHTMIN-26AUG01-B83.5",
             "title": "Will the maximum temperature be 83-84° on Aug 1, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.3,
+            "yes_ask": 0.29,
             "no_ask": 0.73,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
@@ -644,8 +644,8 @@
             "ticker": "KXHIGHTMIN-26AUG01-B81.5",
             "title": "Will the maximum temperature be 81-82° on Aug 1, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.09,
-            "no_ask": 0.93,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -667,8 +667,8 @@
             "ticker": "KXHIGHNY-26AUG01-T82",
             "title": "Will the high temp in NYC be <82° on Aug 1, 2026?",
             "bracket": "Will the high temp in NYC be <82° on Aug 1, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -676,8 +676,8 @@
             "ticker": "KXHIGHNY-26AUG01-B88.5",
             "title": "Will the high temp in NYC be 88-89° on Aug 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -685,8 +685,8 @@
             "ticker": "KXHIGHNY-26AUG01-B86.5",
             "title": "Will the high temp in NYC be 86-87° on Aug 1, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.3,
+            "no_ask": 0.72,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -694,8 +694,8 @@
             "ticker": "KXHIGHNY-26AUG01-B84.5",
             "title": "Will the high temp in NYC be 84-85° on Aug 1, 2026?",
             "bracket": "84-85°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.61,
+            "no_ask": 0.4,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": true
           },
@@ -717,8 +717,8 @@
             "ticker": "KXHIGHTNOLA-26AUG01-T93",
             "title": "Will the maximum temperature be <93° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <93° on Aug 1, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -726,7 +726,7 @@
             "ticker": "KXHIGHTNOLA-26AUG01-T100",
             "title": "Will the maximum temperature be >100° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >100° on Aug 1, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
@@ -744,8 +744,8 @@
             "ticker": "KXHIGHTNOLA-26AUG01-B97.5",
             "title": "Will the maximum temperature be 97-98° on Aug 1, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
+            "yes_ask": 0.23,
+            "no_ask": 0.83,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -753,8 +753,8 @@
             "ticker": "KXHIGHTNOLA-26AUG01-B95.5",
             "title": "Will the maximum temperature be 95-96° on Aug 1, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.58,
-            "no_ask": 0.43,
+            "yes_ask": 0.65,
+            "no_ask": 0.37,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -762,8 +762,8 @@
             "ticker": "KXHIGHTNOLA-26AUG01-B93.5",
             "title": "Will the maximum temperature be 93-94° on Aug 1, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -812,8 +812,8 @@
             "ticker": "KXHIGHTOKC-26AUG01-B93.5",
             "title": "Will the maximum temperature be 93-94° on Aug 1, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.5,
-            "no_ask": 0.51,
+            "yes_ask": 0.48,
+            "no_ask": 0.53,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -821,8 +821,8 @@
             "ticker": "KXHIGHTOKC-26AUG01-B91.5",
             "title": "Will the maximum temperature be 91-92° on Aug 1, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.38,
+            "no_ask": 0.63,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -844,8 +844,8 @@
             "ticker": "KXHIGHPHIL-26AUG01-T86",
             "title": "Will the high temp in Philadelphia be <86° on Aug 1, 2026?",
             "bracket": "Will the high temp in Philadelphia be <86° on Aug 1, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.04,
+            "no_ask": 0.98,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -854,7 +854,7 @@
             "title": "Will the high temp in Philadelphia be 92-93° on Aug 1, 2026?",
             "bracket": "92-93°",
             "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "no_ask": 0.97,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -862,8 +862,8 @@
             "ticker": "KXHIGHPHIL-26AUG01-B90.5",
             "title": "Will the high temp in Philadelphia be 90-91° on Aug 1, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.29,
+            "no_ask": 0.72,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": false
           },
@@ -871,7 +871,7 @@
             "ticker": "KXHIGHPHIL-26AUG01-B88.5",
             "title": "Will the high temp in Philadelphia be 88-89° on Aug 1, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.48,
+            "yes_ask": 0.47,
             "no_ask": 0.54,
             "close_time": "2026-08-02T04:59:00Z",
             "lowest_no_ask": true
@@ -912,8 +912,8 @@
             "ticker": "KXHIGHTPHX-26AUG01-B118.5",
             "title": "Will the maximum temperature be 118-119° on Aug 1, 2026?",
             "bracket": "118-119°",
-            "yes_ask": 0.11,
-            "no_ask": 0.9,
+            "yes_ask": 0.1,
+            "no_ask": 0.92,
             "close_time": "2026-08-02T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -921,8 +921,8 @@
             "ticker": "KXHIGHTPHX-26AUG01-B116.5",
             "title": "Will the maximum temperature be 116-117° on Aug 1, 2026?",
             "bracket": "116-117°",
-            "yes_ask": 0.64,
-            "no_ask": 0.37,
+            "yes_ask": 0.63,
+            "no_ask": 0.38,
             "close_time": "2026-08-02T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -930,8 +930,8 @@
             "ticker": "KXHIGHTPHX-26AUG01-B114.5",
             "title": "Will the maximum temperature be 114-115° on Aug 1, 2026?",
             "bracket": "114-115°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-08-02T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -953,8 +953,8 @@
             "ticker": "KXHIGHTSATX-26AUG01-T97",
             "title": "Will the maximum temperature be <97° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <97° on Aug 1, 2026?",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -971,8 +971,8 @@
             "ticker": "KXHIGHTSATX-26AUG01-B99.5",
             "title": "Will the maximum temperature be 99-100° on Aug 1, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.38,
-            "no_ask": 0.63,
+            "yes_ask": 0.42,
+            "no_ask": 0.59,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -980,8 +980,8 @@
             "ticker": "KXHIGHTSATX-26AUG01-B97.5",
             "title": "Will the maximum temperature be 97-98° on Aug 1, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.45,
+            "no_ask": 0.56,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -998,8 +998,8 @@
             "ticker": "KXHIGHTSATX-26AUG01-B101.5",
             "title": "Will the maximum temperature be 101-102° on Aug 1, 2026?",
             "bracket": "101-102°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-08-02T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -1012,7 +1012,7 @@
             "ticker": "KXHIGHTSFO-26AUG01-T80",
             "title": "Will the maximum temperature be >80° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >80° on Aug 1, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.03,
             "no_ask": 0.99,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
@@ -1030,7 +1030,7 @@
             "ticker": "KXHIGHTSFO-26AUG01-B79.5",
             "title": "Will the maximum temperature be 79-80° on Aug 1, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.05,
+            "yes_ask": 0.06,
             "no_ask": 0.97,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
@@ -1048,8 +1048,8 @@
             "ticker": "KXHIGHTSFO-26AUG01-B75.5",
             "title": "Will the maximum temperature be 75-76° on Aug 1, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.4,
-            "no_ask": 0.61,
+            "yes_ask": 0.39,
+            "no_ask": 0.63,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1057,8 +1057,8 @@
             "ticker": "KXHIGHTSFO-26AUG01-B73.5",
             "title": "Will the maximum temperature be 73-74° on Aug 1, 2026?",
             "bracket": "73-74°",
-            "yes_ask": 0.22,
-            "no_ask": 0.81,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1071,8 +1071,8 @@
             "ticker": "KXHIGHTSEA-26AUG01-T75",
             "title": "Will the maximum temperature be >75° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >75° on Aug 1, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.11,
+            "no_ask": 0.93,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1089,8 +1089,8 @@
             "ticker": "KXHIGHTSEA-26AUG01-B74.5",
             "title": "Will the maximum temperature be 74-75° on Aug 1, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.24,
-            "no_ask": 0.77,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1099,7 +1099,7 @@
             "title": "Will the maximum temperature be 72-73° on Aug 1, 2026?",
             "bracket": "72-73°",
             "yes_ask": 0.46,
-            "no_ask": 0.57,
+            "no_ask": 0.55,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -1107,8 +1107,8 @@
             "ticker": "KXHIGHTSEA-26AUG01-B70.5",
             "title": "Will the maximum temperature be 70-71° on Aug 1, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.24,
-            "no_ask": 0.77,
+            "yes_ask": 0.23,
+            "no_ask": 0.78,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1116,8 +1116,8 @@
             "ticker": "KXHIGHTSEA-26AUG01-B68.5",
             "title": "Will the maximum temperature be 68-69° on Aug 1, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.96,
             "close_time": "2026-08-02T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -1130,7 +1130,7 @@
             "ticker": "KXHIGHTDC-26AUG01-T96",
             "title": "Will the maximum temperature be >96° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be >96° on Aug 1, 2026?",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
@@ -1139,8 +1139,8 @@
             "ticker": "KXHIGHTDC-26AUG01-T89",
             "title": "Will the maximum temperature be <89° on Aug 1, 2026?",
             "bracket": "Will the maximum temperature be <89° on Aug 1, 2026?",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1148,8 +1148,8 @@
             "ticker": "KXHIGHTDC-26AUG01-B95.5",
             "title": "Will the maximum temperature be 95-96° on Aug 1, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1157,8 +1157,8 @@
             "ticker": "KXHIGHTDC-26AUG01-B93.5",
             "title": "Will the maximum temperature be 93-94° on Aug 1, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1175,8 +1175,8 @@
             "ticker": "KXHIGHTDC-26AUG01-B89.5",
             "title": "Will the maximum temperature be 89-90° on Aug 1, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.41,
-            "no_ask": 0.6,
+            "yes_ask": 0.4,
+            "no_ask": 0.61,
             "close_time": "2026-08-02T05:00:00Z",
             "lowest_no_ask": true
           }
