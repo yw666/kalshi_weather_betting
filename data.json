@@ -1,1129 +1,6 @@
 {
-  "fetched_at": "2026-09-23T21:49:53Z",
+  "fetched_at": "2026-09-24T00:01:02Z",
   "dates": {
-    "on Sep 23, 2026": {
-      "Atlanta": {
-        "series_ticker": "KXHIGHTATL",
-        "markets": [
-          {
-            "ticker": "KXHIGHTATL-26SEP23-T87",
-            "title": "Will the maximum temperature be >87° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >87° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTATL-26SEP23-T80",
-            "title": "Will the maximum temperature be <80° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <80° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTATL-26SEP23-B86.5",
-            "title": "Will the maximum temperature be 86-87° on Sep 23, 2026?",
-            "bracket": "86-87°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTATL-26SEP23-B84.5",
-            "title": "Will the maximum temperature be 84-85° on Sep 23, 2026?",
-            "bracket": "84-85°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTATL-26SEP23-B82.5",
-            "title": "Will the maximum temperature be 82-83° on Sep 23, 2026?",
-            "bracket": "82-83°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTATL-26SEP23-B80.5",
-            "title": "Will the maximum temperature be 80-81° on Sep 23, 2026?",
-            "bracket": "80-81°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Austin": {
-        "series_ticker": "KXHIGHAUS",
-        "markets": [
-          {
-            "ticker": "KXHIGHAUS-26SEP23-T96",
-            "title": "Will the maximum temperature be <96° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <96° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHAUS-26SEP23-T103",
-            "title": "Will the maximum temperature be >103° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >103° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHAUS-26SEP23-B98.5",
-            "title": "Will the maximum temperature be 98-99° on Sep 23, 2026?",
-            "bracket": "98-99°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHAUS-26SEP23-B96.5",
-            "title": "Will the maximum temperature be 96-97° on Sep 23, 2026?",
-            "bracket": "96-97°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHAUS-26SEP23-B102.5",
-            "title": "Will the maximum temperature be 102-103° on Sep 23, 2026?",
-            "bracket": "102-103°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHAUS-26SEP23-B100.5",
-            "title": "Will the maximum temperature be 100-101° on Sep 23, 2026?",
-            "bracket": "100-101°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Boston": {
-        "series_ticker": "KXHIGHTBOS",
-        "markets": [
-          {
-            "ticker": "KXHIGHTBOS-26SEP23-T67",
-            "title": "Will the maximum temperature be >67° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >67° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTBOS-26SEP23-T60",
-            "title": "Will the maximum temperature be <60° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <60° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTBOS-26SEP23-B66.5",
-            "title": "Will the maximum temperature be 66-67° on Sep 23, 2026?",
-            "bracket": "66-67°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTBOS-26SEP23-B64.5",
-            "title": "Will the maximum temperature be 64-65° on Sep 23, 2026?",
-            "bracket": "64-65°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTBOS-26SEP23-B62.5",
-            "title": "Will the maximum temperature be 62-63° on Sep 23, 2026?",
-            "bracket": "62-63°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTBOS-26SEP23-B60.5",
-            "title": "Will the maximum temperature be 60-61° on Sep 23, 2026?",
-            "bracket": "60-61°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Chicago": {
-        "series_ticker": "KXHIGHCHI",
-        "markets": [
-          {
-            "ticker": "KXHIGHCHI-26SEP23-T70",
-            "title": "Will the maximum temperature be >70° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >70° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHCHI-26SEP23-T63",
-            "title": "Will the maximum temperature be <63° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <63° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHCHI-26SEP23-B69.5",
-            "title": "Will the maximum temperature be 69-70° on Sep 23, 2026?",
-            "bracket": "69-70°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHCHI-26SEP23-B67.5",
-            "title": "Will the maximum temperature be 67-68° on Sep 23, 2026?",
-            "bracket": "67-68°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHCHI-26SEP23-B65.5",
-            "title": "Will the maximum temperature be 65-66° on Sep 23, 2026?",
-            "bracket": "65-66°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHCHI-26SEP23-B63.5",
-            "title": "Will the maximum temperature be 63-64° on Sep 23, 2026?",
-            "bracket": "63-64°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Dallas": {
-        "series_ticker": "KXHIGHTDAL",
-        "markets": [
-          {
-            "ticker": "KXHIGHTDAL-26SEP23-T94",
-            "title": "Will the maximum temperature be <94° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <94° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDAL-26SEP23-T101",
-            "title": "Will the maximum temperature be >101° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >101° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDAL-26SEP23-B98.5",
-            "title": "Will the maximum temperature be 98-99° on Sep 23, 2026?",
-            "bracket": "98-99°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTDAL-26SEP23-B96.5",
-            "title": "Will the maximum temperature be 96-97° on Sep 23, 2026?",
-            "bracket": "96-97°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDAL-26SEP23-B94.5",
-            "title": "Will the maximum temperature be 94-95° on Sep 23, 2026?",
-            "bracket": "94-95°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDAL-26SEP23-B100.5",
-            "title": "Will the maximum temperature be 100-101° on Sep 23, 2026?",
-            "bracket": "100-101°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Houston": {
-        "series_ticker": "KXHIGHTHOU",
-        "markets": [
-          {
-            "ticker": "KXHIGHTHOU-26SEP23-T93",
-            "title": "Will the maximum temperature be <93° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <93° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTHOU-26SEP23-T100",
-            "title": "Will the maximum temperature be >100° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >100° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTHOU-26SEP23-B99.5",
-            "title": "Will the maximum temperature be 99-100° on Sep 23, 2026?",
-            "bracket": "99-100°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTHOU-26SEP23-B97.5",
-            "title": "Will the maximum temperature be 97-98° on Sep 23, 2026?",
-            "bracket": "97-98°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTHOU-26SEP23-B95.5",
-            "title": "Will the maximum temperature be 95-96° on Sep 23, 2026?",
-            "bracket": "95-96°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTHOU-26SEP23-B93.5",
-            "title": "Will the maximum temperature be 93-94° on Sep 23, 2026?",
-            "bracket": "93-94°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Las Vegas": {
-        "series_ticker": "KXHIGHTLV",
-        "markets": [
-          {
-            "ticker": "KXHIGHTLV-26SEP23-T98",
-            "title": "Will the maximum temperature be >98° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >98° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTLV-26SEP23-T91",
-            "title": "Will the maximum temperature be <91° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <91° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTLV-26SEP23-B97.5",
-            "title": "Will the maximum temperature be 97-98° on Sep 23, 2026?",
-            "bracket": "97-98°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTLV-26SEP23-B95.5",
-            "title": "Will the maximum temperature be 95-96° on Sep 23, 2026?",
-            "bracket": "95-96°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTLV-26SEP23-B93.5",
-            "title": "Will the maximum temperature be 93-94° on Sep 23, 2026?",
-            "bracket": "93-94°",
-            "yes_ask": 0.78,
-            "no_ask": 0.31,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTLV-26SEP23-B91.5",
-            "title": "Will the maximum temperature be 91-92° on Sep 23, 2026?",
-            "bracket": "91-92°",
-            "yes_ask": 0.28,
-            "no_ask": 0.76,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Los Angeles": {
-        "series_ticker": "KXHIGHLAX",
-        "markets": [
-          {
-            "ticker": "KXHIGHLAX-26SEP23-T85",
-            "title": "Will the maximum temperature be >85° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >85° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHLAX-26SEP23-T78",
-            "title": "Will the maximum temperature be <78° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <78° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHLAX-26SEP23-B84.5",
-            "title": "Will the maximum temperature be 84-85° on Sep 23, 2026?",
-            "bracket": "84-85°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHLAX-26SEP23-B82.5",
-            "title": "Will the maximum temperature be 82-83° on Sep 23, 2026?",
-            "bracket": "82-83°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHLAX-26SEP23-B80.5",
-            "title": "Will the maximum temperature be 80-81° on Sep 23, 2026?",
-            "bracket": "80-81°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHLAX-26SEP23-B78.5",
-            "title": "Will the maximum temperature be 78-79° on Sep 23, 2026?",
-            "bracket": "78-79°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": true
-          }
-        ]
-      },
-      "Miami": {
-        "series_ticker": "KXHIGHMIA",
-        "markets": [
-          {
-            "ticker": "KXHIGHMIA-26SEP23-T89",
-            "title": "Will the maximum temperature be >89° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >89° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHMIA-26SEP23-T82",
-            "title": "Will the maximum temperature be <82° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <82° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHMIA-26SEP23-B88.5",
-            "title": "Will the maximum temperature be 88-89° on Sep 23, 2026?",
-            "bracket": "88-89°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHMIA-26SEP23-B86.5",
-            "title": "Will the maximum temperature be 86-87° on Sep 23, 2026?",
-            "bracket": "86-87°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHMIA-26SEP23-B84.5",
-            "title": "Will the maximum temperature be 84-85° on Sep 23, 2026?",
-            "bracket": "84-85°",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHMIA-26SEP23-B82.5",
-            "title": "Will the maximum temperature be 82-83° on Sep 23, 2026?",
-            "bracket": "82-83°",
-            "yes_ask": 0.99,
-            "no_ask": 0.04,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": true
-          }
-        ]
-      },
-      "Minneapolis": {
-        "series_ticker": "KXHIGHTMIN",
-        "markets": [
-          {
-            "ticker": "KXHIGHTMIN-26SEP23-T69",
-            "title": "Will the maximum temperature be >69° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >69° on Sep 23, 2026?",
-            "yes_ask": 0.13,
-            "no_ask": 0.91,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTMIN-26SEP23-T62",
-            "title": "Will the maximum temperature be <62° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <62° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTMIN-26SEP23-B68.5",
-            "title": "Will the maximum temperature be 68-69° on Sep 23, 2026?",
-            "bracket": "68-69°",
-            "yes_ask": 0.89,
-            "no_ask": 0.12,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTMIN-26SEP23-B66.5",
-            "title": "Will the maximum temperature be 66-67° on Sep 23, 2026?",
-            "bracket": "66-67°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTMIN-26SEP23-B64.5",
-            "title": "Will the maximum temperature be 64-65° on Sep 23, 2026?",
-            "bracket": "64-65°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTMIN-26SEP23-B62.5",
-            "title": "Will the maximum temperature be 62-63° on Sep 23, 2026?",
-            "bracket": "62-63°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "NYC": {
-        "series_ticker": "KXHIGHNY",
-        "markets": [
-          {
-            "ticker": "KXHIGHNY-26SEP23-T72",
-            "title": "Will the maximum temperature be >72° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >72° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHNY-26SEP23-T65",
-            "title": "Will the maximum temperature be <65° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <65° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHNY-26SEP23-B71.5",
-            "title": "Will the maximum temperature be 71-72° on Sep 23, 2026?",
-            "bracket": "71-72°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHNY-26SEP23-B69.5",
-            "title": "Will the maximum temperature be 69-70° on Sep 23, 2026?",
-            "bracket": "69-70°",
-            "yes_ask": 0.02,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHNY-26SEP23-B67.5",
-            "title": "Will the maximum temperature be 67-68° on Sep 23, 2026?",
-            "bracket": "67-68°",
-            "yes_ask": 1.0,
-            "no_ask": 0.02,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHNY-26SEP23-B65.5",
-            "title": "Will the maximum temperature be 65-66° on Sep 23, 2026?",
-            "bracket": "65-66°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "New Orleans": {
-        "series_ticker": "KXHIGHTNOLA",
-        "markets": [
-          {
-            "ticker": "KXHIGHTNOLA-26SEP23-T98",
-            "title": "Will the maximum temperature be >98° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >98° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTNOLA-26SEP23-T91",
-            "title": "Will the maximum temperature be <91° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <91° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTNOLA-26SEP23-B97.5",
-            "title": "Will the maximum temperature be 97-98° on Sep 23, 2026?",
-            "bracket": "97-98°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTNOLA-26SEP23-B95.5",
-            "title": "Will the maximum temperature be 95-96° on Sep 23, 2026?",
-            "bracket": "95-96°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTNOLA-26SEP23-B93.5",
-            "title": "Will the maximum temperature be 93-94° on Sep 23, 2026?",
-            "bracket": "93-94°",
-            "yes_ask": 0.08,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTNOLA-26SEP23-B91.5",
-            "title": "Will the maximum temperature be 91-92° on Sep 23, 2026?",
-            "bracket": "91-92°",
-            "yes_ask": 0.98,
-            "no_ask": 0.06,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          }
-        ]
-      },
-      "Oklahoma City": {
-        "series_ticker": "KXHIGHTOKC",
-        "markets": [
-          {
-            "ticker": "KXHIGHTOKC-26SEP23-T94",
-            "title": "Will the maximum temperature be >94° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >94° on Sep 23, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTOKC-26SEP23-T87",
-            "title": "Will the maximum temperature be <87° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <87° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTOKC-26SEP23-B93.5",
-            "title": "Will the maximum temperature be 93-94° on Sep 23, 2026?",
-            "bracket": "93-94°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTOKC-26SEP23-B91.5",
-            "title": "Will the maximum temperature be 91-92° on Sep 23, 2026?",
-            "bracket": "91-92°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTOKC-26SEP23-B89.5",
-            "title": "Will the maximum temperature be 89-90° on Sep 23, 2026?",
-            "bracket": "89-90°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTOKC-26SEP23-B87.5",
-            "title": "Will the maximum temperature be 87-88° on Sep 23, 2026?",
-            "bracket": "87-88°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Philadelphia": {
-        "series_ticker": "KXHIGHPHIL",
-        "markets": [
-          {
-            "ticker": "KXHIGHPHIL-26SEP23-T71",
-            "title": "Will the maximum temperature be >71° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >71° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHPHIL-26SEP23-T64",
-            "title": "Will the maximum temperature be <64° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <64° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHPHIL-26SEP23-B70.5",
-            "title": "Will the maximum temperature be 70-71° on Sep 23, 2026?",
-            "bracket": "70-71°",
-            "yes_ask": 1.0,
-            "no_ask": 0.01,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHPHIL-26SEP23-B68.5",
-            "title": "Will the maximum temperature be 68-69° on Sep 23, 2026?",
-            "bracket": "68-69°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHPHIL-26SEP23-B66.5",
-            "title": "Will the maximum temperature be 66-67° on Sep 23, 2026?",
-            "bracket": "66-67°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHPHIL-26SEP23-B64.5",
-            "title": "Will the maximum temperature be 64-65° on Sep 23, 2026?",
-            "bracket": "64-65°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Phoenix": {
-        "series_ticker": "KXHIGHTPHX",
-        "markets": [
-          {
-            "ticker": "KXHIGHTPHX-26SEP23-T93",
-            "title": "Will the maximum temperature be <93° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <93° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T07:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTPHX-26SEP23-T100",
-            "title": "Will the maximum temperature be >100° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >100° on Sep 23, 2026?",
-            "yes_ask": 0.08,
-            "no_ask": 0.97,
-            "close_time": "2026-09-24T07:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTPHX-26SEP23-B99.5",
-            "title": "Will the maximum temperature be 99-100° on Sep 23, 2026?",
-            "bracket": "99-100°",
-            "yes_ask": 0.97,
-            "no_ask": 0.07,
-            "close_time": "2026-09-24T07:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTPHX-26SEP23-B97.5",
-            "title": "Will the maximum temperature be 97-98° on Sep 23, 2026?",
-            "bracket": "97-98°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T07:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTPHX-26SEP23-B95.5",
-            "title": "Will the maximum temperature be 95-96° on Sep 23, 2026?",
-            "bracket": "95-96°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T07:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTPHX-26SEP23-B93.5",
-            "title": "Will the maximum temperature be 93-94° on Sep 23, 2026?",
-            "bracket": "93-94°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T07:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "San Antonio": {
-        "series_ticker": "KXHIGHTSATX",
-        "markets": [
-          {
-            "ticker": "KXHIGHTSATX-26SEP23-T94",
-            "title": "Will the maximum temperature be <94° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <94° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSATX-26SEP23-T101",
-            "title": "Will the maximum temperature be >101° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >101° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSATX-26SEP23-B98.5",
-            "title": "Will the maximum temperature be 98-99° on Sep 23, 2026?",
-            "bracket": "98-99°",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSATX-26SEP23-B96.5",
-            "title": "Will the maximum temperature be 96-97° on Sep 23, 2026?",
-            "bracket": "96-97°",
-            "yes_ask": 0.99,
-            "no_ask": 0.02,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTSATX-26SEP23-B94.5",
-            "title": "Will the maximum temperature be 94-95° on Sep 23, 2026?",
-            "bracket": "94-95°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSATX-26SEP23-B100.5",
-            "title": "Will the maximum temperature be 100-101° on Sep 23, 2026?",
-            "bracket": "100-101°",
-            "yes_ask": 0.02,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T06:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "San Francisco": {
-        "series_ticker": "KXHIGHTSFO",
-        "markets": [
-          {
-            "ticker": "KXHIGHTSFO-26SEP23-T82",
-            "title": "Will the maximum temperature be >82° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >82° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSFO-26SEP23-T75",
-            "title": "Will the maximum temperature be <75° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <75° on Sep 23, 2026?",
-            "yes_ask": 0.86,
-            "no_ask": 0.16,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTSFO-26SEP23-B81.5",
-            "title": "Will the maximum temperature be 81-82° on Sep 23, 2026?",
-            "bracket": "81-82°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSFO-26SEP23-B79.5",
-            "title": "Will the maximum temperature be 79-80° on Sep 23, 2026?",
-            "bracket": "79-80°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSFO-26SEP23-B77.5",
-            "title": "Will the maximum temperature be 77-78° on Sep 23, 2026?",
-            "bracket": "77-78°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSFO-26SEP23-B75.5",
-            "title": "Will the maximum temperature be 75-76° on Sep 23, 2026?",
-            "bracket": "75-76°",
-            "yes_ask": 0.18,
-            "no_ask": 0.84,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Seattle": {
-        "series_ticker": "KXHIGHTSEA",
-        "markets": [
-          {
-            "ticker": "KXHIGHTSEA-26SEP23-T72",
-            "title": "Will the maximum temperature be >72° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >72° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSEA-26SEP23-T65",
-            "title": "Will the maximum temperature be <65° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <65° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSEA-26SEP23-B71.5",
-            "title": "Will the maximum temperature be 71-72° on Sep 23, 2026?",
-            "bracket": "71-72°",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSEA-26SEP23-B69.5",
-            "title": "Will the maximum temperature be 69-70° on Sep 23, 2026?",
-            "bracket": "69-70°",
-            "yes_ask": 0.05,
-            "no_ask": 0.99,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTSEA-26SEP23-B67.5",
-            "title": "Will the maximum temperature be 67-68° on Sep 23, 2026?",
-            "bracket": "67-68°",
-            "yes_ask": 0.85,
-            "no_ask": 0.22,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTSEA-26SEP23-B65.5",
-            "title": "Will the maximum temperature be 65-66° on Sep 23, 2026?",
-            "bracket": "65-66°",
-            "yes_ask": 0.13,
-            "no_ask": 0.91,
-            "close_time": "2026-09-24T08:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      },
-      "Washington DC": {
-        "series_ticker": "KXHIGHTDC",
-        "markets": [
-          {
-            "ticker": "KXHIGHTDC-26SEP23-T67",
-            "title": "Will the maximum temperature be >67° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be >67° on Sep 23, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDC-26SEP23-T60",
-            "title": "Will the maximum temperature be <60° on Sep 23, 2026?",
-            "bracket": "Will the maximum temperature be <60° on Sep 23, 2026?",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDC-26SEP23-B66.5",
-            "title": "Will the maximum temperature be 66-67° on Sep 23, 2026?",
-            "bracket": "66-67°",
-            "yes_ask": 0.99,
-            "no_ask": 0.02,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTDC-26SEP23-B64.5",
-            "title": "Will the maximum temperature be 64-65° on Sep 23, 2026?",
-            "bracket": "64-65°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDC-26SEP23-B62.5",
-            "title": "Will the maximum temperature be 62-63° on Sep 23, 2026?",
-            "bracket": "62-63°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          },
-          {
-            "ticker": "KXHIGHTDC-26SEP23-B60.5",
-            "title": "Will the maximum temperature be 60-61° on Sep 23, 2026?",
-            "bracket": "60-61°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
-            "close_time": "2026-09-24T05:00:00Z",
-            "lowest_no_ask": false
-          }
-        ]
-      }
-    },
     "on Sep 24, 2026": {
       "Atlanta": {
         "series_ticker": "KXHIGHTATL",
@@ -1141,8 +18,8 @@
             "ticker": "KXHIGHTATL-26SEP24-T74",
             "title": "Will the maximum temperature be <74° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <74° on Sep 24, 2026?",
-            "yes_ask": 0.68,
-            "no_ask": 0.33,
+            "yes_ask": 0.74,
+            "no_ask": 0.29,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1150,7 +27,7 @@
             "ticker": "KXHIGHTATL-26SEP24-B80.5",
             "title": "Will the maximum temperature be 80-81° on Sep 24, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.03,
+            "yes_ask": 0.02,
             "no_ask": 0.99,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
@@ -1159,7 +36,7 @@
             "ticker": "KXHIGHTATL-26SEP24-B78.5",
             "title": "Will the maximum temperature be 78-79° on Sep 24, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.04,
+            "yes_ask": 0.05,
             "no_ask": 0.98,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
@@ -1168,8 +45,8 @@
             "ticker": "KXHIGHTATL-26SEP24-B76.5",
             "title": "Will the maximum temperature be 76-77° on Sep 24, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.11,
-            "no_ask": 0.93,
+            "yes_ask": 0.07,
+            "no_ask": 0.96,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1191,8 +68,8 @@
             "ticker": "KXHIGHAUS-26SEP24-T96",
             "title": "Will the maximum temperature be <96° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <96° on Sep 24, 2026?",
-            "yes_ask": 0.14,
-            "no_ask": 0.89,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1209,8 +86,8 @@
             "ticker": "KXHIGHAUS-26SEP24-B98.5",
             "title": "Will the maximum temperature be 98-99° on Sep 24, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.48,
-            "no_ask": 0.53,
+            "yes_ask": 0.45,
+            "no_ask": 0.56,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1218,8 +95,8 @@
             "ticker": "KXHIGHAUS-26SEP24-B96.5",
             "title": "Will the maximum temperature be 96-97° on Sep 24, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.36,
-            "no_ask": 0.66,
+            "yes_ask": 0.41,
+            "no_ask": 0.61,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1259,7 +136,7 @@
             "ticker": "KXHIGHTBOS-26SEP24-T59",
             "title": "Will the maximum temperature be <59° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <59° on Sep 24, 2026?",
-            "yes_ask": 0.03,
+            "yes_ask": 0.02,
             "no_ask": 0.99,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
@@ -1268,8 +145,8 @@
             "ticker": "KXHIGHTBOS-26SEP24-B65.5",
             "title": "Will the maximum temperature be 65-66° on Sep 24, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.09,
+            "no_ask": 0.93,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1277,26 +154,26 @@
             "ticker": "KXHIGHTBOS-26SEP24-B63.5",
             "title": "Will the maximum temperature be 63-64° on Sep 24, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.41,
-            "no_ask": 0.64,
+            "yes_ask": 0.5,
+            "no_ask": 0.53,
             "close_time": "2026-09-25T05:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTBOS-26SEP24-B61.5",
             "title": "Will the maximum temperature be 61-62° on Sep 24, 2026?",
             "bracket": "61-62°",
-            "yes_ask": 0.47,
-            "no_ask": 0.54,
+            "yes_ask": 0.31,
+            "no_ask": 0.7,
             "close_time": "2026-09-25T05:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTBOS-26SEP24-B59.5",
             "title": "Will the maximum temperature be 59-60° on Sep 24, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.13,
-            "no_ask": 0.88,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -1318,8 +195,8 @@
             "ticker": "KXHIGHCHI-26SEP24-T66",
             "title": "Will the maximum temperature be <66° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <66° on Sep 24, 2026?",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1336,8 +213,8 @@
             "ticker": "KXHIGHCHI-26SEP24-B70.5",
             "title": "Will the maximum temperature be 70-71° on Sep 24, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.36,
+            "no_ask": 0.65,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1345,8 +222,8 @@
             "ticker": "KXHIGHCHI-26SEP24-B68.5",
             "title": "Will the maximum temperature be 68-69° on Sep 24, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.42,
+            "no_ask": 0.59,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1354,8 +231,8 @@
             "ticker": "KXHIGHCHI-26SEP24-B66.5",
             "title": "Will the maximum temperature be 66-67° on Sep 24, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -1368,8 +245,8 @@
             "ticker": "KXHIGHTDAL-26SEP24-T93",
             "title": "Will the maximum temperature be <93° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <93° on Sep 24, 2026?",
-            "yes_ask": 0.16,
-            "no_ask": 0.89,
+            "yes_ask": 0.15,
+            "no_ask": 0.88,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1386,7 +263,7 @@
             "ticker": "KXHIGHTDAL-26SEP24-B99.5",
             "title": "Will the maximum temperature be 99-100° on Sep 24, 2026?",
             "bracket": "99-100°",
-            "yes_ask": 0.02,
+            "yes_ask": 0.01,
             "no_ask": 1.0,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
@@ -1395,8 +272,8 @@
             "ticker": "KXHIGHTDAL-26SEP24-B97.5",
             "title": "Will the maximum temperature be 97-98° on Sep 24, 2026?",
             "bracket": "97-98°",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.19,
+            "no_ask": 0.82,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1404,8 +281,8 @@
             "ticker": "KXHIGHTDAL-26SEP24-B95.5",
             "title": "Will the maximum temperature be 95-96° on Sep 24, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.43,
-            "no_ask": 0.58,
+            "yes_ask": 0.39,
+            "no_ask": 0.62,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1413,9 +290,68 @@
             "ticker": "KXHIGHTDAL-26SEP24-B93.5",
             "title": "Will the maximum temperature be 93-94° on Sep 24, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.31,
+            "yes_ask": 0.32,
             "no_ask": 0.7,
             "close_time": "2026-09-25T06:00:00Z",
+            "lowest_no_ask": false
+          }
+        ]
+      },
+      "Denver": {
+        "series_ticker": "KXHIGHDEN",
+        "markets": [
+          {
+            "ticker": "KXHIGHDEN-26SEP24-T71",
+            "title": "Will the maximum temperature be >71° on Sep 24, 2026?",
+            "bracket": "Will the maximum temperature be >71° on Sep 24, 2026?",
+            "yes_ask": 0.66,
+            "no_ask": 0.35,
+            "close_time": "2026-09-25T07:00:00Z",
+            "lowest_no_ask": true
+          },
+          {
+            "ticker": "KXHIGHDEN-26SEP24-T64",
+            "title": "Will the maximum temperature be <64° on Sep 24, 2026?",
+            "bracket": "Will the maximum temperature be <64° on Sep 24, 2026?",
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
+            "close_time": "2026-09-25T07:00:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26SEP24-B70.5",
+            "title": "Will the maximum temperature be 70-71° on Sep 24, 2026?",
+            "bracket": "70-71°",
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
+            "close_time": "2026-09-25T07:00:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26SEP24-B68.5",
+            "title": "Will the maximum temperature be 68-69° on Sep 24, 2026?",
+            "bracket": "68-69°",
+            "yes_ask": 0.12,
+            "no_ask": 0.9,
+            "close_time": "2026-09-25T07:00:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26SEP24-B66.5",
+            "title": "Will the maximum temperature be 66-67° on Sep 24, 2026?",
+            "bracket": "66-67°",
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
+            "close_time": "2026-09-25T07:00:00Z",
+            "lowest_no_ask": false
+          },
+          {
+            "ticker": "KXHIGHDEN-26SEP24-B64.5",
+            "title": "Will the maximum temperature be 64-65° on Sep 24, 2026?",
+            "bracket": "64-65°",
+            "yes_ask": 0.03,
+            "no_ask": 0.99,
+            "close_time": "2026-09-25T07:00:00Z",
             "lowest_no_ask": false
           }
         ]
@@ -1445,7 +381,7 @@
             "ticker": "KXHIGHTHOU-26SEP24-B98.5",
             "title": "Will the maximum temperature be 98-99° on Sep 24, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.04,
+            "yes_ask": 0.05,
             "no_ask": 0.97,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
@@ -1454,8 +390,8 @@
             "ticker": "KXHIGHTHOU-26SEP24-B96.5",
             "title": "Will the maximum temperature be 96-97° on Sep 24, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.29,
+            "no_ask": 0.73,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1463,8 +399,8 @@
             "ticker": "KXHIGHTHOU-26SEP24-B94.5",
             "title": "Will the maximum temperature be 94-95° on Sep 24, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.51,
-            "no_ask": 0.5,
+            "yes_ask": 0.52,
+            "no_ask": 0.49,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1472,8 +408,8 @@
             "ticker": "KXHIGHTHOU-26SEP24-B92.5",
             "title": "Will the maximum temperature be 92-93° on Sep 24, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "yes_ask": 0.14,
+            "no_ask": 0.87,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -1504,7 +440,7 @@
             "ticker": "KXHIGHTLV-26SEP24-B98.5",
             "title": "Will the maximum temperature be 98-99° on Sep 24, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.07,
+            "yes_ask": 0.05,
             "no_ask": 0.96,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
@@ -1514,24 +450,24 @@
             "title": "Will the maximum temperature be 96-97° on Sep 24, 2026?",
             "bracket": "96-97°",
             "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "no_ask": 0.57,
             "close_time": "2026-09-25T08:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTLV-26SEP24-B94.5",
             "title": "Will the maximum temperature be 94-95° on Sep 24, 2026?",
             "bracket": "94-95°",
-            "yes_ask": 0.41,
-            "no_ask": 0.6,
+            "yes_ask": 0.47,
+            "no_ask": 0.54,
             "close_time": "2026-09-25T08:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTLV-26SEP24-B92.5",
             "title": "Will the maximum temperature be 92-93° on Sep 24, 2026?",
             "bracket": "92-93°",
-            "yes_ask": 0.06,
+            "yes_ask": 0.07,
             "no_ask": 0.95,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
@@ -1554,8 +490,8 @@
             "ticker": "KXHIGHLAX-26SEP24-T78",
             "title": "Will the maximum temperature be <78° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <78° on Sep 24, 2026?",
-            "yes_ask": 0.32,
-            "no_ask": 0.69,
+            "yes_ask": 0.37,
+            "no_ask": 0.64,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1564,7 +500,7 @@
             "title": "Will the maximum temperature be 84-85° on Sep 24, 2026?",
             "bracket": "84-85°",
             "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "no_ask": 0.99,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1572,8 +508,8 @@
             "ticker": "KXHIGHLAX-26SEP24-B82.5",
             "title": "Will the maximum temperature be 82-83° on Sep 24, 2026?",
             "bracket": "82-83°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1581,8 +517,8 @@
             "ticker": "KXHIGHLAX-26SEP24-B80.5",
             "title": "Will the maximum temperature be 80-81° on Sep 24, 2026?",
             "bracket": "80-81°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.19,
+            "no_ask": 0.82,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -1590,8 +526,8 @@
             "ticker": "KXHIGHLAX-26SEP24-B78.5",
             "title": "Will the maximum temperature be 78-79° on Sep 24, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.44,
-            "no_ask": 0.57,
+            "yes_ask": 0.43,
+            "no_ask": 0.58,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": true
           }
@@ -1604,8 +540,8 @@
             "ticker": "KXHIGHMIA-26SEP24-T91",
             "title": "Will the maximum temperature be >91° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be >91° on Sep 24, 2026?",
-            "yes_ask": 0.31,
-            "no_ask": 0.7,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1622,8 +558,8 @@
             "ticker": "KXHIGHMIA-26SEP24-B90.5",
             "title": "Will the maximum temperature be 90-91° on Sep 24, 2026?",
             "bracket": "90-91°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.45,
+            "no_ask": 0.56,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1631,8 +567,8 @@
             "ticker": "KXHIGHMIA-26SEP24-B88.5",
             "title": "Will the maximum temperature be 88-89° on Sep 24, 2026?",
             "bracket": "88-89°",
-            "yes_ask": 0.32,
-            "no_ask": 0.69,
+            "yes_ask": 0.3,
+            "no_ask": 0.72,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1640,8 +576,8 @@
             "ticker": "KXHIGHMIA-26SEP24-B86.5",
             "title": "Will the maximum temperature be 86-87° on Sep 24, 2026?",
             "bracket": "86-87°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.13,
+            "no_ask": 0.89,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1672,8 +608,8 @@
             "ticker": "KXHIGHTMIN-26SEP24-T63",
             "title": "Will the maximum temperature be <63° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <63° on Sep 24, 2026?",
-            "yes_ask": 0.14,
-            "no_ask": 0.89,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1690,8 +626,8 @@
             "ticker": "KXHIGHTMIN-26SEP24-B67.5",
             "title": "Will the maximum temperature be 67-68° on Sep 24, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.11,
-            "no_ask": 0.9,
+            "yes_ask": 0.09,
+            "no_ask": 0.94,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1699,8 +635,8 @@
             "ticker": "KXHIGHTMIN-26SEP24-B65.5",
             "title": "Will the maximum temperature be 65-66° on Sep 24, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.25,
+            "no_ask": 0.8,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1708,8 +644,8 @@
             "ticker": "KXHIGHTMIN-26SEP24-B63.5",
             "title": "Will the maximum temperature be 63-64° on Sep 24, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.42,
-            "no_ask": 0.59,
+            "yes_ask": 0.4,
+            "no_ask": 0.65,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1731,8 +667,8 @@
             "ticker": "KXHIGHNY-26SEP24-T66",
             "title": "Will the maximum temperature be <66° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <66° on Sep 24, 2026?",
-            "yes_ask": 0.16,
-            "no_ask": 0.85,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1749,8 +685,8 @@
             "ticker": "KXHIGHNY-26SEP24-B70.5",
             "title": "Will the maximum temperature be 70-71° on Sep 24, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.08,
-            "no_ask": 0.93,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1758,8 +694,8 @@
             "ticker": "KXHIGHNY-26SEP24-B68.5",
             "title": "Will the maximum temperature be 68-69° on Sep 24, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.33,
-            "no_ask": 0.68,
+            "yes_ask": 0.36,
+            "no_ask": 0.65,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1767,8 +703,8 @@
             "ticker": "KXHIGHNY-26SEP24-B66.5",
             "title": "Will the maximum temperature be 66-67° on Sep 24, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.45,
-            "no_ask": 0.56,
+            "yes_ask": 0.49,
+            "no_ask": 0.52,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": true
           }
@@ -1790,8 +726,8 @@
             "ticker": "KXHIGHTNOLA-26SEP24-T89",
             "title": "Will the maximum temperature be <89° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <89° on Sep 24, 2026?",
-            "yes_ask": 0.19,
-            "no_ask": 0.86,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1808,7 +744,7 @@
             "ticker": "KXHIGHTNOLA-26SEP24-B93.5",
             "title": "Will the maximum temperature be 93-94° on Sep 24, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.08,
             "no_ask": 0.95,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
@@ -1817,8 +753,8 @@
             "ticker": "KXHIGHTNOLA-26SEP24-B91.5",
             "title": "Will the maximum temperature be 91-92° on Sep 24, 2026?",
             "bracket": "91-92°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.29,
+            "no_ask": 0.72,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1826,8 +762,8 @@
             "ticker": "KXHIGHTNOLA-26SEP24-B89.5",
             "title": "Will the maximum temperature be 89-90° on Sep 24, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.48,
+            "no_ask": 0.53,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -1849,8 +785,8 @@
             "ticker": "KXHIGHTOKC-26SEP24-T89",
             "title": "Will the maximum temperature be <89° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <89° on Sep 24, 2026?",
-            "yes_ask": 0.1,
-            "no_ask": 0.92,
+            "yes_ask": 0.15,
+            "no_ask": 0.89,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1858,7 +794,7 @@
             "ticker": "KXHIGHTOKC-26SEP24-B95.5",
             "title": "Will the maximum temperature be 95-96° on Sep 24, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.07,
+            "yes_ask": 0.09,
             "no_ask": 0.94,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
@@ -1867,8 +803,8 @@
             "ticker": "KXHIGHTOKC-26SEP24-B93.5",
             "title": "Will the maximum temperature be 93-94° on Sep 24, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1877,7 +813,7 @@
             "title": "Will the maximum temperature be 91-92° on Sep 24, 2026?",
             "bracket": "91-92°",
             "yes_ask": 0.35,
-            "no_ask": 0.66,
+            "no_ask": 0.68,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -1885,8 +821,8 @@
             "ticker": "KXHIGHTOKC-26SEP24-B89.5",
             "title": "Will the maximum temperature be 89-90° on Sep 24, 2026?",
             "bracket": "89-90°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.24,
+            "no_ask": 0.79,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -1917,8 +853,8 @@
             "ticker": "KXHIGHPHIL-26SEP24-B71.5",
             "title": "Will the maximum temperature be 71-72° on Sep 24, 2026?",
             "bracket": "71-72°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.06,
+            "no_ask": 0.95,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1926,8 +862,8 @@
             "ticker": "KXHIGHPHIL-26SEP24-B69.5",
             "title": "Will the maximum temperature be 69-70° on Sep 24, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.25,
-            "no_ask": 0.78,
+            "yes_ask": 0.28,
+            "no_ask": 0.73,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -1935,8 +871,8 @@
             "ticker": "KXHIGHPHIL-26SEP24-B67.5",
             "title": "Will the maximum temperature be 67-68° on Sep 24, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.47,
-            "no_ask": 0.54,
+            "yes_ask": 0.45,
+            "no_ask": 0.56,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -1944,8 +880,8 @@
             "ticker": "KXHIGHPHIL-26SEP24-B65.5",
             "title": "Will the maximum temperature be 65-66° on Sep 24, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.22,
-            "no_ask": 0.79,
+            "yes_ask": 0.16,
+            "no_ask": 0.85,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           }
@@ -1958,8 +894,8 @@
             "ticker": "KXHIGHTPHX-26SEP24-T96",
             "title": "Will the maximum temperature be <96° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <96° on Sep 24, 2026?",
-            "yes_ask": 0.46,
-            "no_ask": 0.57,
+            "yes_ask": 0.57,
+            "no_ask": 0.49,
             "close_time": "2026-09-25T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -1976,8 +912,8 @@
             "ticker": "KXHIGHTPHX-26SEP24-B98.5",
             "title": "Will the maximum temperature be 98-99° on Sep 24, 2026?",
             "bracket": "98-99°",
-            "yes_ask": 0.24,
-            "no_ask": 0.79,
+            "yes_ask": 0.17,
+            "no_ask": 0.84,
             "close_time": "2026-09-25T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -1985,8 +921,8 @@
             "ticker": "KXHIGHTPHX-26SEP24-B96.5",
             "title": "Will the maximum temperature be 96-97° on Sep 24, 2026?",
             "bracket": "96-97°",
-            "yes_ask": 0.19,
-            "no_ask": 0.82,
+            "yes_ask": 0.17,
+            "no_ask": 0.85,
             "close_time": "2026-09-25T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -2003,8 +939,8 @@
             "ticker": "KXHIGHTPHX-26SEP24-B100.5",
             "title": "Will the maximum temperature be 100-101° on Sep 24, 2026?",
             "bracket": "100-101°",
-            "yes_ask": 0.12,
-            "no_ask": 0.89,
+            "yes_ask": 0.13,
+            "no_ask": 0.88,
             "close_time": "2026-09-25T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -2017,8 +953,8 @@
             "ticker": "KXHIGHTSATX-26SEP24-T93",
             "title": "Will the maximum temperature be <93° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <93° on Sep 24, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2036,7 +972,7 @@
             "title": "Will the maximum temperature be 99-100° on Sep 24, 2026?",
             "bracket": "99-100°",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -2053,8 +989,8 @@
             "ticker": "KXHIGHTSATX-26SEP24-B95.5",
             "title": "Will the maximum temperature be 95-96° on Sep 24, 2026?",
             "bracket": "95-96°",
-            "yes_ask": 0.46,
-            "no_ask": 0.55,
+            "yes_ask": 0.45,
+            "no_ask": 0.56,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -2062,8 +998,8 @@
             "ticker": "KXHIGHTSATX-26SEP24-B93.5",
             "title": "Will the maximum temperature be 93-94° on Sep 24, 2026?",
             "bracket": "93-94°",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.41,
+            "no_ask": 0.62,
             "close_time": "2026-09-25T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -2076,8 +1012,8 @@
             "ticker": "KXHIGHTSFO-26SEP24-T79",
             "title": "Will the maximum temperature be >79° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be >79° on Sep 24, 2026?",
-            "yes_ask": 0.09,
-            "no_ask": 0.93,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2085,8 +1021,8 @@
             "ticker": "KXHIGHTSFO-26SEP24-T72",
             "title": "Will the maximum temperature be <72° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <72° on Sep 24, 2026?",
-            "yes_ask": 0.2,
-            "no_ask": 0.83,
+            "yes_ask": 0.15,
+            "no_ask": 0.87,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2094,8 +1030,8 @@
             "ticker": "KXHIGHTSFO-26SEP24-B78.5",
             "title": "Will the maximum temperature be 78-79° on Sep 24, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.08,
-            "no_ask": 0.95,
+            "yes_ask": 0.09,
+            "no_ask": 0.92,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2103,25 +1039,25 @@
             "ticker": "KXHIGHTSFO-26SEP24-B76.5",
             "title": "Will the maximum temperature be 76-77° on Sep 24, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.25,
-            "no_ask": 0.77,
+            "yes_ask": 0.26,
+            "no_ask": 0.75,
             "close_time": "2026-09-25T08:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTSFO-26SEP24-B74.5",
             "title": "Will the maximum temperature be 74-75° on Sep 24, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.25,
-            "no_ask": 0.76,
+            "yes_ask": 0.24,
+            "no_ask": 0.77,
             "close_time": "2026-09-25T08:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTSFO-26SEP24-B72.5",
             "title": "Will the maximum temperature be 72-73° on Sep 24, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.25,
+            "yes_ask": 0.24,
             "no_ask": 0.77,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
@@ -2135,8 +1071,8 @@
             "ticker": "KXHIGHTSEA-26SEP24-T65",
             "title": "Will the maximum temperature be >65° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be >65° on Sep 24, 2026?",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2153,8 +1089,8 @@
             "ticker": "KXHIGHTSEA-26SEP24-B64.5",
             "title": "Will the maximum temperature be 64-65° on Sep 24, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.1,
-            "no_ask": 0.92,
+            "yes_ask": 0.13,
+            "no_ask": 0.89,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2162,8 +1098,8 @@
             "ticker": "KXHIGHTSEA-26SEP24-B62.5",
             "title": "Will the maximum temperature be 62-63° on Sep 24, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.43,
-            "no_ask": 0.58,
+            "yes_ask": 0.42,
+            "no_ask": 0.59,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": true
           },
@@ -2171,8 +1107,8 @@
             "ticker": "KXHIGHTSEA-26SEP24-B60.5",
             "title": "Will the maximum temperature be 60-61° on Sep 24, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.32,
-            "no_ask": 0.7,
+            "yes_ask": 0.3,
+            "no_ask": 0.71,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           },
@@ -2180,8 +1116,8 @@
             "ticker": "KXHIGHTSEA-26SEP24-B58.5",
             "title": "Will the maximum temperature be 58-59° on Sep 24, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.11,
-            "no_ask": 0.9,
+            "yes_ask": 0.15,
+            "no_ask": 0.86,
             "close_time": "2026-09-25T08:00:00Z",
             "lowest_no_ask": false
           }
@@ -2203,8 +1139,8 @@
             "ticker": "KXHIGHTDC-26SEP24-T63",
             "title": "Will the maximum temperature be <63° on Sep 24, 2026?",
             "bracket": "Will the maximum temperature be <63° on Sep 24, 2026?",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2221,8 +1157,8 @@
             "ticker": "KXHIGHTDC-26SEP24-B67.5",
             "title": "Will the maximum temperature be 67-68° on Sep 24, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.37,
+            "no_ask": 0.65,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           },
@@ -2230,8 +1166,8 @@
             "ticker": "KXHIGHTDC-26SEP24-B65.5",
             "title": "Will the maximum temperature be 65-66° on Sep 24, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.41,
-            "no_ask": 0.6,
+            "yes_ask": 0.44,
+            "no_ask": 0.57,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": true
           },
@@ -2239,13 +1175,14 @@
             "ticker": "KXHIGHTDC-26SEP24-B63.5",
             "title": "Will the maximum temperature be 63-64° on Sep 24, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.12,
+            "yes_ask": 0.1,
             "no_ask": 0.92,
             "close_time": "2026-09-25T05:00:00Z",
             "lowest_no_ask": false
           }
         ]
       }
-    }
+    },
+    "on Sep 25, 2026": {}
   }
 }
