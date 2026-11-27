@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-27T04:57:11Z",
+  "fetched_at": "2026-11-27T14:48:27Z",
   "dates": {
     "on Nov 27, 2026": {
       "Atlanta": {
@@ -9,8 +9,8 @@
             "ticker": "KXHIGHTATL-26NOV27-T54",
             "title": "Will the maximum temperature be >54° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be >54° on Nov 27, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -18,8 +18,8 @@
             "ticker": "KXHIGHTATL-26NOV27-T47",
             "title": "Will the maximum temperature be <47° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <47° on Nov 27, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -27,8 +27,8 @@
             "ticker": "KXHIGHTATL-26NOV27-B53.5",
             "title": "Will the maximum temperature be 53-54° on Nov 27, 2026?",
             "bracket": "53-54°",
-            "yes_ask": 0.14,
-            "no_ask": 0.87,
+            "yes_ask": 0.09,
+            "no_ask": 0.94,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -36,8 +36,8 @@
             "ticker": "KXHIGHTATL-26NOV27-B51.5",
             "title": "Will the maximum temperature be 51-52° on Nov 27, 2026?",
             "bracket": "51-52°",
-            "yes_ask": 0.33,
-            "no_ask": 0.7,
+            "yes_ask": 0.39,
+            "no_ask": 0.65,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -45,8 +45,8 @@
             "ticker": "KXHIGHTATL-26NOV27-B49.5",
             "title": "Will the maximum temperature be 49-50° on Nov 27, 2026?",
             "bracket": "49-50°",
-            "yes_ask": 0.41,
-            "no_ask": 0.61,
+            "yes_ask": 0.47,
+            "no_ask": 0.55,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -54,8 +54,8 @@
             "ticker": "KXHIGHTATL-26NOV27-B47.5",
             "title": "Will the maximum temperature be 47-48° on Nov 27, 2026?",
             "bracket": "47-48°",
-            "yes_ask": 0.11,
-            "no_ask": 0.91,
+            "yes_ask": 0.09,
+            "no_ask": 0.94,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -86,8 +86,8 @@
             "ticker": "KXHIGHAUS-26NOV27-B70.5",
             "title": "Will the maximum temperature be 70-71° on Nov 27, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.47,
-            "no_ask": 0.55,
+            "yes_ask": 0.35,
+            "no_ask": 0.68,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -95,8 +95,8 @@
             "ticker": "KXHIGHAUS-26NOV27-B68.5",
             "title": "Will the maximum temperature be 68-69° on Nov 27, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.51,
-            "no_ask": 0.5,
+            "yes_ask": 0.66,
+            "no_ask": 0.38,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -104,8 +104,8 @@
             "ticker": "KXHIGHAUS-26NOV27-B66.5",
             "title": "Will the maximum temperature be 66-67° on Nov 27, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.98,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -136,8 +136,8 @@
             "ticker": "KXHIGHTBOS-26NOV27-T58",
             "title": "Will the maximum temperature be <58° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <58° on Nov 27, 2026?",
-            "yes_ask": 0.52,
-            "no_ask": 0.5,
+            "yes_ask": 0.59,
+            "no_ask": 0.43,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -163,7 +163,7 @@
             "ticker": "KXHIGHTBOS-26NOV27-B60.5",
             "title": "Will the maximum temperature be 60-61° on Nov 27, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.09,
+            "yes_ask": 0.11,
             "no_ask": 0.92,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
@@ -172,8 +172,8 @@
             "ticker": "KXHIGHTBOS-26NOV27-B58.5",
             "title": "Will the maximum temperature be 58-59° on Nov 27, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.39,
-            "no_ask": 0.62,
+            "yes_ask": 0.34,
+            "no_ask": 0.68,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -186,8 +186,8 @@
             "ticker": "KXHIGHCHI-26NOV27-T50",
             "title": "Will the maximum temperature be >50° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be >50° on Nov 27, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -195,8 +195,8 @@
             "ticker": "KXHIGHCHI-26NOV27-T43",
             "title": "Will the maximum temperature be <43° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <43° on Nov 27, 2026?",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -204,8 +204,8 @@
             "ticker": "KXHIGHCHI-26NOV27-B49.5",
             "title": "Will the maximum temperature be 49-50° on Nov 27, 2026?",
             "bracket": "49-50°",
-            "yes_ask": 0.18,
-            "no_ask": 0.83,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -213,8 +213,8 @@
             "ticker": "KXHIGHCHI-26NOV27-B47.5",
             "title": "Will the maximum temperature be 47-48° on Nov 27, 2026?",
             "bracket": "47-48°",
-            "yes_ask": 0.49,
-            "no_ask": 0.52,
+            "yes_ask": 0.45,
+            "no_ask": 0.58,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -222,17 +222,17 @@
             "ticker": "KXHIGHCHI-26NOV27-B45.5",
             "title": "Will the maximum temperature be 45-46° on Nov 27, 2026?",
             "bracket": "45-46°",
-            "yes_ask": 0.34,
-            "no_ask": 0.68,
+            "yes_ask": 0.43,
+            "no_ask": 0.58,
             "close_time": "2026-11-28T07:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHCHI-26NOV27-B43.5",
             "title": "Will the maximum temperature be 43-44° on Nov 27, 2026?",
             "bracket": "43-44°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -245,8 +245,8 @@
             "ticker": "KXHIGHTDAL-26NOV27-T70",
             "title": "Will the maximum temperature be >70° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be >70° on Nov 27, 2026?",
-            "yes_ask": 0.06,
-            "no_ask": 0.95,
+            "yes_ask": 0.07,
+            "no_ask": 0.94,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -263,8 +263,8 @@
             "ticker": "KXHIGHTDAL-26NOV27-B69.5",
             "title": "Will the maximum temperature be 69-70° on Nov 27, 2026?",
             "bracket": "69-70°",
-            "yes_ask": 0.6,
-            "no_ask": 0.42,
+            "yes_ask": 0.43,
+            "no_ask": 0.58,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -272,17 +272,17 @@
             "ticker": "KXHIGHTDAL-26NOV27-B67.5",
             "title": "Will the maximum temperature be 67-68° on Nov 27, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
+            "yes_ask": 0.45,
+            "no_ask": 0.58,
             "close_time": "2026-11-28T07:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTDAL-26NOV27-B65.5",
             "title": "Will the maximum temperature be 65-66° on Nov 27, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.07,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -290,8 +290,8 @@
             "ticker": "KXHIGHTDAL-26NOV27-B63.5",
             "title": "Will the maximum temperature be 63-64° on Nov 27, 2026?",
             "bracket": "63-64°",
-            "yes_ask": 0.01,
-            "no_ask": 1.0,
+            "yes_ask": 0.03,
+            "no_ask": 0.98,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -322,26 +322,26 @@
             "ticker": "KXHIGHTHOU-26NOV27-B66.5",
             "title": "Will the maximum temperature be 66-67° on Nov 27, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.54,
-            "no_ask": 0.48,
+            "yes_ask": 0.44,
+            "no_ask": 0.6,
             "close_time": "2026-11-28T07:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           },
           {
             "ticker": "KXHIGHTHOU-26NOV27-B64.5",
             "title": "Will the maximum temperature be 64-65° on Nov 27, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.33,
-            "no_ask": 0.7,
+            "yes_ask": 0.47,
+            "no_ask": 0.58,
             "close_time": "2026-11-28T07:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHTHOU-26NOV27-B62.5",
             "title": "Will the maximum temperature be 62-63° on Nov 27, 2026?",
             "bracket": "62-63°",
             "yes_ask": 0.06,
-            "no_ask": 0.97,
+            "no_ask": 0.95,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -350,7 +350,7 @@
             "title": "Will the maximum temperature be 60-61° on Nov 27, 2026?",
             "bracket": "60-61°",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -381,8 +381,8 @@
             "ticker": "KXHIGHTLV-26NOV27-B72.5",
             "title": "Will the maximum temperature be 72-73° on Nov 27, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.04,
+            "no_ask": 0.97,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -390,8 +390,8 @@
             "ticker": "KXHIGHTLV-26NOV27-B70.5",
             "title": "Will the maximum temperature be 70-71° on Nov 27, 2026?",
             "bracket": "70-71°",
-            "yes_ask": 0.59,
-            "no_ask": 0.48,
+            "yes_ask": 0.52,
+            "no_ask": 0.51,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": true
           },
@@ -399,8 +399,8 @@
             "ticker": "KXHIGHTLV-26NOV27-B68.5",
             "title": "Will the maximum temperature be 68-69° on Nov 27, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.4,
-            "no_ask": 0.61,
+            "yes_ask": 0.49,
+            "no_ask": 0.55,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -408,8 +408,8 @@
             "ticker": "KXHIGHTLV-26NOV27-B66.5",
             "title": "Will the maximum temperature be 66-67° on Nov 27, 2026?",
             "bracket": "66-67°",
-            "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "yes_ask": 0.03,
+            "no_ask": 0.99,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           }
@@ -422,8 +422,8 @@
             "ticker": "KXHIGHLAX-26NOV27-T84",
             "title": "Will the maximum temperature be >84° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be >84° on Nov 27, 2026?",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
+            "yes_ask": 0.08,
+            "no_ask": 0.94,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -440,8 +440,8 @@
             "ticker": "KXHIGHLAX-26NOV27-B83.5",
             "title": "Will the maximum temperature be 83-84° on Nov 27, 2026?",
             "bracket": "83-84°",
-            "yes_ask": 0.33,
-            "no_ask": 0.69,
+            "yes_ask": 0.47,
+            "no_ask": 0.57,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": true
           },
@@ -449,8 +449,8 @@
             "ticker": "KXHIGHLAX-26NOV27-B81.5",
             "title": "Will the maximum temperature be 81-82° on Nov 27, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.31,
-            "no_ask": 0.72,
+            "yes_ask": 0.38,
+            "no_ask": 0.64,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -458,8 +458,8 @@
             "ticker": "KXHIGHLAX-26NOV27-B79.5",
             "title": "Will the maximum temperature be 79-80° on Nov 27, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.09,
-            "no_ask": 0.92,
+            "yes_ask": 0.11,
+            "no_ask": 0.9,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -467,8 +467,8 @@
             "ticker": "KXHIGHLAX-26NOV27-B77.5",
             "title": "Will the maximum temperature be 77-78° on Nov 27, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           }
@@ -490,7 +490,7 @@
             "ticker": "KXHIGHMIA-26NOV27-T72",
             "title": "Will the maximum temperature be <72° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <72° on Nov 27, 2026?",
-            "yes_ask": 0.03,
+            "yes_ask": 0.02,
             "no_ask": 0.99,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
@@ -499,8 +499,8 @@
             "ticker": "KXHIGHMIA-26NOV27-B78.5",
             "title": "Will the maximum temperature be 78-79° on Nov 27, 2026?",
             "bracket": "78-79°",
-            "yes_ask": 0.03,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -508,7 +508,7 @@
             "ticker": "KXHIGHMIA-26NOV27-B76.5",
             "title": "Will the maximum temperature be 76-77° on Nov 27, 2026?",
             "bracket": "76-77°",
-            "yes_ask": 0.15,
+            "yes_ask": 0.17,
             "no_ask": 0.86,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
@@ -517,8 +517,8 @@
             "ticker": "KXHIGHMIA-26NOV27-B74.5",
             "title": "Will the maximum temperature be 74-75° on Nov 27, 2026?",
             "bracket": "74-75°",
-            "yes_ask": 0.72,
-            "no_ask": 0.29,
+            "yes_ask": 0.71,
+            "no_ask": 0.3,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": true
           },
@@ -526,8 +526,8 @@
             "ticker": "KXHIGHMIA-26NOV27-B72.5",
             "title": "Will the maximum temperature be 72-73° on Nov 27, 2026?",
             "bracket": "72-73°",
-            "yes_ask": 0.13,
-            "no_ask": 0.89,
+            "yes_ask": 0.12,
+            "no_ask": 0.9,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           }
@@ -550,7 +550,7 @@
             "title": "Will the maximum temperature be <40° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <40° on Nov 27, 2026?",
             "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -558,8 +558,8 @@
             "ticker": "KXHIGHTMIN-26NOV27-B46.5",
             "title": "Will the maximum temperature be 46-47° on Nov 27, 2026?",
             "bracket": "46-47°",
-            "yes_ask": 0.07,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.96,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -567,8 +567,8 @@
             "ticker": "KXHIGHTMIN-26NOV27-B44.5",
             "title": "Will the maximum temperature be 44-45° on Nov 27, 2026?",
             "bracket": "44-45°",
-            "yes_ask": 0.34,
-            "no_ask": 0.67,
+            "yes_ask": 0.35,
+            "no_ask": 0.66,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -576,8 +576,8 @@
             "ticker": "KXHIGHTMIN-26NOV27-B42.5",
             "title": "Will the maximum temperature be 42-43° on Nov 27, 2026?",
             "bracket": "42-43°",
-            "yes_ask": 0.52,
-            "no_ask": 0.54,
+            "yes_ask": 0.56,
+            "no_ask": 0.45,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -586,7 +586,7 @@
             "title": "Will the maximum temperature be 40-41° on Nov 27, 2026?",
             "bracket": "40-41°",
             "yes_ask": 0.09,
-            "no_ask": 0.94,
+            "no_ask": 0.95,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -608,8 +608,8 @@
             "ticker": "KXHIGHNY-26NOV27-T57",
             "title": "Will the maximum temperature be <57° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <57° on Nov 27, 2026?",
-            "yes_ask": 0.44,
-            "no_ask": 0.57,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -635,8 +635,8 @@
             "ticker": "KXHIGHNY-26NOV27-B59.5",
             "title": "Will the maximum temperature be 59-60° on Nov 27, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.03,
-            "no_ask": 0.98,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -644,8 +644,8 @@
             "ticker": "KXHIGHNY-26NOV27-B57.5",
             "title": "Will the maximum temperature be 57-58° on Nov 27, 2026?",
             "bracket": "57-58°",
-            "yes_ask": 0.58,
-            "no_ask": 0.43,
+            "yes_ask": 0.99,
+            "no_ask": 0.02,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": true
           }
@@ -676,8 +676,8 @@
             "ticker": "KXHIGHTNOLA-26NOV27-B60.5",
             "title": "Will the maximum temperature be 60-61° on Nov 27, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.08,
-            "no_ask": 0.95,
+            "yes_ask": 0.02,
+            "no_ask": 0.99,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -685,26 +685,26 @@
             "ticker": "KXHIGHTNOLA-26NOV27-B58.5",
             "title": "Will the maximum temperature be 58-59° on Nov 27, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.47,
-            "no_ask": 0.54,
-            "close_time": "2026-11-28T07:00:00Z",
-            "lowest_no_ask": true
-          },
-          {
-            "ticker": "KXHIGHTNOLA-26NOV27-B56.5",
-            "title": "Will the maximum temperature be 56-57° on Nov 27, 2026?",
-            "bracket": "56-57°",
             "yes_ask": 0.38,
             "no_ask": 0.63,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
           {
+            "ticker": "KXHIGHTNOLA-26NOV27-B56.5",
+            "title": "Will the maximum temperature be 56-57° on Nov 27, 2026?",
+            "bracket": "56-57°",
+            "yes_ask": 0.53,
+            "no_ask": 0.53,
+            "close_time": "2026-11-28T07:00:00Z",
+            "lowest_no_ask": true
+          },
+          {
             "ticker": "KXHIGHTNOLA-26NOV27-B54.5",
             "title": "Will the maximum temperature be 54-55° on Nov 27, 2026?",
             "bracket": "54-55°",
             "yes_ask": 0.07,
-            "no_ask": 0.96,
+            "no_ask": 0.94,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -735,8 +735,8 @@
             "ticker": "KXHIGHTOKC-26NOV27-B64.5",
             "title": "Will the maximum temperature be 64-65° on Nov 27, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.31,
-            "no_ask": 0.73,
+            "yes_ask": 0.2,
+            "no_ask": 0.81,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -744,8 +744,8 @@
             "ticker": "KXHIGHTOKC-26NOV27-B62.5",
             "title": "Will the maximum temperature be 62-63° on Nov 27, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.57,
-            "no_ask": 0.44,
+            "yes_ask": 0.5,
+            "no_ask": 0.54,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -753,8 +753,8 @@
             "ticker": "KXHIGHTOKC-26NOV27-B60.5",
             "title": "Will the maximum temperature be 60-61° on Nov 27, 2026?",
             "bracket": "60-61°",
-            "yes_ask": 0.11,
-            "no_ask": 0.91,
+            "yes_ask": 0.31,
+            "no_ask": 0.74,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -785,8 +785,8 @@
             "ticker": "KXHIGHPHIL-26NOV27-T57",
             "title": "Will the maximum temperature be <57° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <57° on Nov 27, 2026?",
-            "yes_ask": 0.33,
-            "no_ask": 0.73,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -803,8 +803,8 @@
             "ticker": "KXHIGHPHIL-26NOV27-B61.5",
             "title": "Will the maximum temperature be 61-62° on Nov 27, 2026?",
             "bracket": "61-62°",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -812,19 +812,19 @@
             "ticker": "KXHIGHPHIL-26NOV27-B59.5",
             "title": "Will the maximum temperature be 59-60° on Nov 27, 2026?",
             "bracket": "59-60°",
-            "yes_ask": 0.15,
-            "no_ask": 0.86,
+            "yes_ask": 1.0,
+            "no_ask": 0.01,
             "close_time": "2026-11-28T06:00:00Z",
-            "lowest_no_ask": false
+            "lowest_no_ask": true
           },
           {
             "ticker": "KXHIGHPHIL-26NOV27-B57.5",
             "title": "Will the maximum temperature be 57-58° on Nov 27, 2026?",
             "bracket": "57-58°",
-            "yes_ask": 0.48,
-            "no_ask": 0.62,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
-            "lowest_no_ask": true
+            "lowest_no_ask": false
           }
         ]
       },
@@ -853,8 +853,8 @@
             "ticker": "KXHIGHTPHX-26NOV27-B81.5",
             "title": "Will the maximum temperature be 81-82° on Nov 27, 2026?",
             "bracket": "81-82°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -862,8 +862,8 @@
             "ticker": "KXHIGHTPHX-26NOV27-B79.5",
             "title": "Will the maximum temperature be 79-80° on Nov 27, 2026?",
             "bracket": "79-80°",
-            "yes_ask": 0.4,
-            "no_ask": 0.64,
+            "yes_ask": 0.25,
+            "no_ask": 0.76,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -871,8 +871,8 @@
             "ticker": "KXHIGHTPHX-26NOV27-B77.5",
             "title": "Will the maximum temperature be 77-78° on Nov 27, 2026?",
             "bracket": "77-78°",
-            "yes_ask": 0.58,
-            "no_ask": 0.43,
+            "yes_ask": 0.72,
+            "no_ask": 0.29,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
           },
@@ -880,7 +880,7 @@
             "ticker": "KXHIGHTPHX-26NOV27-B75.5",
             "title": "Will the maximum temperature be 75-76° on Nov 27, 2026?",
             "bracket": "75-76°",
-            "yes_ask": 0.03,
+            "yes_ask": 0.05,
             "no_ask": 0.98,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
@@ -894,8 +894,8 @@
             "ticker": "KXHIGHTSATX-26NOV27-T68",
             "title": "Will the maximum temperature be >68° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be >68° on Nov 27, 2026?",
-            "yes_ask": 0.05,
-            "no_ask": 0.96,
+            "yes_ask": 0.08,
+            "no_ask": 0.93,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -912,7 +912,7 @@
             "ticker": "KXHIGHTSATX-26NOV27-B67.5",
             "title": "Will the maximum temperature be 67-68° on Nov 27, 2026?",
             "bracket": "67-68°",
-            "yes_ask": 0.68,
+            "yes_ask": 0.7,
             "no_ask": 0.33,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": true
@@ -921,8 +921,8 @@
             "ticker": "KXHIGHTSATX-26NOV27-B65.5",
             "title": "Will the maximum temperature be 65-66° on Nov 27, 2026?",
             "bracket": "65-66°",
-            "yes_ask": 0.27,
-            "no_ask": 0.74,
+            "yes_ask": 0.29,
+            "no_ask": 0.77,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -931,7 +931,7 @@
             "title": "Will the maximum temperature be 63-64° on Nov 27, 2026?",
             "bracket": "63-64°",
             "yes_ask": 0.04,
-            "no_ask": 0.98,
+            "no_ask": 0.99,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           },
@@ -939,8 +939,8 @@
             "ticker": "KXHIGHTSATX-26NOV27-B61.5",
             "title": "Will the maximum temperature be 61-62° on Nov 27, 2026?",
             "bracket": "61-62°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T07:00:00Z",
             "lowest_no_ask": false
           }
@@ -962,8 +962,8 @@
             "ticker": "KXHIGHTSFO-26NOV27-T62",
             "title": "Will the maximum temperature be <62° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <62° on Nov 27, 2026?",
-            "yes_ask": 0.24,
-            "no_ask": 0.82,
+            "yes_ask": 0.14,
+            "no_ask": 0.87,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -971,8 +971,8 @@
             "ticker": "KXHIGHTSFO-26NOV27-B68.5",
             "title": "Will the maximum temperature be 68-69° on Nov 27, 2026?",
             "bracket": "68-69°",
-            "yes_ask": 0.02,
-            "no_ask": 0.99,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -989,8 +989,8 @@
             "ticker": "KXHIGHTSFO-26NOV27-B64.5",
             "title": "Will the maximum temperature be 64-65° on Nov 27, 2026?",
             "bracket": "64-65°",
-            "yes_ask": 0.36,
-            "no_ask": 0.66,
+            "yes_ask": 0.38,
+            "no_ask": 0.65,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -998,8 +998,8 @@
             "ticker": "KXHIGHTSFO-26NOV27-B62.5",
             "title": "Will the maximum temperature be 62-63° on Nov 27, 2026?",
             "bracket": "62-63°",
-            "yes_ask": 0.36,
-            "no_ask": 0.65,
+            "yes_ask": 0.41,
+            "no_ask": 0.61,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": true
           }
@@ -1030,8 +1030,8 @@
             "ticker": "KXHIGHTSEA-26NOV27-B52.5",
             "title": "Will the maximum temperature be 52-53° on Nov 27, 2026?",
             "bracket": "52-53°",
-            "yes_ask": 0.21,
-            "no_ask": 0.8,
+            "yes_ask": 0.22,
+            "no_ask": 0.79,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -1039,8 +1039,8 @@
             "ticker": "KXHIGHTSEA-26NOV27-B50.5",
             "title": "Will the maximum temperature be 50-51° on Nov 27, 2026?",
             "bracket": "50-51°",
-            "yes_ask": 0.71,
-            "no_ask": 0.3,
+            "yes_ask": 0.72,
+            "no_ask": 0.31,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": true
           },
@@ -1048,8 +1048,8 @@
             "ticker": "KXHIGHTSEA-26NOV27-B48.5",
             "title": "Will the maximum temperature be 48-49° on Nov 27, 2026?",
             "bracket": "48-49°",
-            "yes_ask": 0.08,
-            "no_ask": 0.94,
+            "yes_ask": 0.05,
+            "no_ask": 0.97,
             "close_time": "2026-11-28T09:00:00Z",
             "lowest_no_ask": false
           },
@@ -1080,8 +1080,8 @@
             "ticker": "KXHIGHTDC-26NOV27-T54",
             "title": "Will the maximum temperature be <54° on Nov 27, 2026?",
             "bracket": "Will the maximum temperature be <54° on Nov 27, 2026?",
-            "yes_ask": 0.15,
-            "no_ask": 0.89,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1098,8 +1098,8 @@
             "ticker": "KXHIGHTDC-26NOV27-B58.5",
             "title": "Will the maximum temperature be 58-59° on Nov 27, 2026?",
             "bracket": "58-59°",
-            "yes_ask": 0.04,
-            "no_ask": 0.97,
+            "yes_ask": 0.01,
+            "no_ask": 1.0,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1107,8 +1107,8 @@
             "ticker": "KXHIGHTDC-26NOV27-B56.5",
             "title": "Will the maximum temperature be 56-57° on Nov 27, 2026?",
             "bracket": "56-57°",
-            "yes_ask": 0.09,
-            "no_ask": 0.93,
+            "yes_ask": 0.14,
+            "no_ask": 0.88,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": false
           },
@@ -1116,8 +1116,8 @@
             "ticker": "KXHIGHTDC-26NOV27-B54.5",
             "title": "Will the maximum temperature be 54-55° on Nov 27, 2026?",
             "bracket": "54-55°",
-            "yes_ask": 0.82,
-            "no_ask": 0.3,
+            "yes_ask": 0.87,
+            "no_ask": 0.16,
             "close_time": "2026-11-28T06:00:00Z",
             "lowest_no_ask": true
           }
